@@ -1,0 +1,7 @@
+caracteristica,minimo,maximo,rho_mcar_05,rho_mcar_10,rho_mcar_20,rho_mcar_30,rho_mcar_40,rho_mcar_50
+Número de observações,0.531,0.699,0.685,0.601,0.58,0.615,0.699,0.531
+Assimetria absoluta média,0.392,0.671,0.427,0.399,0.392,0.517,0.671,0.552
+Heterogeneidade do rácio amplitude/desvio-padrão,0.364,0.573,0.364,0.371,0.378,0.413,0.552,0.573
+Número de variáveis,0.144,0.387,0.144,0.285,0.342,0.387,0.384,0.19
+Proporção de variáveis categóricas,-0.007,0.225,0.225,0.094,-0.007,0.073,0.138,0.015
+Correlação absoluta média,-0.14,0.161,0.161,0.07,0.021,-0.112,-0.14,-0.119

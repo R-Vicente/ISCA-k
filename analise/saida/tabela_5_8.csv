@@ -1,0 +1,7 @@
+method,missing_wasserstein_sd_mcar_20,missing_wasserstein_sd_mcar_40,missing_total_variation_mcar_20,missing_total_variation_mcar_40,pearson_mae_mcar_20,pearson_mae_mcar_40,R_mcar_20,R_mcar_40
+Mean/Mode,0.7778,0.7772,0.391,0.3916,0.0815,0.1577,0.0,0.0
+k-NN,0.3131,0.3735,0.1264,0.148,0.0313,0.0629,0.6271,0.5393
+MICE,0.2765,0.2814,0.2572,0.2475,0.0325,0.062,0.7498,0.752
+missForest,0.2096,0.1942,0.0751,0.0759,0.027,0.0559,0.8011,0.8174
+SoftImpute,0.4196,0.4507,0.3377,0.307,0.0226,0.0408,0.47,0.4288
+ISCA-k,0.2432,0.2653,0.0935,0.1042,0.0291,0.0579,0.7191,0.6738

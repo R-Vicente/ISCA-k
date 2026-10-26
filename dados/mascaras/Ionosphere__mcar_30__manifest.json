@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_30",
+    "kind": "mcar",
+    "prop": 0.3
+  },
+  "dataset_id": "Ionosphere",
+  "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+  "mask_bundle_file": "Ionosphere__mcar_30__masks.npz",
+  "mask_bundle_sha256": "ab9d744558efd16218eac9e710915bf25434e9eb2b3e0b6fabc8fedb3bb93866",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3032512150159209,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "df54ecaaa3e6f0ef5735efddda0703b6a9f30585bd910abc046c63dc330f333c",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 3,
+      "missing_count": 3619,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30015082956259426,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d1e5ab4796825407f7beaa46533680175c5eeb6c948d38d488d6b2da689f6fe5",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 21,
+      "min_missing_per_col": 84,
+      "min_missing_per_row": 3,
+      "missing_count": 3582,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30484330484330485,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a9094cd738498576456bee8d1e1222f7c24a4a45c529e49505e80fb0c6a9a7d0",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 94,
+      "min_missing_per_row": 3,
+      "missing_count": 3638,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30132394838277193,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "38302fe1d765ae03db25a0a30ee0ddbc1d681ffea2358c8ce82cb57d49a66e96",
+      "max_missing_per_col": 118,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 92,
+      "min_missing_per_row": 3,
+      "missing_count": 3596,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30710574828221887,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "46d45c3aa564244cc9d7f932ed39288b924bd87049b63a39aff82d87f6e987ac",
+      "max_missing_per_col": 126,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 3,
+      "missing_count": 3665,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2827216356628121,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0b45af558dea1e6d34af447470a55fda1160541f60e76061952f3ad3613c057f",
+      "max_missing_per_col": 111,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 74,
+      "min_missing_per_row": 2,
+      "missing_count": 3374,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29587732528909,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d4326e8db05b0d78e567b318756c2de05d7cbea035de51d7ef08495597a72845",
+      "max_missing_per_col": 118,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 4,
+      "missing_count": 3531,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.298139768728004,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "74dfd73f6c51a4b427e71620ebddd5fb142129233496c4c819c2d86ee358f1f6",
+      "max_missing_per_col": 117,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 1,
+      "missing_count": 3558,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29495558907323616,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "499374c7fd1e65c44d3197f9e881c0c41f34ffd2f9e03e21e60e8310f77461d4",
+      "max_missing_per_col": 120,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 81,
+      "min_missing_per_row": 3,
+      "missing_count": 3520,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30132394838277193,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "145d9659465c9561cf7f40cd18258a1faf4c26c14f504e5c987568a5dc1b303d",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 83,
+      "min_missing_per_row": 4,
+      "missing_count": 3596,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30232947880006705,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3e85f1d45dc45d7ddfbb5ed541c9ee90b179ea69158855063f3a1d8b55306d86",
+      "max_missing_per_col": 131,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 3,
+      "missing_count": 3608,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3030836266130384,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a844a6d984721bac7b514a7c796544dc5602bc6ae7425af908b03463829639c6",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 4,
+      "missing_count": 3617,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3017429193899782,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1669efbb77253a6ada9de3437760c56f3de311422ca2f7a80062fdb6a65a95e0",
+      "max_missing_per_col": 118,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 2,
+      "missing_count": 3601,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30149153678565443,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f3b4d89036e21f09bd538ecf8b692ed98bef4e24d7bcb25eb42df663659f9e8f",
+      "max_missing_per_col": 129,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 89,
+      "min_missing_per_row": 3,
+      "missing_count": 3598,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29654767890062006,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ef7f66742a7dd3c49a44c25c0bada5704591d44e861bc711cc5c1255d375d423",
+      "max_missing_per_col": 127,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 85,
+      "min_missing_per_row": 3,
+      "missing_count": 3539,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2996480643539467,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c67aad8f3689617a5404791b04ef77bddada641ae4218d73222b8e3a4acb6ff0",
+      "max_missing_per_col": 127,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 3,
+      "missing_count": 3576,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30626780626780625,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0ecf308ee26a622a6e63d3457a5c0960456d1d4c50a321669c45fc72f78578ed",
+      "max_missing_per_col": 128,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 4,
+      "missing_count": 3655,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2944528238645886,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cf65c755fc0fc80540c243d4017cfcdb0d78ed34683ad46fd699b7dc57df074e",
+      "max_missing_per_col": 128,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 77,
+      "min_missing_per_row": 3,
+      "missing_count": 3514,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3032512150159209,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4c4ce988e4bb9152d3199adaca45f83b0f7e0f07465f64dc02c0241efead23eb",
+      "max_missing_per_col": 123,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 2,
+      "missing_count": 3619,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2971342383107089,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3e40ac8e0716fc4f118912729313a4140762d757cd99fc0645df016edc15d763",
+      "max_missing_per_col": 119,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 2,
+      "missing_count": 3546,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30383777442600973,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "026e61be156315b0e0cbf121e1f00fe801f7894a8326d135b96132015155ed44",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 93,
+      "min_missing_per_row": 3,
+      "missing_count": 3626,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2975532093179152,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d93e97663701baf8d0db590b98602141ec667e033b1f17f06002c19cb2759b95",
+      "max_missing_per_col": 131,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 85,
+      "min_missing_per_row": 4,
+      "missing_count": 3551,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30375398022456845,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "605b7a82d27cbefe24bcbb3e8cafc0ccfd688a30423b2739f5dfd2dd7b0dc2f2",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 95,
+      "min_missing_per_row": 4,
+      "missing_count": 3625,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3005698005698006,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "37a6e83c9dc9f282269b454c765b26f3972a30863b9a717f21087ba36144cf5f",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 4,
+      "missing_count": 3587,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2988101223395341,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ec9297d50b5440961c4a1ee7ac2d8fca4984204add546f894da327b6ff2e5ee5",
+      "max_missing_per_col": 118,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 4,
+      "missing_count": 3566,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.298139768728004,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b65a284f14e75f8acab4035f05564228984fd5596a9f550ad04d7d1422801037",
+      "max_missing_per_col": 115,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 92,
+      "min_missing_per_row": 3,
+      "missing_count": 3558,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3032512150159209,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e52abfcc699b5d48dbfb7ad91e63e710df02e9e4b1cd392baa25c7cf33092883",
+      "max_missing_per_col": 130,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 94,
+      "min_missing_per_row": 4,
+      "missing_count": 3619,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30258086140439083,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4d950a5d588e6ef05b43e118574157d9ef4afee69e4b44e22fb544d327301e7d",
+      "max_missing_per_col": 128,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 4,
+      "missing_count": 3611,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2994804759510642,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "af9fe8e7b2437345b4d4e845897d0523dc3f9aefb0010c814f889b97a73860b8",
+      "max_missing_per_col": 124,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 4,
+      "missing_count": 3574,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3036701860231272,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0afd69de9d1ecdadda20fba36e800bd26c840afe6c1aea050e83f2107c82face",
+      "max_missing_per_col": 126,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 3,
+      "missing_count": 3624,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2962962962962963,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "aa7a8b69d3904fe5b31f4861bc70d4be51e4fc045180922f941c2bc6839f296d",
+      "max_missing_per_col": 115,
+      "max_missing_per_row": 21,
+      "min_missing_per_col": 78,
+      "min_missing_per_row": 4,
+      "missing_count": 3536,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30040221216691804,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7bdeb7b9ac1f02a21eb0679157b3e78ce871276ef8289434886ff722c3e2a77e",
+      "max_missing_per_col": 124,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 3,
+      "missing_count": 3585,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2922741746271158,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0dbc4aba563e60895d439e62da81f2ec6eee8e63fa200885715dbfd63c3d09bd",
+      "max_missing_per_col": 116,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 86,
+      "min_missing_per_row": 2,
+      "missing_count": 3488,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30124015418133065,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6da40c9416f4f624cf83e9a1e426c37adfc635b59a5ebe59b49bea637909b7bc",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 3,
+      "missing_count": 3595,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29638009049773756,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "581f2ce197df323a4152630f247e8e9f66a60bee59173417066d366d35045068",
+      "max_missing_per_col": 120,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 84,
+      "min_missing_per_row": 4,
+      "missing_count": 3537,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30618401206636503,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "193462142559f8ad8bac2e073642559b6a6eae04498fa6df1a1f4e2b953da6c9",
+      "max_missing_per_col": 132,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 93,
+      "min_missing_per_row": 4,
+      "missing_count": 3654,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29663147310206134,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "736996aaaac2a0080ea863049f281accd94184a98e56d58c629589808c9c3b63",
+      "max_missing_per_col": 117,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 4,
+      "missing_count": 3540,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.298139768728004,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "088d254aa636f34592b8096d2a41eea687b4c488d34028b9fdddb79a0f2089e1",
+      "max_missing_per_col": 131,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 4,
+      "missing_count": 3558,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3008211831741244,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3325d6143595aa7bfc10bfa12eb04213cbf875853624f9753ef499e3577fb52a",
+      "max_missing_per_col": 130,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 92,
+      "min_missing_per_row": 4,
+      "missing_count": 3590,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2984749455337691,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4f6fbb0d17e745edab9d2ed10fe33d081cb322e49eb90f981ef956f87eb3214e",
+      "max_missing_per_col": 120,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 94,
+      "min_missing_per_row": 2,
+      "missing_count": 3562,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29529076587900116,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d4494219bcc9bdc9ae41ce6bccd824de1972b59c576fe2d5acb8a430cfb273f4",
+      "max_missing_per_col": 127,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 83,
+      "min_missing_per_row": 2,
+      "missing_count": 3524,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29897771074241664,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a4d8d6d1db78470434bd9ce2d974b72afde74cb9215962f1312b91456f69f39e",
+      "max_missing_per_col": 126,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 83,
+      "min_missing_per_row": 3,
+      "missing_count": 3568,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3028322440087146,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7676c159fe0e7713caff767cc5460860c5d9ee76fc78cf82c95d176dd4d4b8b0",
+      "max_missing_per_col": 127,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 3,
+      "missing_count": 3614,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3035025976202447,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7b217d5ea54edbbb49f32854234927d761977ced0d685ce1e4feae0234075ff7",
+      "max_missing_per_col": 127,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 5,
+      "missing_count": 3622,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29403385285738226,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ad9e3625319ca9df2969eb9e2a023382e936389281f083d9cbf96c2483fcfd68",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 85,
+      "min_missing_per_row": 3,
+      "missing_count": 3509,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3033350092173622,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "88a0596888bc3bd8aa0eddbb58b3f7092007bf2958a176abb42e898febe07eba",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 92,
+      "min_missing_per_row": 3,
+      "missing_count": 3620,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2994804759510642,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4b908ca00a55b29d05d5c874ee49277b7a76cb256263cafa5fec08b1ae4f0908",
+      "max_missing_per_col": 127,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 4,
+      "missing_count": 3574,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29931288754818164,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8d843b820fe46ee72cf7ef499f3db2b64dbfbe5b0a50d22c717340a8c0300a32",
+      "max_missing_per_col": 124,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 82,
+      "min_missing_per_row": 2,
+      "missing_count": 3572,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2994804759510642,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "af9d8655770ee85cd749da2c678471ad2783726a7ecc57df0ded6b7e7219a529",
+      "max_missing_per_col": 119,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 93,
+      "min_missing_per_row": 3,
+      "missing_count": 3574,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3034188034188034,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "44e2d626aedc1cba03963cbdee0e3e5fb35fea58041b7822075794ecc3d73531",
+      "max_missing_per_col": 130,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 89,
+      "min_missing_per_row": 2,
+      "missing_count": 3621,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30635160046924753,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "000d663b99592bacccb4d0225e5e649fb77e64c43f2e6656cd35b4d675bffa90",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 23,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 2,
+      "missing_count": 3656,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29654767890062006,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9288bff846ddcacc8b127eaf43b9b145977c6faad974cc8da1b202f8b34a5437",
+      "max_missing_per_col": 118,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 84,
+      "min_missing_per_row": 2,
+      "missing_count": 3539,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2967152673035026,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2419a1d87491492a23474fe348e45f0e396a4589a97e5ce60e9e0630fbd51cbb",
+      "max_missing_per_col": 124,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 4,
+      "missing_count": 3541,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29763700351935646,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "902c5c5d3d05225d65ffdb824dcf7de304912128ddd19dcb546664aa0dbf186c",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 89,
+      "min_missing_per_row": 3,
+      "missing_count": 3552,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3034188034188034,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "57c2ee692a9d4c4cb77cfa4dd23dca82767e1d8991c2697840d506b487b0a366",
+      "max_missing_per_col": 123,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 3,
+      "missing_count": 3621,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3003184179654768,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b5fca60a80c682b62aaf3c8bfef68ff906f09f3bc17db9f6b56232eae67df52e",
+      "max_missing_per_col": 123,
+      "max_missing_per_row": 21,
+      "min_missing_per_col": 84,
+      "min_missing_per_row": 3,
+      "missing_count": 3584,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2961287078934138,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bb729cacd4693a76a3b250712aac251462a903738571f77effd63faa0e2f7c65",
+      "max_missing_per_col": 134,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 84,
+      "min_missing_per_row": 3,
+      "missing_count": 3534,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2983911513323278,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7e938d4c9e1e759c72ed01efeeb01a91458c86c6ab05b45451108580346c6ae2",
+      "max_missing_per_col": 119,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 81,
+      "min_missing_per_row": 4,
+      "missing_count": 3561,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29981565275682925,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "722acd713273f1f043789731e88bab5d9a758fb3e9a453cf05b89154ba198faa",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 2,
+      "missing_count": 3578,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3009049773755656,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3e7ca0441d937714e6a9f69c3cb5cf928ddeb110595ee3a0753dc1f121bc1dfd",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 3,
+      "missing_count": 3591,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.3022456845986258,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c9ca17bf32e195f85eb527d213a42d625b942cd7318233effa0eac4baa4e2983",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 3,
+      "missing_count": 3607,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29638009049773756,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "80f95197501a2cf119f1c47f94cff2c2a75aecaad412fe0a47877d684178a47c",
+      "max_missing_per_col": 126,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 85,
+      "min_missing_per_row": 4,
+      "missing_count": 3537,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30124015418133065,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "17804c3a89e0d1b8ae9e85d8b3462130f81a4203c8f6a7a8ac190fcf5f7dc24e",
+      "max_missing_per_col": 119,
+      "max_missing_per_row": 21,
+      "min_missing_per_col": 93,
+      "min_missing_per_row": 2,
+      "missing_count": 3595,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30124015418133065,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "984c612a14299379f1445b014a24664251b63d69cb261a7821bfadc561b9a78b",
+      "max_missing_per_col": 120,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 93,
+      "min_missing_per_row": 2,
+      "missing_count": 3595,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2984749455337691,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ddc22f2c3832e43dd7d012b948d254142701871f58c4a70020b0d8a8930a35b2",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 87,
+      "min_missing_per_row": 3,
+      "missing_count": 3562,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2992290933467404,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "52c3f7d75ac452dbe143679818c41dc3d4307676503dd16577720bad97f1c755",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 3,
+      "missing_count": 3571,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2979721803251215,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "25c34a0e2a674c45a8ec2bd418b4ed2feec92f8ed0b72b4282a4c894539057b6",
+      "max_missing_per_col": 124,
+      "max_missing_per_row": 22,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 4,
+      "missing_count": 3556,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30165912518853694,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7bf1fb3b75ce0b1e2faa3f7aab3aa15214b9a3d0513122d868842783a25d71c8",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 91,
+      "min_missing_per_row": 2,
+      "missing_count": 3600,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2996480643539467,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8e766972ddf2ece39b0cac41896087161a9f6e02ac7cfb20f4cefe0add363d1c",
+      "max_missing_per_col": 121,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 4,
+      "missing_count": 3576,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2921065862242333,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "26550df9a663d4ea69e89a694777c64bdd09a1879a48893b53cf35eaf318940e",
+      "max_missing_per_col": 132,
+      "max_missing_per_row": 22,
+      "min_missing_per_col": 82,
+      "min_missing_per_row": 3,
+      "missing_count": 3486,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.30132394838277193,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "495fd441a45fc4e79bbf06eaaf0250d133f149590edbef9524dac817a88ef29f",
+      "max_missing_per_col": 134,
+      "max_missing_per_row": 20,
+      "min_missing_per_col": 88,
+      "min_missing_per_row": 3,
+      "missing_count": 3596,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2984749455337691,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a9f3780857cf7b1405a631938aaea8681264f5d1c7928038b0ee42f8225b735b",
+      "max_missing_per_col": 122,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 84,
+      "min_missing_per_row": 3,
+      "missing_count": 3562,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2957097368862075,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b4ec75a2d483b0c676866109fd6b29ecf2a981a4be2c923e4afed82334d8f3f9",
+      "max_missing_per_col": 116,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 89,
+      "min_missing_per_row": 3,
+      "missing_count": 3529,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.29906150494385786,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b90f3a65d851fe01b9a58e8906f6c0ede9e3f150cdc3c60c9d81297c04213d82",
+      "max_missing_per_col": 123,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 2,
+      "missing_count": 3569,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        351,
+        34
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Ionosphere",
+      "dataset_sha256": "57cfbc5a784d8faaa94d8cfdf4298b32f5b90cca24f653b0f4ff01ed474906a1",
+      "effective_rate": 0.2979721803251215,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d736063a81796647555fbf2f245f7301baa91eb70967a3bfbed5b0d68c437dc3",
+      "max_missing_per_col": 125,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 90,
+      "min_missing_per_row": 2,
+      "missing_count": 3556,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        351,
+        34
+      ]
+    }
+  ]
+}

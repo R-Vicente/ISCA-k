@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_50",
+    "kind": "mcar",
+    "prop": 0.5
+  },
+  "dataset_id": "California Housing",
+  "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+  "mask_bundle_file": "California_Housing__mcar_50__masks.npz",
+  "mask_bundle_sha256": "0ccfc74d4a5c08aa1e562241de56ec684bb192d027e7c953521a3a33e2516de8",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4981891957364341,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "934587d1bfccd905eec5cd65ac3ed78a2e6f931f35a106813bfc755ae81b2fcc",
+      "max_missing_per_col": 10344,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10195,
+      "min_missing_per_row": 0,
+      "missing_count": 82261,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5001453488372093,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "89a5504c3f9f6447ffd90d6253d96f6efd696b73dfa45cde8c2b22ca3197ba23",
+      "max_missing_per_col": 10396,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10212,
+      "min_missing_per_row": 0,
+      "missing_count": 82584,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5003209786821705,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5afc6558b856fead0bb7d00753a6586d0d580aeb263178e76da701e27cf7bf05",
+      "max_missing_per_col": 10468,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10158,
+      "min_missing_per_row": 0,
+      "missing_count": 82613,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4996063468992248,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c5c54333eebb600c1455d82b84f16ea18b6fb9ea6369500468dede28c115b134",
+      "max_missing_per_col": 10415,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10216,
+      "min_missing_per_row": 0,
+      "missing_count": 82495,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4990734011627907,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4c76978cea3d240fbf898bfe8208bd09879bd8154366a1ad1faa2c45fbe49979",
+      "max_missing_per_col": 10392,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10253,
+      "min_missing_per_row": 0,
+      "missing_count": 82407,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49669331395348837,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "491d7bfdcece5dbb96f23442c81d0826c1c79562c5d8564c4555350eeef842f2",
+      "max_missing_per_col": 10296,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10155,
+      "min_missing_per_row": 0,
+      "missing_count": 82014,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49798328488372096,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e5ccd4951e2fc52f83517b403b43e0bc852cbefc62ca34fce3b54802935c1d92",
+      "max_missing_per_col": 10406,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10179,
+      "min_missing_per_row": 0,
+      "missing_count": 82227,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5002846414728682,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "74b3287aae5fd48d6245b8c530f535b69bed9a0b00f87d863599e795c3d3674f",
+      "max_missing_per_col": 10397,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10245,
+      "min_missing_per_row": 0,
+      "missing_count": 82607,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49963662790697677,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "922ad2d0169de8b77e022df6d1bb5696a59359538ad2e1215583446c8bf3963c",
+      "max_missing_per_col": 10386,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10199,
+      "min_missing_per_row": 0,
+      "missing_count": 82500,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49938832364341085,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b6a1e8d78a465bf4fc182273d4c4442ff5bb98a2d00c6ac4a535587f37b755c1",
+      "max_missing_per_col": 10436,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10233,
+      "min_missing_per_row": 0,
+      "missing_count": 82459,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6b50505d1e15743115ab24f3dc6fe3162c9ba80d52286c07d697c8e6f5f3390d",
+      "max_missing_per_col": 10519,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10168,
+      "min_missing_per_row": 0,
+      "missing_count": 82560,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4998546511627907,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e82b62237b90c063a1447eb191575504fd88e9699426e8acb0cb1843da303007",
+      "max_missing_per_col": 10427,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10135,
+      "min_missing_per_row": 0,
+      "missing_count": 82536,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.499406492248062,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d1d745665c33ecbd08ca5a6935877a6073f4ef24df093901ebc59a8ae6e4e82d",
+      "max_missing_per_col": 10409,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10151,
+      "min_missing_per_row": 0,
+      "missing_count": 82462,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4995033914728682,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ba92b56e355f521b6809f2236ced6abaaa9eae17c0fa9646fb01c563902b3009",
+      "max_missing_per_col": 10390,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10191,
+      "min_missing_per_row": 0,
+      "missing_count": 82478,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49935198643410855,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1dd94910497ec456fcb2dcfffd76a1bc41beb5ff7045bd392b221bc4876acc48",
+      "max_missing_per_col": 10363,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10247,
+      "min_missing_per_row": 0,
+      "missing_count": 82453,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4972323158914729,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "02bc90f0a5472862d78cb6dc845ce77bbe2b0b7fad282ba083e9401c3dbfc063",
+      "max_missing_per_col": 10375,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10091,
+      "min_missing_per_row": 0,
+      "missing_count": 82103,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49906734496124033,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "42faee3024a4e59de2fd93928b6f192c00fcce62ba1742371047af419eaab635",
+      "max_missing_per_col": 10421,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10199,
+      "min_missing_per_row": 0,
+      "missing_count": 82406,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49899467054263563,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e6eaaddadf52b0d9864b457563cad0fb652ec9fab6453ca287a3415964fcb3c2",
+      "max_missing_per_col": 10476,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10175,
+      "min_missing_per_row": 0,
+      "missing_count": 82394,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4983769379844961,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "596116d4a5babcb18a11838f5a66e63e32bd0515c12a326bae0f6a6d4235b3b4",
+      "max_missing_per_col": 10383,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10200,
+      "min_missing_per_row": 0,
+      "missing_count": 82292,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49830426356589147,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c1820280a6112eaaa37caeed0427700b9f7767a450fc5e70cc99ed4cd017c4a1",
+      "max_missing_per_col": 10400,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10219,
+      "min_missing_per_row": 0,
+      "missing_count": 82280,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4993822674418605,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9bf6d7c30d672e1e00b3ec4b4cc159a01d7d0e6b0beea7823d559f1c6c35ae80",
+      "max_missing_per_col": 10437,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10146,
+      "min_missing_per_row": 0,
+      "missing_count": 82458,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49879481589147284,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7bcb146af4818fb6e209788781ba698686a660364b7031fc5346e98958b94715",
+      "max_missing_per_col": 10450,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10192,
+      "min_missing_per_row": 0,
+      "missing_count": 82361,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5008296996124031,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c4c6d9e2d3346a036cf314180d9b16f6232d13ca24e1204dbfb535c14702cca7",
+      "max_missing_per_col": 10554,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10063,
+      "min_missing_per_row": 0,
+      "missing_count": 82697,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49802567829457367,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3d4eed7316ad623e4196dc9e61017c0ef15c012eca8299291804339afea66c0a",
+      "max_missing_per_col": 10360,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10191,
+      "min_missing_per_row": 0,
+      "missing_count": 82234,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49811046511627904,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8217287059224b000ee8ec4dca077087b04ba978e8976d38c865c3baa01fd4fb",
+      "max_missing_per_col": 10400,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10204,
+      "min_missing_per_row": 0,
+      "missing_count": 82248,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49913396317829456,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "68460b3dd54a5695cf911a646c4683bdde7ef323f09473c63e343ab301a0ffd0",
+      "max_missing_per_col": 10486,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10207,
+      "min_missing_per_row": 0,
+      "missing_count": 82417,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5003875968992249,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3afe2f01bbb5ef0603e31ca53f90fc28ca7d7202919e15b527d89e7e6f329e59",
+      "max_missing_per_col": 10485,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10139,
+      "min_missing_per_row": 0,
+      "missing_count": 82624,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49674176356589145,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "46b2b213b967c9c524f284fb6b82db93687392855fcd4d057911c6cdf76e13e8",
+      "max_missing_per_col": 10341,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10174,
+      "min_missing_per_row": 0,
+      "missing_count": 82022,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.501810804263566,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b9dea867f3715474fa0aaa6b3db0aef1127f703e5176f8b1a2a68c903f8947c1",
+      "max_missing_per_col": 10514,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10231,
+      "min_missing_per_row": 0,
+      "missing_count": 82859,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5020893895348837,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a884ccd837856051402f1d48edf4b5b23acac17b356aa18aceaec10e0e6ac20c",
+      "max_missing_per_col": 10571,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10240,
+      "min_missing_per_row": 0,
+      "missing_count": 82905,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4990249515503876,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c623f29fb8a2ec9f235b833690d3d2d5b188f8d4ef1d636fb10b9372610aff34",
+      "max_missing_per_col": 10570,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10133,
+      "min_missing_per_row": 0,
+      "missing_count": 82399,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4985404554263566,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "246191a7e15859cc7239fcaecc8713b6abe82ce54c7caed2622206ab8207e09c",
+      "max_missing_per_col": 10357,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10231,
+      "min_missing_per_row": 0,
+      "missing_count": 82319,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49871608527131783,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "82df1fb5f06ed7f35bbcb587d7b280565893e5380c709cbf903bacc1dc2d2c96",
+      "max_missing_per_col": 10350,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10239,
+      "min_missing_per_row": 0,
+      "missing_count": 82348,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4999454941860465,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b68f676bb89c4e33cc27ae1427569b688baf591bc421bf57647fc5b1358941a2",
+      "max_missing_per_col": 10404,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10206,
+      "min_missing_per_row": 0,
+      "missing_count": 82551,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49762596899224804,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6038d7b44adb335d7f57cc959b891af950b3a153404041301c024da67471bcd0",
+      "max_missing_per_col": 10433,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10162,
+      "min_missing_per_row": 0,
+      "missing_count": 82168,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4986434108527132,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2f54db9cddc9866e45b8a922fd8be2269e7b8aad87ab1214bcf2cabd545c629d",
+      "max_missing_per_col": 10400,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10167,
+      "min_missing_per_row": 0,
+      "missing_count": 82336,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4978924418604651,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5268461846a46d71b881139bd1c931d0ac5bda5cccc3b1270ad7ea46586460f6",
+      "max_missing_per_col": 10404,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10127,
+      "min_missing_per_row": 0,
+      "missing_count": 82212,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49983042635658914,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "46ea365fc3e3d85ddec40de217bdaa1a66957afb75757000fdd74665a2483f55",
+      "max_missing_per_col": 10370,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10269,
+      "min_missing_per_row": 0,
+      "missing_count": 82532,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4982013081395349,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8ec762dd0346d3f06bf647299c044943289fe7709205f2a4671555c614fcc8b0",
+      "max_missing_per_col": 10418,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10183,
+      "min_missing_per_row": 0,
+      "missing_count": 82263,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49963057170542635,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4a647b5c6f11a0354b5f1a7c070fdc6be824e21a507a3ac0dd00b53075ac6242",
+      "max_missing_per_col": 10470,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10228,
+      "min_missing_per_row": 0,
+      "missing_count": 82499,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5014716569767442,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "df55f57a72220f73e9e8e8a6b3d5fc6585a9cd5aa659db48b69633d09b96bf74",
+      "max_missing_per_col": 10433,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10248,
+      "min_missing_per_row": 0,
+      "missing_count": 82803,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49748667635658916,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1af8d7c42a1b16a669f23e3a5fd22b6cf16c3740e3bcd3a0bd3ba3a6b95dce1d",
+      "max_missing_per_col": 10337,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10195,
+      "min_missing_per_row": 0,
+      "missing_count": 82145,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4978015988372093,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2cb835ea1c9c87620d3c6dc6a53d7e1dce18acc08537a96509306b108c1b2871",
+      "max_missing_per_col": 10409,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10152,
+      "min_missing_per_row": 0,
+      "missing_count": 82197,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49757751937984496,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4044a00c70d7c30dd851aa383c903165f442f550d3bc5bc0e77e88182bdb0839",
+      "max_missing_per_col": 10387,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10124,
+      "min_missing_per_row": 0,
+      "missing_count": 82160,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49846172480620154,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "28978067adee8817b646e9045d916a8ce5978776d7ac70f87c84fff0b2b098ea",
+      "max_missing_per_col": 10379,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10217,
+      "min_missing_per_row": 0,
+      "missing_count": 82306,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.499703246124031,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b021748abd8ae7552ba1b7d0a65fd3ea81d38d231bbb16f931eacf3b1c7f6f98",
+      "max_missing_per_col": 10451,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10231,
+      "min_missing_per_row": 0,
+      "missing_count": 82511,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49831031976744183,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e1e82057e804ef55e95e998c56c75173f4481a1d25ca860ff0aa33f9421e3871",
+      "max_missing_per_col": 10399,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10203,
+      "min_missing_per_row": 0,
+      "missing_count": 82281,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4998485949612403,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9f8593e636a9ee1c9a41e032873f1b2b83eebbd04bc8da04b577c108c7d29948",
+      "max_missing_per_col": 10433,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10177,
+      "min_missing_per_row": 0,
+      "missing_count": 82535,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4982315891472868,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6c53df8636bdeab8372dfbc8c9d7eff6bcda6123ca4614d624e3f4297e79dc3e",
+      "max_missing_per_col": 10389,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10170,
+      "min_missing_per_row": 0,
+      "missing_count": 82268,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4992066375968992,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6805d86660027b55e5d8d452f65845acc21d76c60cf9c1b756b9f8f04d83b55f",
+      "max_missing_per_col": 10431,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10103,
+      "min_missing_per_row": 0,
+      "missing_count": 82429,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49983042635658914,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8bf398a616e55630c4616634d03fe1d47fa923bdbf88dde331a021f28051c98b",
+      "max_missing_per_col": 10376,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10187,
+      "min_missing_per_row": 0,
+      "missing_count": 82532,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49947916666666664,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bcd793d05299614740d28de8344a4b6246e2b9414c683e2812c500d395dea57c",
+      "max_missing_per_col": 10402,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10169,
+      "min_missing_per_row": 0,
+      "missing_count": 82474,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4980801841085271,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9bef0c35dd8a4df085ddee9f044affc58f089e5b1a45a244e31ce833398d5984",
+      "max_missing_per_col": 10359,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10192,
+      "min_missing_per_row": 0,
+      "missing_count": 82243,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4981891957364341,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0e000f747acd7c4622f70cad857902f1465ac6f5d0149049e3aac3c95f825d49",
+      "max_missing_per_col": 10469,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10183,
+      "min_missing_per_row": 0,
+      "missing_count": 82261,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4991642441860465,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c9c44d1d5ae49cde5c772b12f2254f1132f428eac2d60632f376b5d62009b8f5",
+      "max_missing_per_col": 10410,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10172,
+      "min_missing_per_row": 0,
+      "missing_count": 82422,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49953367248062014,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a6684eaa9091523720c98521fb42f8f5370e44791c0da34f7c3f58c5b306094b",
+      "max_missing_per_col": 10428,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10224,
+      "min_missing_per_row": 0,
+      "missing_count": 82483,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49929748062015505,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c97d1c3b629fe0a42df2b62d4115a85d416815c496a8ebd6ac3d8019a454881b",
+      "max_missing_per_col": 10356,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10253,
+      "min_missing_per_row": 0,
+      "missing_count": 82444,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4979590600775194,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "38cae9606c6b800f1fed8e522bc0cfcd98b9bc447da1bbb493300e2cd84d9167",
+      "max_missing_per_col": 10349,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10166,
+      "min_missing_per_row": 0,
+      "missing_count": 82223,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49961845930232557,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a4a83b4eee64eb9c6815a8b2980f09e9f46ff52690027d3693a5a10255177bd3",
+      "max_missing_per_col": 10480,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10128,
+      "min_missing_per_row": 0,
+      "missing_count": 82497,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49728076550387595,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9eaffc729839db8ffcd8c4390235c8f797ce9978a2ccc7fc5757c828b424c985",
+      "max_missing_per_col": 10345,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10125,
+      "min_missing_per_row": 0,
+      "missing_count": 82111,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.500109011627907,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f527a94d2d6a5b73328585b68731b2e6eaf1b8caaecde5a4e6c91350c2c03b9d",
+      "max_missing_per_col": 10434,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10209,
+      "min_missing_per_row": 0,
+      "missing_count": 82578,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49958817829457364,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "60286228140abc2ffe2ecfb12b19fdae19cbbc5c760efb2ce1c0c8c7f3208c85",
+      "max_missing_per_col": 10395,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10198,
+      "min_missing_per_row": 0,
+      "missing_count": 82492,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49920058139534884,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "28d8e2bd13c8526761093bfd67ddd196aa2277c2989af1010391497b0584b489",
+      "max_missing_per_col": 10356,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10256,
+      "min_missing_per_row": 0,
+      "missing_count": 82428,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4992671996124031,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "93b661961b82f81514ba2ee81750900476b7163eb8b070870df17d039c75247a",
+      "max_missing_per_col": 10404,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10209,
+      "min_missing_per_row": 0,
+      "missing_count": 82439,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5016533430232558,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dede8baf077dcdc3ed0e1f70a95219df6d196c73d3cc22660bffafd674637337",
+      "max_missing_per_col": 10420,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10267,
+      "min_missing_per_row": 0,
+      "missing_count": 82833,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.499703246124031,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "00686becd9349ca70a04e667fafbae38ba1259dfaabd452e2802f01604a5b500",
+      "max_missing_per_col": 10418,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10241,
+      "min_missing_per_row": 0,
+      "missing_count": 82511,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49929142441860463,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "99dc796c8d9853c9f5f3b8f09e64380fefcee3a738462a7f9e9b4fb15dc59603",
+      "max_missing_per_col": 10476,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10181,
+      "min_missing_per_row": 0,
+      "missing_count": 82443,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.499624515503876,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "87e628523fb73aefb9ff919992704df6cc1316aaa916992b5f9cba18bab06a3f",
+      "max_missing_per_col": 10454,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10154,
+      "min_missing_per_row": 0,
+      "missing_count": 82498,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4971233042635659,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "18a7afb2ae67f2f5cb7ce634144a9ffd14da6d3f213a8a5caec96ceb5d55050a",
+      "max_missing_per_col": 10344,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10159,
+      "min_missing_per_row": 0,
+      "missing_count": 82085,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5002846414728682,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "aca34128087a697cb38816a808aad28a1674366b242e51be01dba1be2f223616",
+      "max_missing_per_col": 10422,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10268,
+      "min_missing_per_row": 0,
+      "missing_count": 82607,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5000726744186047,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "04a8fbe53cee3d6c5d5d74713aa2ce2b363da619c102bdd5a5b3081441c965d0",
+      "max_missing_per_col": 10406,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10223,
+      "min_missing_per_row": 0,
+      "missing_count": 82572,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49933987403100777,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6514d12f1a2757f1a7a4965128a16b786c4aa33ce9c5fc78590e3a1ec4e80482",
+      "max_missing_per_col": 10398,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10221,
+      "min_missing_per_row": 0,
+      "missing_count": 82451,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.4982921511627907,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cc82feab443b99c998d1f339cdbd6a371f15a688d165ebd3fec935354b5334c0",
+      "max_missing_per_col": 10381,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10170,
+      "min_missing_per_row": 0,
+      "missing_count": 82278,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.5008539244186047,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "15679266da69ca0afbe541f2ec2cf17d26b003af9c6bcc2592d2f401cf1cc4ff",
+      "max_missing_per_col": 10440,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10224,
+      "min_missing_per_row": 0,
+      "missing_count": 82701,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        20640,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "California Housing",
+      "dataset_sha256": "9971e7b311bd1d2ebc7b8a320e3b3e04c0a84da3b100c2317231af0b1c168ff4",
+      "effective_rate": 0.49861312984496126,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "36cd5a45d9db875e3749a3bcad234c495a784df7b18a9c279977c250214e3cc7",
+      "max_missing_per_col": 10479,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 10172,
+      "min_missing_per_row": 0,
+      "missing_count": 82331,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        20640,
+        8
+      ]
+    }
+  ]
+}

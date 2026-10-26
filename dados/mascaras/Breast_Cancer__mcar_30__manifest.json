@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_30",
+    "kind": "mcar",
+    "prop": 0.3
+  },
+  "dataset_id": "Breast Cancer",
+  "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+  "mask_bundle_file": "Breast_Cancer__mcar_30__masks.npz",
+  "mask_bundle_sha256": "0073a73583e97051ce6df471ea6203bd2fd078053f99d348f0f218ee78e5e164",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30199179847686,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dda5b357b472bc0b877feafafce63ff77b2371c9619004de3606fa38c6bfb467",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 3,
+      "missing_count": 5155,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2988283538371412,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5e22f634e246dfb2537c480aed38fbc0c7f8c16470e78e463f36decf10731928",
+      "max_missing_per_col": 200,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 144,
+      "min_missing_per_row": 2,
+      "missing_count": 5101,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3032806092560047,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cedffd97e2ce7e91df7bb68d1e641886636819baac10ff9967c02a1073e5cc76",
+      "max_missing_per_col": 193,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 143,
+      "min_missing_per_row": 2,
+      "missing_count": 5177,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3012888107791447,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "218de30f2ca5c6db4cbfd1e40aa6a96e6a4a8a6d536893eb01b09ee9e80410ee",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 3,
+      "missing_count": 5143,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30263620386643236,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "47b6d902dd19eb423661cc425e46e22bbabd1118208192785964108f1d17d780",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 134,
+      "min_missing_per_row": 2,
+      "missing_count": 5166,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.28857644991212655,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "97bc89c5ad765ba3c1b1a6034a96428005e1de50c9b05ecac5688c8bc08ae267",
+      "max_missing_per_col": 186,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 139,
+      "min_missing_per_row": 1,
+      "missing_count": 4926,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29759812536613944,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1419592e2effd4c123ee013ded9f2c51638bd551da8d4455ee892c16fb59f0a1",
+      "max_missing_per_col": 205,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 2,
+      "missing_count": 5080,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3005858230814294,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c47b64eff2534ed04462bc08fe79c6269ec4697796338664a7d2b3e7e41bd201",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 2,
+      "missing_count": 5131,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.295079086115993,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "59ccb468150e70c00ed0f614339c37ab4e90374e7816bc60cc973bd4f536e896",
+      "max_missing_per_col": 202,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 1,
+      "missing_count": 5037,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30140597539543057,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9370f26f60f8e45231a5c0a48e9be1f7651447ca3e0553683b4b6d71f3378144",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 157,
+      "min_missing_per_row": 3,
+      "missing_count": 5145,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3015231400117165,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e6a4a89c9d6785a0717b60fc60b2c5efea316c2633fdb7d6fa199f4720d5e78e",
+      "max_missing_per_col": 196,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 2,
+      "missing_count": 5147,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30134739308728764,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "75e26048cfdf94fa9f42153fa3e1c2b0fc2fc6c7a3c04449eac15487c0ec944c",
+      "max_missing_per_col": 187,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 3,
+      "missing_count": 5144,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29835969537199764,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "af6a39d71d10e9c67fe8cd5d42a2e346084e2b9e787bc587e2c00dde21f09c88",
+      "max_missing_per_col": 187,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 3,
+      "missing_count": 5093,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3011716461628588,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c8e2a39c7343d80220ad8baf0e9a6d3528f5ad5789fcae3a7d4dbc861f548a7b",
+      "max_missing_per_col": 188,
+      "max_missing_per_row": 15,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 2,
+      "missing_count": 5141,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29607498535442295,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6e8861c2959a5a0fddf0106403f5caf6ad5c9e63b9a9b386ba92e50f797d58b8",
+      "max_missing_per_col": 190,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 3,
+      "missing_count": 5054,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3008787346221441,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1fa5c3e545d4ad65c15a1366532c771e4948599552ff48877fc5a78686786b32",
+      "max_missing_per_col": 191,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 3,
+      "missing_count": 5136,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3024604569420035,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "27a5ccb0bcc1795c2a0c9b5346c995a25ee47dfa968f35b63a6e7dc566b392ab",
+      "max_missing_per_col": 189,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 3,
+      "missing_count": 5163,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29349736379613356,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6080d3fc98a4eb22ecf32c61e91de8a3636ec389cb5d85a14542fc7d688cac25",
+      "max_missing_per_col": 187,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 2,
+      "missing_count": 5010,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3027533684827182,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "48131fc44a7d5042e595441b344f3ad78dca8b41d819652f705e9493194c425c",
+      "max_missing_per_col": 191,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 1,
+      "missing_count": 5168,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2968365553602812,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3a32040551b863b731bd16536261a601fd41a9e45d93547830933714259d883e",
+      "max_missing_per_col": 191,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 143,
+      "min_missing_per_row": 3,
+      "missing_count": 5067,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3033391915641476,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "712805499160190775277d0ff60d61d7e641deb38f313a4c44629b374ec05c61",
+      "max_missing_per_col": 193,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 2,
+      "missing_count": 5178,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2988283538371412,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d0cc0a83bc0616d0688bcfd4cc49c16a66be9e871c5929564defb54bf9d1ec30",
+      "max_missing_per_col": 211,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 2,
+      "missing_count": 5101,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3046865846514353,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "480cdba116ac42e4d25ecaf7585d82254f158dab643184dca4c350caa9633444",
+      "max_missing_per_col": 202,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 3,
+      "missing_count": 5201,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3017574692442882,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "24b3f9844809d87b92acbc14414b4d939faf3bd41ccb892563302e5a2a6f6f6c",
+      "max_missing_per_col": 189,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 2,
+      "missing_count": 5151,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29607498535442295,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ab24de393e04ab384384c8ba3b53c0e2320aa32bf8feb25e2e36b2c4c8c1448d",
+      "max_missing_per_col": 188,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 2,
+      "missing_count": 5054,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3012888107791447,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "335df664a06c34e7bbacd16253e3a1e6e071c796c51c81649773a45db82d0c0b",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 2,
+      "missing_count": 5143,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30427650849443466,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9734f82c9ec8b7859cd424325f62474849ed631808128d24c44ef197aa25e5d7",
+      "max_missing_per_col": 203,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 3,
+      "missing_count": 5194,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3033391915641476,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "daa95ef0b46373d394720cc669e81c7d351ee7b046c96936baa38e32854ef60a",
+      "max_missing_per_col": 200,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 4,
+      "missing_count": 5178,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29964850615114236,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3ccd8f37167ca971ab91cd712f48914446fe662bb8893c7949157aa3db4f0d94",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 138,
+      "min_missing_per_row": 2,
+      "missing_count": 5115,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3008787346221441,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4fb19ccf6c7652ca7b6a0768d0f76e5b9705940e4f1c368050a03462e28dd3d3",
+      "max_missing_per_col": 188,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 2,
+      "missing_count": 5136,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29935559461042766,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4583145fa4ec15a330fa2233a32a0eea43410859cd279e99e807f1a062a821f9",
+      "max_missing_per_col": 205,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 2,
+      "missing_count": 5110,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3018746338605741,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fe097019324784a3c6892f116daf21edd4af14b7d0eda9e17fa00da87dac2c2d",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 21,
+      "min_missing_per_col": 159,
+      "min_missing_per_row": 3,
+      "missing_count": 5153,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29642647920328064,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f85d2d15ee13f592bc9360f97305d3908e67c8b2de8b45d4cdb15fb633e8dec3",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 142,
+      "min_missing_per_row": 1,
+      "missing_count": 5060,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30427650849443466,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a57d7376c541aa0291c752ec880d6dd0c6949e56961e32d203855d234ed56d86",
+      "max_missing_per_col": 200,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 3,
+      "missing_count": 5194,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29496192149970707,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "97258843e43feb3e770c77ad06f46177c71b275351a69e896bd2c887821d07db",
+      "max_missing_per_col": 190,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 1,
+      "missing_count": 5035,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30427650849443466,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "519169cf031238326eb44e1da3f6025afaa8fe3a20512e2e6b3ee19a9955472f",
+      "max_missing_per_col": 189,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 157,
+      "min_missing_per_row": 2,
+      "missing_count": 5194,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29607498535442295,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e026433d10be249638ffa9a44e2af1067f20eab3b3550d38a30c71ab2063ee2b",
+      "max_missing_per_col": 188,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 5054,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29958992384299943,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8c03ac03535f81fa43eb26a294b59f492017c45e38629ce179441ac39e32b5e0",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 3,
+      "missing_count": 5114,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3001171646162859,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "50bda43a0a6309b2ae5628edd42f1764a1ad05df334e999d2d5c4e14b22699b1",
+      "max_missing_per_col": 200,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 3,
+      "missing_count": 5123,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2959578207381371,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a2cb42b7d9b5ba024313af7f11345b35e2b7bb5d8bf6c42ae365685203d03aa2",
+      "max_missing_per_col": 188,
+      "max_missing_per_row": 15,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 2,
+      "missing_count": 5052,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29531341534856476,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3554ba6e31fe91faf499a3401bf1f44b54825813038bb235ae728226620f5c18",
+      "max_missing_per_col": 200,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 2,
+      "missing_count": 5041,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30046865846514353,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7813d78b9b96b8c21f5ea82e18e6788cf834279f69d9751ac7a89a16e160c288",
+      "max_missing_per_col": 190,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 5129,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3024604569420035,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dfd7719d9685be731044d5c156229f1965540fde24a7dfac90d9e31141b896b7",
+      "max_missing_per_col": 201,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 2,
+      "missing_count": 5163,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2994141769185706,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f7f6b4ed1d27605d6e0b87159faa939be84eea9bbeae27744e8b3d22365d0b40",
+      "max_missing_per_col": 191,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 2,
+      "missing_count": 5111,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2979496192149971,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "34cf24b3b3ca4ce304718d283638d1717ef923132e824789da7de2b0ae9361d7",
+      "max_missing_per_col": 196,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 3,
+      "missing_count": 5086,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3004100761570006,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ed0be3a1c8ed295459b5d0e3285ee437224e71220ab14604dfc98a8c00ed2dda",
+      "max_missing_per_col": 186,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 144,
+      "min_missing_per_row": 3,
+      "missing_count": 5128,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3000585823081429,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c0165f8c0adb5779fc1e6a8825be1eb6757ce6dc9d1ae5303d4cd5c163d4289b",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 3,
+      "missing_count": 5122,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2992970123022847,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6b51980c10f117b37a4268e3168e85e5fdbced1c16c965f2ab617d018f17bc69",
+      "max_missing_per_col": 187,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 144,
+      "min_missing_per_row": 2,
+      "missing_count": 5109,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2995313415348565,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cb1e91a10c8efebda44d7e69b2812bfc8ce2a27b3afc2894a9a2a02387faafdc",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 2,
+      "missing_count": 5113,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3047451669595782,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "adbde5a8950765777df6c154f15649f09c400a3892259791300f484e6ea40392",
+      "max_missing_per_col": 202,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 2,
+      "missing_count": 5202,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3043936731107206,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "35957ef2dc0525535905913b3fe30e49730dbb73a6903c93cf5bd02623c10088",
+      "max_missing_per_col": 193,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 3,
+      "missing_count": 5196,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2976567076742824,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c8adeef0699d70993ea24c90790e9bafe15cc0c44a380bcd5fd9ac93a961f2cd",
+      "max_missing_per_col": 185,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 1,
+      "missing_count": 5081,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29560632688927946,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6991d3eec336e9476832d04ad5e4ce936c05178adce0b8f26e387ff68c7fb020",
+      "max_missing_per_col": 193,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 2,
+      "missing_count": 5046,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2981253661394259,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "48fe52e1b8d7f8d7deab4c616963d1dc9e20b7b07f3ec89b06ac2b12fb7ed642",
+      "max_missing_per_col": 195,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 2,
+      "missing_count": 5089,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30222612770943175,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5ba494e763e31fcb3260fc44800e51391c886181b7897a960630d8ef64d68606",
+      "max_missing_per_col": 195,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 2,
+      "missing_count": 5159,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30099589923843,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "619a03bc8e7c9960de04dee509aa3495d35aa3a969a3c7dd407f2136f2176bb7",
+      "max_missing_per_col": 186,
+      "max_missing_per_row": 19,
+      "min_missing_per_col": 159,
+      "min_missing_per_row": 2,
+      "missing_count": 5138,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29900410076157,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f3c238ee233a6dda2af3f199100de010df2415702378b7d021ec92d6923a9dcb",
+      "max_missing_per_col": 186,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 2,
+      "missing_count": 5104,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2978324545987112,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7feff392ae9ad27bea964ba62d0550954037e564591e439ca027fb571105aedf",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 2,
+      "missing_count": 5084,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2988283538371412,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6d5819b3158518880c3e376d251e689bf452a7ab346696bf6f28bc6aabeae4f5",
+      "max_missing_per_col": 194,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 1,
+      "missing_count": 5101,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30023432923257176,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2551fbcc653d4bfe7f8ae326b0fc0f277bc497d4a3a00e4539cb59f11a325180",
+      "max_missing_per_col": 189,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 2,
+      "missing_count": 5125,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30199179847686,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8b9d1246a54df230802f79c0e1a75b110a6cb5b617fc2628ab82c1539c7f03ff",
+      "max_missing_per_col": 193,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 3,
+      "missing_count": 5155,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2979496192149971,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "72ddff02ead546bda185bd8f3f646f26d1f6fdea566f12bb6c5a27fe8470ba5d",
+      "max_missing_per_col": 192,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 3,
+      "missing_count": 5086,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2985940246045694,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "341e7ad0165f1fc1d61e89e57bd0735a99873171f57f226f44cd7a4df1bb1d64",
+      "max_missing_per_col": 187,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 140,
+      "min_missing_per_row": 2,
+      "missing_count": 5097,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30164030462800234,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "53dfd7baa2de85018fa7d9f40f22cefc924a97c5e1a9350506f91bb9f3c83d5f",
+      "max_missing_per_col": 195,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 2,
+      "missing_count": 5149,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2987111892208553,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "36d96a9991119e7e63423051880d8f7c0cdc95ef7ba8b2ff11a9897835a99d3f",
+      "max_missing_per_col": 198,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 128,
+      "min_missing_per_row": 3,
+      "missing_count": 5099,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29958992384299943,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "80215b8eda116fd82c9ae9884ffb414b433349d2c8801e1be9b8b658cd9c9c46",
+      "max_missing_per_col": 191,
+      "max_missing_per_row": 22,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 3,
+      "missing_count": 5114,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29994141769185706,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fcd6e59470336a9add6c7e45ebfcd77bd05dba4f0404dfa5a91ac3c966f9b603",
+      "max_missing_per_col": 190,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 143,
+      "min_missing_per_row": 1,
+      "missing_count": 5120,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3003514938488576,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "305f4a0b9e557bf9d83ae22d291ef8d2f1dbf2a1fa7b39c59fbbc8293cfd4d08",
+      "max_missing_per_col": 199,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 2,
+      "missing_count": 5127,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2985940246045694,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fadd64915e3ffa938b368d706ea9ac151784b439cc24d82efaba1831c7474ee4",
+      "max_missing_per_col": 186,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 2,
+      "missing_count": 5097,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29548916227299354,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3f4f5a5b100bc4d5a5bb0d2a65c6d5ad5523d581d30ca183eca0d06c77d23740",
+      "max_missing_per_col": 185,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 1,
+      "missing_count": 5044,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.30234329232571766,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c0dcdf8f180515d5936b56fc9a570ac8a4e9841d98f5b1eb24712e7e34a83712",
+      "max_missing_per_col": 191,
+      "max_missing_per_row": 18,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 1,
+      "missing_count": 5161,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3004100761570006,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1d17b0174357bf8e8b217bfb282aec28478dc03d826d04547673c61e75858e85",
+      "max_missing_per_col": 195,
+      "max_missing_per_row": 16,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 2,
+      "missing_count": 5128,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.29777387229056823,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f3e6705b581b52d8355b700c7138e405ea225289d4353a8b9fc9c0a411be0831",
+      "max_missing_per_col": 193,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 2,
+      "missing_count": 5083,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.3012888107791447,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "65b9b75168a327fe61ed4bc2df2ff1f73649913479062994b3d1cdd90c6d9529",
+      "max_missing_per_col": 195,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 3,
+      "missing_count": 5143,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        569,
+        30
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_30",
+      "dataset_id": "Breast Cancer",
+      "dataset_sha256": "eb5cf474ed7e8a3a45f863450f04d9a302078b19f5d73f0f4822040d7640ffbb",
+      "effective_rate": 0.2992970123022847,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4953dfad7600b3c0d0f497d520c07f2c34e82846125fa937a0adf5ce1d70ab31",
+      "max_missing_per_col": 190,
+      "max_missing_per_row": 17,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 1,
+      "missing_count": 5109,
+      "parameters": {
+        "beta": null,
+        "prop": 0.3
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        569,
+        30
+      ]
+    }
+  ]
+}

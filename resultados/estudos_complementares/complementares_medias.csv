@@ -1,0 +1,637 @@
+stage,dataset,condition,variant,nrmse,pfc
+reference,Iris,mcar_05,ISCA-k,0.4476764023833067,
+reference,Iris,mcar_10,ISCA-k,0.41657386923444456,
+reference,Iris,mcar_20,ISCA-k,0.4710397279770987,
+reference,Iris,mcar_30,ISCA-k,0.5253545974610142,
+reference,Iris,mcar_40,ISCA-k,0.5924756936743848,
+reference,Iris,mcar_50,ISCA-k,0.6567238722278382,
+reference,Iris,blockwise_20,ISCA-k,0.4362584269871007,
+reference,Iris,mar_20,ISCA-k,0.5281818480626541,
+reference,Wine,mcar_05,ISCA-k,0.7503622657182156,
+reference,Wine,mcar_10,ISCA-k,0.7063070334398792,
+reference,Wine,mcar_20,ISCA-k,0.7156600216492909,
+reference,Wine,mcar_30,ISCA-k,0.7358730255029112,
+reference,Wine,mcar_40,ISCA-k,0.7662139101493922,
+reference,Wine,mcar_50,ISCA-k,0.8071328702718137,
+reference,Wine,blockwise_20,ISCA-k,0.7660628088872149,
+reference,Wine,mar_20,ISCA-k,0.6942075128182615,
+reference,Diabetes,mcar_05,ISCA-k,0.6982598039552516,0.3297673464834978
+reference,Diabetes,mcar_10,ISCA-k,0.7042476507513589,0.32565131047772433
+reference,Diabetes,mcar_20,ISCA-k,0.7412708749603073,0.34371430503356826
+reference,Diabetes,mcar_30,ISCA-k,0.7785791184750465,0.35450337783448094
+reference,Diabetes,mcar_40,ISCA-k,0.8182585451480464,0.36916171650210383
+reference,Diabetes,mcar_50,ISCA-k,0.8637011429785514,0.38044663598357115
+reference,Diabetes,blockwise_20,ISCA-k,0.7810542103755079,0.34619850187265916
+reference,Diabetes,mar_20,ISCA-k,0.7876415450287096,0.36535234349088824
+reference,Breast Cancer,mcar_05,ISCA-k,0.39701874503044854,
+reference,Breast Cancer,mcar_10,ISCA-k,0.4143536550172728,
+reference,Breast Cancer,mcar_20,ISCA-k,0.4488225563085304,
+reference,Breast Cancer,mcar_30,ISCA-k,0.4849075052747534,
+reference,Breast Cancer,mcar_40,ISCA-k,0.5236361316029694,
+reference,Breast Cancer,mcar_50,ISCA-k,0.5716737369546957,
+reference,Breast Cancer,blockwise_20,ISCA-k,0.5050493763890862,
+reference,Breast Cancer,mar_20,ISCA-k,0.5774412385413702,
+reference,Heart Disease,mcar_05,ISCA-k,0.9848851993417834,0.3320752998926087
+reference,Heart Disease,mcar_10,ISCA-k,0.9507495275112099,0.3377569888815414
+reference,Heart Disease,mcar_20,ISCA-k,0.9486455935612874,0.3481970403952357
+reference,Heart Disease,mcar_30,ISCA-k,0.963991573841689,0.35954583589098643
+reference,Heart Disease,mcar_40,ISCA-k,0.9802840005248732,0.37020760181031365
+reference,Heart Disease,mcar_50,ISCA-k,1.0001165036399229,0.3816262527164896
+reference,Heart Disease,blockwise_20,ISCA-k,0.9713255680008706,0.37072461097461096
+reference,Heart Disease,mar_20,ISCA-k,0.9790696527859156,0.3893553701043267
+reference,Abalone,mcar_05,ISCA-k,0.23902155882704193,0.4518144009590697
+reference,Abalone,mcar_10,ISCA-k,0.24782219908410263,0.4606218446300994
+reference,Abalone,mcar_20,ISCA-k,0.26655969849138733,0.4630069027673549
+reference,Abalone,mcar_30,ISCA-k,0.29582318677506164,0.47239496228662875
+reference,Abalone,mcar_40,ISCA-k,0.33737801149432006,0.47451708723714814
+reference,Abalone,mcar_50,ISCA-k,0.3818944503212555,0.48473339210723226
+reference,Abalone,blockwise_20,ISCA-k,0.27002556331855515,0.47056778309409886
+reference,Abalone,mar_20,ISCA-k,0.3833719242566184,0.5038677273273203
+reference,California Housing,mcar_05,ISCA-k,0.6435736831734464,
+reference,California Housing,mcar_10,ISCA-k,0.7064738840589708,
+reference,California Housing,mcar_20,ISCA-k,0.7878792753576083,
+reference,California Housing,mcar_30,ISCA-k,0.8528922494366551,
+reference,California Housing,mcar_40,ISCA-k,0.8991464145207747,
+reference,California Housing,mcar_50,ISCA-k,0.9410806598965361,
+reference,California Housing,blockwise_20,ISCA-k,0.8085734086922851,
+reference,California Housing,mar_20,ISCA-k,1.116358698989167,
+reference,Penguins,mcar_05,ISCA-k,0.559964858221709,
+reference,Penguins,mcar_10,ISCA-k,0.564609476300165,
+reference,Penguins,mcar_20,ISCA-k,0.5971006135915398,
+reference,Penguins,mcar_30,ISCA-k,0.6398562155390631,
+reference,Penguins,mcar_40,ISCA-k,0.6808647684149783,
+reference,Penguins,mcar_50,ISCA-k,0.719446194114117,
+reference,Penguins,blockwise_20,ISCA-k,0.600175960831542,
+reference,Penguins,mar_20,ISCA-k,0.6768507242196868,
+reference,Titanic,mcar_05,ISCA-k,0.8128661327678165,0.22977827205245394
+reference,Titanic,mcar_10,ISCA-k,0.8205542481746725,0.23991559853597394
+reference,Titanic,mcar_20,ISCA-k,0.8530326459815936,0.26309314854630644
+reference,Titanic,mcar_30,ISCA-k,0.8910827937589947,0.29019877724414045
+reference,Titanic,mcar_40,ISCA-k,0.930617744955913,0.31090225983393494
+reference,Titanic,mcar_50,ISCA-k,0.963938381334422,0.3358437565698504
+reference,Titanic,blockwise_20,ISCA-k,0.9165126204957532,0.3044605328842251
+reference,Titanic,mar_20,ISCA-k,0.9078761156901385,0.2872018350029302
+reference,Auto MPG,mcar_05,ISCA-k,0.41873231712225856,0.19534422951563793
+reference,Auto MPG,mcar_10,ISCA-k,0.4360168421987613,0.21742974305738735
+reference,Auto MPG,mcar_20,ISCA-k,0.4722363336166518,0.2411713158039102
+reference,Auto MPG,mcar_30,ISCA-k,0.510394489684763,0.27008986648011446
+reference,Auto MPG,mcar_40,ISCA-k,0.5577864063293237,0.29876810388560465
+reference,Auto MPG,mcar_50,ISCA-k,0.6177307888043964,0.3233869962047757
+reference,Auto MPG,blockwise_20,ISCA-k,0.5096061058332113,0.2703907463757745
+reference,Auto MPG,mar_20,ISCA-k,0.5044809637905292,0.08681278379382511
+reference,Ionosphere,mcar_05,ISCA-k,0.7045036536592105,0.12072601943157873
+reference,Ionosphere,mcar_10,ISCA-k,0.7166824839120282,0.11130449708861263
+reference,Ionosphere,mcar_20,ISCA-k,0.7328889509278972,0.10974634100088364
+reference,Ionosphere,mcar_30,ISCA-k,0.7474504889942731,0.11014557972204794
+reference,Ionosphere,mcar_40,ISCA-k,0.7629698757224309,0.11071426003440939
+reference,Ionosphere,mcar_50,ISCA-k,0.7831010430968284,0.10947843353667483
+reference,Ionosphere,blockwise_20,ISCA-k,0.7647740645099945,0.11308383635144198
+reference,Ionosphere,mar_20,ISCA-k,0.6741757207127759,0.07833421509296795
+reference,Heart Failure,mcar_05,ISCA-k,1.0997010658678044,0.38344715402357704
+reference,Heart Failure,mcar_10,ISCA-k,1.0676936020305101,0.3977694469691398
+reference,Heart Failure,mcar_20,ISCA-k,1.0405144618736464,0.39809988811953445
+reference,Heart Failure,mcar_30,ISCA-k,1.0382360615021191,0.40770218701066907
+reference,Heart Failure,mcar_40,ISCA-k,1.043910768626045,0.4113989801546127
+reference,Heart Failure,mcar_50,ISCA-k,1.0474688874234395,0.41927754404779133
+reference,Heart Failure,blockwise_20,ISCA-k,1.0452721650260057,0.41391789077212804
+reference,Heart Failure,mar_20,ISCA-k,1.0399836742253405,0.4139390506925121
+ablation,Iris,mcar_20,sem_MI,0.47942099949813366,
+ablation,Iris,mcar_20,sem_k_adaptativo,0.4658973458630904,
+ablation,Iris,mcar_20,sem_propagacao,0.4741319022913321,
+ablation,Iris,mcar_20,sem_shrinkage,0.6697935911322825,
+ablation,Iris,mcar_20,sem_poda,0.4710397279770987,
+ablation,Wine,mcar_20,sem_MI,0.7262352160628973,
+ablation,Wine,mcar_20,sem_k_adaptativo,0.7129538612340965,
+ablation,Wine,mcar_20,sem_propagacao,0.714583685603167,
+ablation,Wine,mcar_20,sem_shrinkage,0.7173480609683819,
+ablation,Wine,mcar_20,sem_poda,0.7156600216492909,
+ablation,Diabetes,mcar_20,sem_MI,0.7728841740622598,0.3373228968262427
+ablation,Diabetes,mcar_20,sem_k_adaptativo,0.7431704299015152,0.35128189581062125
+ablation,Diabetes,mcar_20,sem_propagacao,0.7424254984090753,0.33625414719562635
+ablation,Diabetes,mcar_20,sem_shrinkage,0.7757045053377343,0.34000577662852155
+ablation,Diabetes,mcar_20,sem_poda,0.7407975388649466,0.3415014833838891
+ablation,Breast Cancer,mcar_20,sem_MI,0.5393271570182128,
+ablation,Breast Cancer,mcar_20,sem_k_adaptativo,0.44408506622912325,
+ablation,Breast Cancer,mcar_20,sem_propagacao,0.45525532941030245,
+ablation,Breast Cancer,mcar_20,sem_shrinkage,0.45497975345670094,
+ablation,Breast Cancer,mcar_20,sem_poda,0.44678210498085785,
+ablation,Heart Disease,mcar_20,sem_MI,0.9522605030209607,0.34883696457358276
+ablation,Heart Disease,mcar_20,sem_k_adaptativo,0.9556240298341523,0.35528926363942376
+ablation,Heart Disease,mcar_20,sem_propagacao,0.9431009142849557,0.34480848053284885
+ablation,Heart Disease,mcar_20,sem_shrinkage,1.0128529352991824,0.35733730288306115
+ablation,Heart Disease,mcar_20,sem_poda,0.9480331296840565,0.34859245589018206
+ablation,Abalone,mcar_20,sem_MI,0.2731380637761864,0.46342584757638433
+ablation,Abalone,mcar_20,sem_k_adaptativo,0.2627005205827707,0.4711707890554155
+ablation,Abalone,mcar_20,sem_propagacao,0.27433118471501666,0.46335241587793574
+ablation,Abalone,mcar_20,sem_shrinkage,0.36537734413277406,0.47013082277299684
+ablation,Abalone,mcar_20,sem_poda,0.2626267496268133,0.4615250332811908
+ablation,California Housing,mcar_20,sem_MI,0.817299697369913,
+ablation,California Housing,mcar_20,sem_k_adaptativo,0.7670085038552663,
+ablation,California Housing,mcar_20,sem_propagacao,0.7961982814427201,
+ablation,California Housing,mcar_20,sem_shrinkage,0.929702069566935,
+ablation,California Housing,mcar_20,sem_poda,0.7702410452674207,
+ablation,Penguins,mcar_20,sem_MI,0.5954606676702968,
+ablation,Penguins,mcar_20,sem_k_adaptativo,0.5997771365911482,
+ablation,Penguins,mcar_20,sem_propagacao,0.5905620668287194,
+ablation,Penguins,mcar_20,sem_shrinkage,0.7383421769271397,
+ablation,Penguins,mcar_20,sem_poda,0.5973055412978359,
+ablation,Titanic,mcar_20,sem_MI,0.8770451924640332,0.2901125879224942
+ablation,Titanic,mcar_20,sem_k_adaptativo,0.84369222585423,0.2638073229776688
+ablation,Titanic,mcar_20,sem_propagacao,0.835300867332584,0.2590835830776523
+ablation,Titanic,mcar_20,sem_shrinkage,0.9211863023810497,0.28638134226668494
+ablation,Titanic,mcar_20,sem_poda,0.8554723910509107,0.2653494366169179
+ablation,Auto MPG,mcar_20,sem_MI,0.48371709745495506,0.2701764455603619
+ablation,Auto MPG,mcar_20,sem_k_adaptativo,0.4647174237015082,0.23444102878875597
+ablation,Auto MPG,mcar_20,sem_propagacao,0.4756791895675977,0.23975687343662946
+ablation,Auto MPG,mcar_20,sem_shrinkage,0.5717423131665772,0.25729137894302395
+ablation,Auto MPG,mcar_20,sem_poda,0.47270442144687846,0.24340362088242085
+ablation,Ionosphere,mcar_20,sem_MI,0.744543533543162,0.1109380111768628
+ablation,Ionosphere,mcar_20,sem_k_adaptativo,0.7281625129609227,0.10316439211724182
+ablation,Ionosphere,mcar_20,sem_propagacao,0.730794173484761,0.10989969360882175
+ablation,Ionosphere,mcar_20,sem_shrinkage,0.7327370352609196,0.10472788682662305
+ablation,Ionosphere,mcar_20,sem_poda,0.7329976919135184,0.1102197172579411
+ablation,Heart Failure,mcar_20,sem_MI,1.0388037210798764,0.40459817014675276
+ablation,Heart Failure,mcar_20,sem_k_adaptativo,1.0593978509660167,0.402935641707698
+ablation,Heart Failure,mcar_20,sem_propagacao,1.0335973301437846,0.39352457194273577
+ablation,Heart Failure,mcar_20,sem_shrinkage,1.0932226883205591,0.404769389729097
+ablation,Heart Failure,mcar_20,sem_poda,1.0398564119246543,0.3968517558816853
+ksens,Iris,mcar_20,k_03,0.5233249674305755,
+ksens,Iris,mcar_20,k_05,0.4921177315586826,
+ksens,Iris,mcar_20,k_07,0.47442700535151405,
+ksens,Iris,mcar_20,k_10,0.4658973458630904,
+ksens,Iris,mcar_20,k_15,0.467487067447689,
+ksens,Iris,mcar_20,k_20,0.47000372218084235,
+ksens,Iris,mcar_20,k_25,0.47584051699102287,
+ksens,Iris,mcar_20,sqrtN,0.4675807890408589,
+ksens,Iris,mcar_40,k_03,0.6605362140260763,
+ksens,Iris,mcar_40,k_05,0.6191646335559117,
+ksens,Iris,mcar_40,k_07,0.5977730633565882,
+ksens,Iris,mcar_40,k_10,0.587594338681755,
+ksens,Iris,mcar_40,k_15,0.5821402387470801,
+ksens,Iris,mcar_40,k_20,0.586243333670005,
+ksens,Iris,mcar_40,k_25,0.5908668184509935,
+ksens,Iris,mcar_40,sqrtN,0.5836942304676345,
+ksens,Wine,mcar_20,k_03,0.763734074709591,
+ksens,Wine,mcar_20,k_05,0.7329012249458554,
+ksens,Wine,mcar_20,k_07,0.7186328073414555,
+ksens,Wine,mcar_20,k_10,0.7129538612340965,
+ksens,Wine,mcar_20,k_15,0.7112857832360597,
+ksens,Wine,mcar_20,k_20,0.712686002958243,
+ksens,Wine,mcar_20,k_25,0.7153334189496289,
+ksens,Wine,mcar_20,sqrtN,0.7112133332345777,
+ksens,Wine,mcar_40,k_03,0.8397308516878736,
+ksens,Wine,mcar_40,k_05,0.7978442993253038,
+ksens,Wine,mcar_40,k_07,0.7810681224746041,
+ksens,Wine,mcar_40,k_10,0.7678167247596771,
+ksens,Wine,mcar_40,k_15,0.7614402122308767,
+ksens,Wine,mcar_40,k_20,0.7600809611267959,
+ksens,Wine,mcar_40,k_25,0.7610954309514859,
+ksens,Wine,mcar_40,sqrtN,0.7633251596543571,
+ksens,Diabetes,mcar_20,k_03,0.8065885500834851,0.37855455404635185
+ksens,Diabetes,mcar_20,k_05,0.7687751189695081,0.36599704692301915
+ksens,Diabetes,mcar_20,k_07,0.7525779226789018,0.3576022555487278
+ksens,Diabetes,mcar_20,k_10,0.7431704299015152,0.35128189581062125
+ksens,Diabetes,mcar_20,k_15,0.7383533617472083,0.34797757032940685
+ksens,Diabetes,mcar_20,k_20,0.7387486448053407,0.34236793305231683
+ksens,Diabetes,mcar_20,k_25,0.7403861303760605,0.3369562954467325
+ksens,Diabetes,mcar_20,sqrtN,0.7387486448053407,0.34236793305231683
+ksens,Diabetes,mcar_40,k_03,0.8988474379385123,0.39874214604215225
+ksens,Diabetes,mcar_40,k_05,0.8565987465815817,0.3908812236886187
+ksens,Diabetes,mcar_40,k_07,0.8370826063393817,0.37951197748458193
+ksens,Diabetes,mcar_40,k_10,0.823283137191776,0.37599602516357294
+ksens,Diabetes,mcar_40,k_15,0.8152031598703661,0.37114445313458677
+ksens,Diabetes,mcar_40,k_20,0.81219167047081,0.3674373777755156
+ksens,Diabetes,mcar_40,k_25,0.8112699448270073,0.36041825974090014
+ksens,Diabetes,mcar_40,sqrtN,0.81219167047081,0.3674373777755156
+ksens,Breast Cancer,mcar_20,k_03,0.44893913313327566,
+ksens,Breast Cancer,mcar_20,k_05,0.44015280371032334,
+ksens,Breast Cancer,mcar_20,k_07,0.4399397436763758,
+ksens,Breast Cancer,mcar_20,k_10,0.44408506622912325,
+ksens,Breast Cancer,mcar_20,k_15,0.45452468720095557,
+ksens,Breast Cancer,mcar_20,k_20,0.4654926860796196,
+ksens,Breast Cancer,mcar_20,k_25,0.4755237241727497,
+ksens,Breast Cancer,mcar_20,sqrtN,0.4654926860796196,
+ksens,Breast Cancer,mcar_40,k_03,0.5343431544795979,
+ksens,Breast Cancer,mcar_40,k_05,0.5187805250672626,
+ksens,Breast Cancer,mcar_40,k_07,0.5170012344229109,
+ksens,Breast Cancer,mcar_40,k_10,0.5190312234963527,
+ksens,Breast Cancer,mcar_40,k_15,0.5281021448371388,
+ksens,Breast Cancer,mcar_40,k_20,0.5377458580296077,
+ksens,Breast Cancer,mcar_40,k_25,0.5469791249254206,
+ksens,Breast Cancer,mcar_40,sqrtN,0.5377458580296077,
+ksens,Heart Disease,mcar_20,k_03,1.053576083484671,0.3934048980211346
+ksens,Heart Disease,mcar_20,k_05,0.9983166851856028,0.3733424783448915
+ksens,Heart Disease,mcar_20,k_07,0.9744507255254017,0.36386715409651105
+ksens,Heart Disease,mcar_20,k_10,0.9556240298341523,0.35528926363942376
+ksens,Heart Disease,mcar_20,k_15,0.9400433865943122,0.349448118374304
+ksens,Heart Disease,mcar_20,k_20,0.9320124703729259,0.34710440568219453
+ksens,Heart Disease,mcar_20,k_25,0.9283005043915074,0.34556016531532013
+ksens,Heart Disease,mcar_20,sqrtN,0.936208341944836,0.34882547407104236
+ksens,Heart Disease,mcar_40,k_03,1.086840654405317,0.41270519170616676
+ksens,Heart Disease,mcar_40,k_05,1.028644357590814,0.39465708389291576
+ksens,Heart Disease,mcar_40,k_07,1.006019777946783,0.38935930698855825
+ksens,Heart Disease,mcar_40,k_10,0.9860815263771237,0.38050344846515854
+ksens,Heart Disease,mcar_40,k_15,0.9712116570492894,0.3731578651035755
+ksens,Heart Disease,mcar_40,k_20,0.963805086179237,0.3698280067510821
+ksens,Heart Disease,mcar_40,k_25,0.9612081364597727,0.368103292766081
+ksens,Heart Disease,mcar_40,sqrtN,0.9684243944114053,0.3710060168949749
+ksens,Abalone,mcar_20,k_03,0.28724117792077253,0.5009470444947449
+ksens,Abalone,mcar_20,k_05,0.27212004660315064,0.48640794395884523
+ksens,Abalone,mcar_20,k_07,0.26637455580881825,0.47819538768423747
+ksens,Abalone,mcar_20,k_10,0.2627005205827707,0.4711707890554155
+ksens,Abalone,mcar_20,k_15,0.26131404341810077,0.4648633397997521
+ksens,Abalone,mcar_20,k_20,0.26145900472043515,0.46191615975046013
+ksens,Abalone,mcar_20,k_25,0.26209780416090733,0.46181828555914184
+ksens,Abalone,mcar_20,sqrtN,0.26145900472043515,0.46191615975046013
+ksens,Abalone,mcar_40,k_03,0.35321698155255626,0.5131966283728437
+ksens,Abalone,mcar_40,k_05,0.33697042031198104,0.5000911572900733
+ksens,Abalone,mcar_40,k_07,0.3313726353784037,0.49039577675917523
+ksens,Abalone,mcar_40,k_10,0.3296899219383906,0.4841673003923699
+ksens,Abalone,mcar_40,k_15,0.3321235218670155,0.4777316813631186
+ksens,Abalone,mcar_40,k_20,0.3351182899683872,0.47545763522325607
+ksens,Abalone,mcar_40,k_25,0.3375722200551435,0.4745721669410809
+ksens,Abalone,mcar_40,sqrtN,0.3351182899683872,0.47545763522325607
+ksens,California Housing,mcar_20,k_03,0.8230940032650989,
+ksens,California Housing,mcar_20,k_05,0.790126848623347,
+ksens,California Housing,mcar_20,k_07,0.7793500795641938,
+ksens,California Housing,mcar_20,k_10,0.7670085038552663,
+ksens,California Housing,mcar_20,k_15,0.7628841398148597,
+ksens,California Housing,mcar_20,k_20,0.7608773630552309,
+ksens,California Housing,mcar_20,k_25,0.7598855003607619,
+ksens,California Housing,mcar_20,sqrtN,0.7608773630552309,
+ksens,California Housing,mcar_40,k_03,0.9608269313221032,
+ksens,California Housing,mcar_40,k_05,0.9158533703366195,
+ksens,California Housing,mcar_40,k_07,0.8926933575605182,
+ksens,California Housing,mcar_40,k_10,0.8763480968797425,
+ksens,California Housing,mcar_40,k_15,0.865904811574445,
+ksens,California Housing,mcar_40,k_20,0.86107329422976,
+ksens,California Housing,mcar_40,k_25,0.8589156526730206,
+ksens,California Housing,mcar_40,sqrtN,0.86107329422976,
+ksens,Penguins,mcar_20,k_03,0.6612504683992445,
+ksens,Penguins,mcar_20,k_05,0.6249607898721243,
+ksens,Penguins,mcar_20,k_07,0.6112421727747347,
+ksens,Penguins,mcar_20,k_10,0.5997771365911482,
+ksens,Penguins,mcar_20,k_15,0.5903857992907077,
+ksens,Penguins,mcar_20,k_20,0.5861182986087995,
+ksens,Penguins,mcar_20,k_25,0.5833918913571443,
+ksens,Penguins,mcar_20,sqrtN,0.5879329205454951,
+ksens,Penguins,mcar_40,k_03,0.7496063282156327,
+ksens,Penguins,mcar_40,k_05,0.7091529969698985,
+ksens,Penguins,mcar_40,k_07,0.693724372098494,
+ksens,Penguins,mcar_40,k_10,0.6823930482763828,
+ksens,Penguins,mcar_40,k_15,0.6736006111999261,
+ksens,Penguins,mcar_40,k_20,0.6688549462553856,
+ksens,Penguins,mcar_40,k_25,0.667024993022896,
+ksens,Penguins,mcar_40,sqrtN,0.6705087797555248,
+ksens,Titanic,mcar_20,k_03,0.9032759385130567,0.27363065048201224
+ksens,Titanic,mcar_20,k_05,0.8668584890384594,0.26878302271666427
+ksens,Titanic,mcar_20,k_07,0.851991151782253,0.2670564843378487
+ksens,Titanic,mcar_20,k_10,0.84369222585423,0.2638073229776688
+ksens,Titanic,mcar_20,k_15,0.8375450828833592,0.2665288492365759
+ksens,Titanic,mcar_20,k_20,0.8362638933246478,0.2639095011625842
+ksens,Titanic,mcar_20,k_25,0.8350180708522617,0.26626805081586935
+ksens,Titanic,mcar_20,sqrtN,0.8362638933246478,0.2639095011625842
+ksens,Titanic,mcar_40,k_03,1.0056254946932646,0.33603311514290546
+ksens,Titanic,mcar_40,k_05,0.9601515491153515,0.32732315070836343
+ksens,Titanic,mcar_40,k_07,0.9382856058601415,0.3221528056796918
+ksens,Titanic,mcar_40,k_10,0.9215822492676381,0.31622637682716626
+ksens,Titanic,mcar_40,k_15,0.9124060241398386,0.3141571417089499
+ksens,Titanic,mcar_40,k_20,0.9060983563064772,0.3149673452085892
+ksens,Titanic,mcar_40,k_25,0.9048470804585225,0.3145278153677721
+ksens,Titanic,mcar_40,sqrtN,0.9060983563064772,0.3149673452085892
+ksens,Auto MPG,mcar_20,k_03,0.48106670574892113,0.22720542913052308
+ksens,Auto MPG,mcar_20,k_05,0.4674069595020948,0.22426636887692036
+ksens,Auto MPG,mcar_20,k_07,0.4641492404949776,0.22511817810214751
+ksens,Auto MPG,mcar_20,k_10,0.4647174237015082,0.23444102878875597
+ksens,Auto MPG,mcar_20,k_15,0.46988597690793293,0.2373936844067577
+ksens,Auto MPG,mcar_20,k_20,0.4747535777669852,0.24217565605492425
+ksens,Auto MPG,mcar_20,k_25,0.4799687342331965,0.24740669774933513
+ksens,Auto MPG,mcar_20,sqrtN,0.4747535777669852,0.24217565605492425
+ksens,Auto MPG,mcar_40,k_03,0.5941990274296087,0.29680458591662623
+ksens,Auto MPG,mcar_40,k_05,0.5719390194961702,0.29186879162976453
+ksens,Auto MPG,mcar_40,k_07,0.563492533842959,0.28992739306916776
+ksens,Auto MPG,mcar_40,k_10,0.5589492299981518,0.2900305508876229
+ksens,Auto MPG,mcar_40,k_15,0.5565780277883149,0.29460919396698754
+ksens,Auto MPG,mcar_40,k_20,0.5575032334973836,0.29978463891772744
+ksens,Auto MPG,mcar_40,k_25,0.5584147388829775,0.3020712109470588
+ksens,Auto MPG,mcar_40,sqrtN,0.5575032334973836,0.29978463891772744
+ksens,Ionosphere,mcar_20,k_03,0.7446481762244398,0.1010797322676399
+ksens,Ionosphere,mcar_20,k_05,0.7310725272379486,0.10265017061559444
+ksens,Ionosphere,mcar_20,k_07,0.7280152325933882,0.10224298598980347
+ksens,Ionosphere,mcar_20,k_10,0.7281625129609227,0.10316439211724182
+ksens,Ionosphere,mcar_20,k_15,0.7322519112693278,0.11185401487536988
+ksens,Ionosphere,mcar_20,k_20,0.7374238211055921,0.1140568462287842
+ksens,Ionosphere,mcar_20,k_25,0.7431542880429548,0.11443868847686336
+ksens,Ionosphere,mcar_20,sqrtN,0.7364088444778024,0.11431828413728094
+ksens,Ionosphere,mcar_40,k_03,0.7800716476833276,0.11390352758306264
+ksens,Ionosphere,mcar_40,k_05,0.7624950725259396,0.10876409044747895
+ksens,Ionosphere,mcar_40,k_07,0.7574765497632053,0.10819530994841169
+ksens,Ionosphere,mcar_40,k_10,0.7564393779353512,0.10845058480190822
+ksens,Ionosphere,mcar_40,k_15,0.7598948015541489,0.10812420864620972
+ksens,Ionosphere,mcar_40,k_20,0.76522001588686,0.10960771447815167
+ksens,Ionosphere,mcar_40,k_25,0.7725497972191955,0.11014895930620779
+ksens,Ionosphere,mcar_40,sqrtN,0.7639942332725497,0.10953015241174377
+ksens,Heart Failure,mcar_20,k_03,1.1806085627339196,0.41488337149091414
+ksens,Heart Failure,mcar_20,k_05,1.1119942838544343,0.4115770425742528
+ksens,Heart Failure,mcar_20,k_07,1.083638821998357,0.4051807679101975
+ksens,Heart Failure,mcar_20,k_10,1.0593978509660167,0.402935641707698
+ksens,Heart Failure,mcar_20,k_15,1.0407555853667345,0.40021894380969014
+ksens,Heart Failure,mcar_20,k_20,1.0305210099487367,0.3958508416888327
+ksens,Heart Failure,mcar_20,k_25,1.0247395797792558,0.3959585607494337
+ksens,Heart Failure,mcar_20,sqrtN,1.0356562831490612,0.40015518866975874
+ksens,Heart Failure,mcar_40,k_03,1.1685621816828058,0.425276091120131
+ksens,Heart Failure,mcar_40,k_05,1.1044714153081736,0.4226421529226993
+ksens,Heart Failure,mcar_40,k_07,1.0771600669099877,0.42224066703464364
+ksens,Heart Failure,mcar_40,k_10,1.056331383677437,0.41895254320243924
+ksens,Heart Failure,mcar_40,k_15,1.0361919010053156,0.41625319504482167
+ksens,Heart Failure,mcar_40,k_20,1.027830926255365,0.4112742246271228
+ksens,Heart Failure,mcar_40,k_25,1.0230295819666022,0.40770117205179834
+ksens,Heart Failure,mcar_40,sqrtN,1.0324465079619773,0.41419477655777387
+calibration,Iris,mcar_20,salvaguarda_sd,0.4718236713735906,
+calibration,Iris,mcar_20,estabilidade_005,0.4701156610685525,
+calibration,Iris,mcar_20,estabilidade_020,0.4734711322348114,
+calibration,Iris,mcar_20,estabilidade_absoluta,0.4714556449158059,
+calibration,Iris,mcar_20,estabilidade_mista,0.4689019554915079,
+calibration,Iris,mcar_20,k_min_8,0.4644256004205751,
+calibration,Iris,mcar_40,salvaguarda_sd,0.5993249687292241,
+calibration,Iris,mcar_40,estabilidade_005,0.5896600915103067,
+calibration,Iris,mcar_40,estabilidade_020,0.595271944149628,
+calibration,Iris,mcar_40,estabilidade_absoluta,0.5929712783831451,
+calibration,Iris,mcar_40,estabilidade_mista,0.5928587950973739,
+calibration,Iris,mcar_40,k_min_8,0.5838265814476251,
+calibration,Iris,mar_20,salvaguarda_sd,0.5275783511717875,
+calibration,Iris,mar_20,estabilidade_005,0.5303637084650488,
+calibration,Iris,mar_20,estabilidade_020,0.5288535109548443,
+calibration,Iris,mar_20,estabilidade_absoluta,0.5311539208140356,
+calibration,Iris,mar_20,estabilidade_mista,0.5295176180856997,
+calibration,Iris,mar_20,k_min_8,0.5287024432156382,
+calibration,Iris,blockwise_20,salvaguarda_sd,0.4362172679560531,
+calibration,Iris,blockwise_20,estabilidade_005,0.4354228852802153,
+calibration,Iris,blockwise_20,estabilidade_020,0.4378648857949558,
+calibration,Iris,blockwise_20,estabilidade_absoluta,0.4385944829868748,
+calibration,Iris,blockwise_20,estabilidade_mista,0.43734574456878866,
+calibration,Iris,blockwise_20,k_min_8,0.43601048082377586,
+calibration,Wine,mcar_20,salvaguarda_sd,0.7175542350937446,
+calibration,Wine,mcar_20,estabilidade_005,0.7148328289030439,
+calibration,Wine,mcar_20,estabilidade_020,0.7192856135985395,
+calibration,Wine,mcar_20,estabilidade_absoluta,0.7168468249204409,
+calibration,Wine,mcar_20,estabilidade_mista,0.7165731910496671,
+calibration,Wine,mcar_20,k_min_8,0.7130696368589254,
+calibration,Wine,mcar_40,salvaguarda_sd,0.7713021004123966,
+calibration,Wine,mcar_40,estabilidade_005,0.7636582563613689,
+calibration,Wine,mcar_40,estabilidade_020,0.7716067278967074,
+calibration,Wine,mcar_40,estabilidade_absoluta,0.770868476115496,
+calibration,Wine,mcar_40,estabilidade_mista,0.7684516227480703,
+calibration,Wine,mcar_40,k_min_8,0.7605684155933674,
+calibration,Wine,mar_20,salvaguarda_sd,0.6960695976022694,
+calibration,Wine,mar_20,estabilidade_005,0.6935938298752421,
+calibration,Wine,mar_20,estabilidade_020,0.6977115179257593,
+calibration,Wine,mar_20,estabilidade_absoluta,0.6969223616997943,
+calibration,Wine,mar_20,estabilidade_mista,0.6962015054993578,
+calibration,Wine,mar_20,k_min_8,0.6928475181709823,
+calibration,Wine,blockwise_20,salvaguarda_sd,0.7705517352628951,
+calibration,Wine,blockwise_20,estabilidade_005,0.763184828768365,
+calibration,Wine,blockwise_20,estabilidade_020,0.7710688733535246,
+calibration,Wine,blockwise_20,estabilidade_absoluta,0.769280583818721,
+calibration,Wine,blockwise_20,estabilidade_mista,0.7678492646943216,
+calibration,Wine,blockwise_20,k_min_8,0.7601819525209635,
+calibration,Diabetes,mcar_20,salvaguarda_sd,0.7481297793572957,0.3430125508279765
+calibration,Diabetes,mcar_20,estabilidade_005,0.7392014920334781,0.3420201447125341
+calibration,Diabetes,mcar_20,estabilidade_020,0.7451693201511912,0.34277099485926615
+calibration,Diabetes,mcar_20,estabilidade_absoluta,0.74665329152569,0.3435080237503369
+calibration,Diabetes,mcar_20,estabilidade_mista,0.7441658061632036,0.3438610098250447
+calibration,Diabetes,mcar_20,k_min_8,0.7378017527381316,0.33715356771682164
+calibration,Diabetes,mcar_40,salvaguarda_sd,0.8270637387706108,0.36784195643265477
+calibration,Diabetes,mcar_40,estabilidade_005,0.8145326283651784,0.3677013094711897
+calibration,Diabetes,mcar_40,estabilidade_020,0.8248395499313089,0.36989180547711104
+calibration,Diabetes,mcar_40,estabilidade_absoluta,0.825450578439581,0.37252914332975123
+calibration,Diabetes,mcar_40,estabilidade_mista,0.8223144050587086,0.3689850722125254
+calibration,Diabetes,mcar_40,k_min_8,0.8127481778296263,0.36282595239113147
+calibration,Diabetes,mar_20,salvaguarda_sd,0.7962233952035446,0.3642554490946516
+calibration,Diabetes,mar_20,estabilidade_005,0.7853358722050695,0.36709536826388905
+calibration,Diabetes,mar_20,estabilidade_020,0.791487763952784,0.3662612161062168
+calibration,Diabetes,mar_20,estabilidade_absoluta,0.7920257913264696,0.3662707054460946
+calibration,Diabetes,mar_20,estabilidade_mista,0.7902942900976093,0.3680302530177999
+calibration,Diabetes,mar_20,k_min_8,0.7824944506875369,0.36749154535409084
+calibration,Diabetes,blockwise_20,salvaguarda_sd,0.7900231536747973,0.34483656792645556
+calibration,Diabetes,blockwise_20,estabilidade_005,0.7793636338857621,0.345464759959142
+calibration,Diabetes,blockwise_20,estabilidade_020,0.7862779079596786,0.34755022131426627
+calibration,Diabetes,blockwise_20,estabilidade_absoluta,0.7859608486887129,0.34618147769833163
+calibration,Diabetes,blockwise_20,estabilidade_mista,0.7836621420170647,0.3484388832141641
+calibration,Diabetes,blockwise_20,k_min_8,0.7780176362165778,0.34634320735444335
+calibration,Breast Cancer,mcar_20,salvaguarda_sd,0.4469594677127314,
+calibration,Breast Cancer,mcar_20,estabilidade_005,0.4555864925193125,
+calibration,Breast Cancer,mcar_20,estabilidade_020,0.44400219818133774,
+calibration,Breast Cancer,mcar_20,estabilidade_absoluta,0.45480395532298457,
+calibration,Breast Cancer,mcar_20,estabilidade_mista,0.4505328342607483,
+calibration,Breast Cancer,mcar_20,k_min_8,0.4530135881234216,
+calibration,Breast Cancer,mcar_40,salvaguarda_sd,0.5235762613844386,
+calibration,Breast Cancer,mcar_40,estabilidade_005,0.5299361754368088,
+calibration,Breast Cancer,mcar_40,estabilidade_020,0.5189601600074366,
+calibration,Breast Cancer,mcar_40,estabilidade_absoluta,0.5307843024554875,
+calibration,Breast Cancer,mcar_40,estabilidade_mista,0.5266964610063357,
+calibration,Breast Cancer,mcar_40,k_min_8,0.5273904768730248,
+calibration,Breast Cancer,mar_20,salvaguarda_sd,0.5787443656752624,
+calibration,Breast Cancer,mar_20,estabilidade_005,0.5853154114717749,
+calibration,Breast Cancer,mar_20,estabilidade_020,0.5705998822130806,
+calibration,Breast Cancer,mar_20,estabilidade_absoluta,0.5895428261091468,
+calibration,Breast Cancer,mar_20,estabilidade_mista,0.5819816233757706,
+calibration,Breast Cancer,mar_20,k_min_8,0.5827929928317295,
+calibration,Breast Cancer,blockwise_20,salvaguarda_sd,0.5051594125745253,
+calibration,Breast Cancer,blockwise_20,estabilidade_005,0.5134610350822247,
+calibration,Breast Cancer,blockwise_20,estabilidade_020,0.4983092687186929,
+calibration,Breast Cancer,blockwise_20,estabilidade_absoluta,0.5112960454854617,
+calibration,Breast Cancer,blockwise_20,estabilidade_mista,0.5070135744591331,
+calibration,Breast Cancer,blockwise_20,k_min_8,0.5111692272029023,
+calibration,Heart Disease,mcar_20,salvaguarda_sd,0.9670902266078614,0.3496789763265898
+calibration,Heart Disease,mcar_20,estabilidade_005,0.9405846936775413,0.34875809197383817
+calibration,Heart Disease,mcar_20,estabilidade_020,0.9586689629489356,0.34889861635943137
+calibration,Heart Disease,mcar_20,estabilidade_absoluta,0.9549236766957396,0.34868997350353953
+calibration,Heart Disease,mcar_20,estabilidade_mista,0.9528649596884505,0.349263816034731
+calibration,Heart Disease,mcar_20,k_min_8,0.9385380918853156,0.3460092327091904
+calibration,Heart Disease,mcar_40,salvaguarda_sd,0.9982427308957703,0.3696556556140091
+calibration,Heart Disease,mcar_40,estabilidade_005,0.9726573951947214,0.37055562939164216
+calibration,Heart Disease,mcar_40,estabilidade_020,0.9919273053924572,0.3696776598212442
+calibration,Heart Disease,mcar_40,estabilidade_absoluta,0.9861883902637665,0.3702462543236718
+calibration,Heart Disease,mcar_40,estabilidade_mista,0.9835396216136332,0.3702522752474504
+calibration,Heart Disease,mcar_40,k_min_8,0.9708190652245882,0.36769554918444614
+calibration,Heart Disease,mar_20,salvaguarda_sd,1.006673170773676,0.38960531981349633
+calibration,Heart Disease,mar_20,estabilidade_005,0.974328288038274,0.38967476853507604
+calibration,Heart Disease,mar_20,estabilidade_020,0.9896016281041424,0.3888874722502905
+calibration,Heart Disease,mar_20,estabilidade_absoluta,0.98652507462652,0.3893273224147519
+calibration,Heart Disease,mar_20,estabilidade_mista,0.9836677244370742,0.3892712689824977
+calibration,Heart Disease,mar_20,k_min_8,0.9707062597459789,0.3877055027167837
+calibration,Heart Disease,blockwise_20,salvaguarda_sd,0.9877254107732876,0.36913479388479387
+calibration,Heart Disease,blockwise_20,estabilidade_005,0.9630281733189785,0.3699576995826996
+calibration,Heart Disease,blockwise_20,estabilidade_020,0.9828360389181708,0.3701499307749308
+calibration,Heart Disease,blockwise_20,estabilidade_absoluta,0.979806488869941,0.3714603857103857
+calibration,Heart Disease,blockwise_20,estabilidade_mista,0.9757381438394951,0.37059082134082133
+calibration,Heart Disease,blockwise_20,k_min_8,0.9627061610442079,0.36824380874380874
+calibration,Abalone,mcar_20,salvaguarda_sd,0.2677005136724101,0.46305269868622795
+calibration,Abalone,mcar_20,estabilidade_005,0.2651761256569344,0.46416354669439575
+calibration,Abalone,mcar_20,estabilidade_020,0.2682920230762189,0.46467988017627815
+calibration,Abalone,mcar_20,estabilidade_absoluta,0.26846730536562075,0.4631009071647533
+calibration,Abalone,mcar_20,estabilidade_mista,0.2673438720539997,0.4637166973877287
+calibration,Abalone,mcar_20,k_min_8,0.2613305238181821,0.46124804569368083
+calibration,Abalone,mcar_40,salvaguarda_sd,0.33663171164362216,0.47596117797392745
+calibration,Abalone,mcar_40,estabilidade_005,0.3373655189333634,0.4751972792548398
+calibration,Abalone,mcar_40,estabilidade_020,0.3361652759990024,0.4773031965942612
+calibration,Abalone,mcar_40,estabilidade_absoluta,0.33871631268142544,0.47713965128247554
+calibration,Abalone,mcar_40,estabilidade_mista,0.33745407512592807,0.475921417009083
+calibration,Abalone,mcar_40,k_min_8,0.33328397905615886,0.4742707292470122
+calibration,Abalone,mar_20,salvaguarda_sd,0.3857454543376059,0.5045854158789228
+calibration,Abalone,mar_20,estabilidade_005,0.37995607255264224,0.5052674603563028
+calibration,Abalone,mar_20,estabilidade_020,0.38735933951735996,0.5038213367033582
+calibration,Abalone,mar_20,estabilidade_absoluta,0.38353488375753875,0.5058719404689571
+calibration,Abalone,mar_20,estabilidade_mista,0.3837503122663467,0.5059984893458057
+calibration,Abalone,mar_20,k_min_8,0.37504006604957607,0.5037892266706727
+calibration,Abalone,blockwise_20,salvaguarda_sd,0.2709588180731781,0.4706475470112407
+calibration,Abalone,blockwise_20,estabilidade_005,0.2685142288718171,0.47104720702136393
+calibration,Abalone,blockwise_20,estabilidade_020,0.271382584091344,0.4703123895749171
+calibration,Abalone,blockwise_20,estabilidade_absoluta,0.27143971216154356,0.470216829498897
+calibration,Abalone,blockwise_20,estabilidade_mista,0.27063206831973197,0.470264542684965
+calibration,Abalone,blockwise_20,k_min_8,0.2650221205201295,0.4692436944293232
+calibration,California Housing,mcar_20,salvaguarda_sd,0.788676143032044,
+calibration,California Housing,mcar_20,estabilidade_005,0.7853101634817449,
+calibration,California Housing,mcar_20,estabilidade_020,0.7867141926745853,
+calibration,California Housing,mcar_20,estabilidade_absoluta,0.7872612413483864,
+calibration,California Housing,mcar_20,estabilidade_mista,0.7880694849388862,
+calibration,California Housing,mcar_20,k_min_8,0.7681760355863858,
+calibration,California Housing,mcar_40,salvaguarda_sd,0.909090142696402,
+calibration,California Housing,mcar_40,estabilidade_005,0.8969169270565371,
+calibration,California Housing,mcar_40,estabilidade_020,0.9091438421000263,
+calibration,California Housing,mcar_40,estabilidade_absoluta,0.9040612710730331,
+calibration,California Housing,mcar_40,estabilidade_mista,0.9052885378189547,
+calibration,California Housing,mcar_40,k_min_8,0.8721936538573357,
+calibration,California Housing,mar_20,salvaguarda_sd,1.123232770457502,
+calibration,California Housing,mar_20,estabilidade_005,1.104155920577914,
+calibration,California Housing,mar_20,estabilidade_020,1.105251180830041,
+calibration,California Housing,mar_20,estabilidade_absoluta,1.0972913445525416,
+calibration,California Housing,mar_20,estabilidade_mista,1.0937779950643989,
+calibration,California Housing,mar_20,k_min_8,1.008040403789274,
+calibration,California Housing,blockwise_20,salvaguarda_sd,0.8126371673244159,
+calibration,California Housing,blockwise_20,estabilidade_005,0.8082166733480696,
+calibration,California Housing,blockwise_20,estabilidade_020,0.8165227226520377,
+calibration,California Housing,blockwise_20,estabilidade_absoluta,0.8147674778771136,
+calibration,California Housing,blockwise_20,estabilidade_mista,0.814293906475762,
+calibration,California Housing,blockwise_20,k_min_8,0.7982042330200013,
+calibration,Penguins,mcar_20,salvaguarda_sd,0.6013076567543468,
+calibration,Penguins,mcar_20,estabilidade_005,0.5914957910590154,
+calibration,Penguins,mcar_20,estabilidade_020,0.6039949178106978,
+calibration,Penguins,mcar_20,estabilidade_absoluta,0.6018721523670411,
+calibration,Penguins,mcar_20,estabilidade_mista,0.5998898600881264,
+calibration,Penguins,mcar_20,k_min_8,0.5902507172997831,
+calibration,Penguins,mcar_40,salvaguarda_sd,0.6876394620539756,
+calibration,Penguins,mcar_40,estabilidade_005,0.6751076050818864,
+calibration,Penguins,mcar_40,estabilidade_020,0.6881436697050428,
+calibration,Penguins,mcar_40,estabilidade_absoluta,0.6843904725866052,
+calibration,Penguins,mcar_40,estabilidade_mista,0.6823468252638266,
+calibration,Penguins,mcar_40,k_min_8,0.6725793522778712,
+calibration,Penguins,mar_20,salvaguarda_sd,0.6806786698488043,
+calibration,Penguins,mar_20,estabilidade_005,0.6730756846126511,
+calibration,Penguins,mar_20,estabilidade_020,0.680810974355917,
+calibration,Penguins,mar_20,estabilidade_absoluta,0.6790474418076824,
+calibration,Penguins,mar_20,estabilidade_mista,0.6786487018089863,
+calibration,Penguins,mar_20,k_min_8,0.6700980856072029,
+calibration,Penguins,blockwise_20,salvaguarda_sd,0.5993341673154293,
+calibration,Penguins,blockwise_20,estabilidade_005,0.5962015782336065,
+calibration,Penguins,blockwise_20,estabilidade_020,0.6054577172385194,
+calibration,Penguins,blockwise_20,estabilidade_absoluta,0.6025721016440638,
+calibration,Penguins,blockwise_20,estabilidade_mista,0.6013334411147738,
+calibration,Penguins,blockwise_20,k_min_8,0.5946831002329467,
+calibration,Titanic,mcar_20,salvaguarda_sd,0.8727980238686801,0.2616359365382558
+calibration,Titanic,mcar_20,estabilidade_005,0.852304460943555,0.2634646423001753
+calibration,Titanic,mcar_20,estabilidade_020,0.855717602120856,0.26265636472302334
+calibration,Titanic,mcar_20,estabilidade_absoluta,0.856661436937589,0.2625626971232846
+calibration,Titanic,mcar_20,estabilidade_mista,0.8557392308386967,0.26199195697691263
+calibration,Titanic,mcar_20,k_min_8,0.8402795566788425,0.2643605544366921
+calibration,Titanic,mcar_40,salvaguarda_sd,0.9584568543119407,0.3100713587065654
+calibration,Titanic,mcar_40,estabilidade_005,0.9268146294278745,0.31156690698903294
+calibration,Titanic,mcar_40,estabilidade_020,0.9353330017592,0.31217882524399077
+calibration,Titanic,mcar_40,estabilidade_absoluta,0.9303982694059307,0.31251897748756646
+calibration,Titanic,mcar_40,estabilidade_mista,0.9310662977717038,0.31171575672193363
+calibration,Titanic,mcar_40,k_min_8,0.9152897874121091,0.3130685696106792
+calibration,Titanic,mar_20,salvaguarda_sd,0.9289993145765163,0.2880358627125961
+calibration,Titanic,mar_20,estabilidade_005,0.9072947637003599,0.2866858831681548
+calibration,Titanic,mar_20,estabilidade_020,0.911884043352218,0.2876032940453813
+calibration,Titanic,mar_20,estabilidade_absoluta,0.911325823864088,0.28734461979112497
+calibration,Titanic,mar_20,estabilidade_mista,0.9097406430329473,0.2872672866169148
+calibration,Titanic,mar_20,k_min_8,0.8894553608546601,0.28734149458420094
+calibration,Titanic,blockwise_20,salvaguarda_sd,0.9359129555082947,0.3020573073656634
+calibration,Titanic,blockwise_20,estabilidade_005,0.9126893904397587,0.3032859121072102
+calibration,Titanic,blockwise_20,estabilidade_020,0.9205283013699841,0.3020031898202128
+calibration,Titanic,blockwise_20,estabilidade_absoluta,0.9190050381312481,0.30183559182968434
+calibration,Titanic,blockwise_20,estabilidade_mista,0.9187480873418952,0.3004932970592046
+calibration,Titanic,blockwise_20,k_min_8,0.8971970547482179,0.3061894753206374
+calibration,Auto MPG,mcar_20,salvaguarda_sd,0.47327086921853995,0.2394498653389231
+calibration,Auto MPG,mcar_20,estabilidade_005,0.47316008541318155,0.2411681171801321
+calibration,Auto MPG,mcar_20,estabilidade_020,0.47093176582543,0.23883427748529693
+calibration,Auto MPG,mcar_20,estabilidade_absoluta,0.4693528793795851,0.2388592636961232
+calibration,Auto MPG,mcar_20,estabilidade_mista,0.4697155915584954,0.24042030733840974
+calibration,Auto MPG,mcar_20,k_min_8,0.47182052641927236,0.2503989698867549
+calibration,Auto MPG,mcar_40,salvaguarda_sd,0.5598279885789591,0.2977920030940062
+calibration,Auto MPG,mcar_40,estabilidade_005,0.5582401636065752,0.2977123156896948
+calibration,Auto MPG,mcar_40,estabilidade_020,0.5610344587118311,0.29870430717170626
+calibration,Auto MPG,mcar_40,estabilidade_absoluta,0.5598355444324026,0.2953683267895403
+calibration,Auto MPG,mcar_40,estabilidade_mista,0.558207027686317,0.2965229152296959
+calibration,Auto MPG,mcar_40,k_min_8,0.5558485726497895,0.29904211646070994
+calibration,Auto MPG,mar_20,salvaguarda_sd,0.5037100962445408,0.08653553565875416
+calibration,Auto MPG,mar_20,estabilidade_005,0.507487690911277,0.08764803432337852
+calibration,Auto MPG,mar_20,estabilidade_020,0.5023869111476844,0.08671255416280443
+calibration,Auto MPG,mar_20,estabilidade_absoluta,0.5054052383576177,0.08753293958531214
+calibration,Auto MPG,mar_20,estabilidade_mista,0.503568279814134,0.08653523697297161
+calibration,Auto MPG,mar_20,k_min_8,0.5045497230649693,0.09145812982078376
+calibration,Auto MPG,blockwise_20,salvaguarda_sd,0.5116538379525064,0.2702962644911979
+calibration,Auto MPG,blockwise_20,estabilidade_005,0.508442702210587,0.27145566403859755
+calibration,Auto MPG,blockwise_20,estabilidade_020,0.5106996267340965,0.27231313640446125
+calibration,Auto MPG,blockwise_20,estabilidade_absoluta,0.5083607595993129,0.27192386274302377
+calibration,Auto MPG,blockwise_20,estabilidade_mista,0.5089950213406261,0.27087170169030267
+calibration,Auto MPG,blockwise_20,k_min_8,0.5071528965865901,0.2782686894709222
+calibration,Ionosphere,mcar_20,salvaguarda_sd,0.7452592638351824,0.10957770292829498
+calibration,Ionosphere,mcar_20,estabilidade_005,0.7350862714750683,0.10959750764951863
+calibration,Ionosphere,mcar_20,estabilidade_020,0.7312129854580672,0.1091149412584142
+calibration,Ionosphere,mcar_20,estabilidade_absoluta,0.7306345412832805,0.10994888274425066
+calibration,Ionosphere,mcar_20,estabilidade_mista,0.7313367748837571,0.10937850741387196
+calibration,Ionosphere,mcar_20,k_min_8,0.7356462832505835,0.11443868847686336
+calibration,Ionosphere,mcar_40,salvaguarda_sd,0.7766580243679453,0.10970308589916267
+calibration,Ionosphere,mcar_40,estabilidade_005,0.7657526977855075,0.10978827628626202
+calibration,Ionosphere,mcar_40,estabilidade_020,0.7611252353301133,0.11043233138017025
+calibration,Ionosphere,mcar_40,estabilidade_absoluta,0.7614165532320792,0.11114062798544379
+calibration,Ionosphere,mcar_40,estabilidade_mista,0.7619914617713917,0.11074266876165204
+calibration,Ionosphere,mcar_40,k_min_8,0.7634616032697459,0.1099535755166211
+calibration,Ionosphere,mar_20,salvaguarda_sd,0.677739978868482,0.07853257403615231
+calibration,Ionosphere,mar_20,estabilidade_005,0.6784958296796558,0.07815247083197335
+calibration,Ionosphere,mar_20,estabilidade_020,0.6702530787770498,0.0784752409462813
+calibration,Ionosphere,mar_20,estabilidade_absoluta,0.6712226874154327,0.07823658532788423
+calibration,Ionosphere,mar_20,estabilidade_mista,0.6724867189073361,0.0784819292041709
+calibration,Ionosphere,mar_20,k_min_8,0.6784905820056102,0.07696429583788993
+calibration,Ionosphere,blockwise_20,salvaguarda_sd,0.7713774506583017,0.11346478873239436
+calibration,Ionosphere,blockwise_20,estabilidade_005,0.7685752956535232,0.11289604292421193
+calibration,Ionosphere,blockwise_20,estabilidade_020,0.7606669392603894,0.11213413816230718
+calibration,Ionosphere,blockwise_20,estabilidade_absoluta,0.7609308367324289,0.11270288397048961
+calibration,Ionosphere,blockwise_20,estabilidade_mista,0.7623203549348994,0.11308651911468812
+calibration,Ionosphere,blockwise_20,k_min_8,0.7673635167644349,0.10947551978537892
+calibration,Heart Failure,mcar_20,salvaguarda_sd,1.081936522886886,0.39786651227299985
+calibration,Heart Failure,mcar_20,estabilidade_005,1.031066625406843,0.39862674778542756
+calibration,Heart Failure,mcar_20,estabilidade_020,1.052803061547989,0.39870997735983843
+calibration,Heart Failure,mcar_20,estabilidade_absoluta,1.046370199425449,0.39677017433675654
+calibration,Heart Failure,mcar_20,estabilidade_mista,1.043229236742016,0.39749778052118245
+calibration,Heart Failure,mcar_20,k_min_8,1.0328438310183825,0.3942466697842876
+calibration,Heart Failure,mcar_40,salvaguarda_sd,1.0798981174143292,0.41138747381276053
+calibration,Heart Failure,mcar_40,estabilidade_005,1.0361440390771175,0.41139038845150067
+calibration,Heart Failure,mcar_40,estabilidade_020,1.0561448956267796,0.4113370444010914
+calibration,Heart Failure,mcar_40,estabilidade_absoluta,1.045996564214713,0.41216854986022966
+calibration,Heart Failure,mcar_40,estabilidade_mista,1.0439825087119412,0.41159809936158176
+calibration,Heart Failure,mcar_40,k_min_8,1.0335599902752215,0.40703092817907593
+calibration,Heart Failure,mar_20,salvaguarda_sd,1.0802563518138957,0.41486179845931376
+calibration,Heart Failure,mar_20,estabilidade_005,1.0321215583829286,0.4137208305773046
+calibration,Heart Failure,mar_20,estabilidade_020,1.0513000745222856,0.4142023721250922
+calibration,Heart Failure,mar_20,estabilidade_absoluta,1.0443558006422307,0.41268070786948036
+calibration,Heart Failure,mar_20,estabilidade_mista,1.041102414305307,0.41414324376671907
+calibration,Heart Failure,mar_20,k_min_8,1.0316176124615208,0.41177422654937196
+calibration,Heart Failure,blockwise_20,salvaguarda_sd,1.0860853377787991,0.41423201506591334
+calibration,Heart Failure,blockwise_20,estabilidade_005,1.0384491316003093,0.4158350282485876
+calibration,Heart Failure,blockwise_20,estabilidade_020,1.0556683754412812,0.4163691148775895
+calibration,Heart Failure,blockwise_20,estabilidade_absoluta,1.050309780267474,0.41757288135593223
+calibration,Heart Failure,blockwise_20,estabilidade_mista,1.047122682205963,0.4172572504708098
+calibration,Heart Failure,blockwise_20,k_min_8,1.0368638499394964,0.41401054613935967

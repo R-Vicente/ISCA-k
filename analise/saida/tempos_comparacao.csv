@@ -1,0 +1,6 @@
+metodo,pares,mais_rapido_que_iscak,mediana_razao_tempo_metodo_sobre_iscak
+Mean/Mode,72,72,0.0005860552060543158
+k-NN,72,24,1.1210736167756283
+MICE,72,58,0.43035024852944237
+missForest,72,0,14.105423364008878
+SoftImpute,72,72,0.03014671757968925

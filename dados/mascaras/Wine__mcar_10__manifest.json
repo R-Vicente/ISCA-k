@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_10",
+    "kind": "mcar",
+    "prop": 0.1
+  },
+  "dataset_id": "Wine",
+  "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+  "mask_bundle_file": "Wine__mcar_10__masks.npz",
+  "mask_bundle_sha256": "4b5186883755cdb4580a1679cc1cd128fe19f7581f11b0231a771a78086f5f10",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09593777009507347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a387900c68536fafac5fb7e3b3740ba107a29af5f39032fff3fcc38b4d6ec1ec",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 222,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.1024200518582541,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "55232cbd5838d7d5b90a6fc7053b891771364c9de50bfc7ec412b6a768158f6e",
+      "max_missing_per_col": 28,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 8,
+      "min_missing_per_row": 0,
+      "missing_count": 237,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10414866032843562,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0b93ca7be2cb409890d8ef543da401f731e6087f13077e950fdfe3bfb68c9f62",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 14,
+      "min_missing_per_row": 0,
+      "missing_count": 241,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.11279170267934313,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "713e052626e34399cc8dfdb7f90cca4dc1b96a99cee291cdaf90b09dd3110efa",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 16,
+      "min_missing_per_row": 0,
+      "missing_count": 261,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10760587726879861,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ffbaea3c912838dacd94ac6a0ed84e4a07ac3dba6f841d0d16af976031bb0ea4",
+      "max_missing_per_col": 32,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 249,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10198789974070872,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fe09d020112e35223a309c840c551ad86dd38666b7c598ab545702bf0dbe0cc0",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 236,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.0989628349178911,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "04f1aef4518dacecb4525fe4512b34f30cfb9cc9a59b269c29a9077703fb436e",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 229,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10803802938634399,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "802d99f8e68a5d0c9aaa770656758ec6ca73262e6d782b75c6b543286ff2cf1d",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 14,
+      "min_missing_per_row": 0,
+      "missing_count": 250,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.12013828867761452,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "930bc9ee7efbdc385b5ba03ec2efd952471ba88ecd83de705a65b00a57e5d05e",
+      "max_missing_per_col": 28,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 278,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.1063094209161625,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ef4963b61b85c7e77aff04b8fe0680589002a4a9a54e13909eaa5e45027a1a85",
+      "max_missing_per_col": 29,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 246,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10890233362143474,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e4d209bc5af14161bb20f866d63b9260c6176a7069c83cca3058b2bdd5171cba",
+      "max_missing_per_col": 27,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 252,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10847018150388937,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9a53cd03b98ca55275ebb0ae75c6798601ce1103c9a064ba9dc8fa3b53cb7e35",
+      "max_missing_per_col": 33,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 251,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10155574762316336,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "99470d425368161eab5170729fd7888a2b476ef20e78673cc52d83727d107457",
+      "max_missing_per_col": 28,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 235,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10025929127052723,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0e5bd825644ac6a0b957189d04587bdbd5ddf7cc8dd8df0c4948d0e97875b349",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 232,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.08859118409680207,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0f12eab2a9860a4972d6b727cf155de6149e01ea72b01656efae3f5c70d70c1b",
+      "max_missing_per_col": 21,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 205,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10069144338807261,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b81bc32d504411575dd1aa4825cf96b87fcf3d95e0cdf2391bceb363d32763e3",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 233,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09291270527225583,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "362df3dfa5f57b0ef34519d07c555e15f687feddcb819c0fe3f33308bd1cc968",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 215,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10198789974070872,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d7349639d32dd5f2f0bf53cc279ff8bb9aec8ef1e6c75405a994b3999469ae74",
+      "max_missing_per_col": 28,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 236,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09939498703543648,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ea621e29dcf35dfd1bd9524eb9cf6ca6ad7c2c3a7f3a2d71ef3b356723ef3aee",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 230,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "87c3ed07aa30b4c8460f3220c0a66f146b3cb28b912b50459d3f8c3a65cfd9b5",
+      "max_missing_per_col": 27,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10112359550561797,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3b813a9bdba8dda82a8cdcd5d804db14327d7c85a97a5cc277f10e002f0116cf",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 234,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.0972342264477096,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e2c1839a39e30ad483f68d2e595b33c63c51e4ef3b6060fe95d248b30cec5e98",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 225,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10155574762316336,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "82c2d3a75baec952948e3c849f934aeec2282c68e0024f273deb7f7966f7f407",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 9,
+      "min_missing_per_row": 0,
+      "missing_count": 235,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10155574762316336,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "22d5f68dfe2ef021f265bebd6154fbb6113219c9198ddeaffd76ce6df08ca36b",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 235,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.1097666378565255,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f9cefa536399484cbd2a16997284b1256b3d053ddd531a06e46f3d01be68a9f4",
+      "max_missing_per_col": 33,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 254,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09593777009507347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1cd8d081e505cc4c831f2c7c46a2927af03cc264959c794e56ebe6c1186bdaf7",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 222,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1c9ccc1176030ddc65449054ac8e94ccb5db20d913849e606aa57df604494770",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10458081244598098,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0a7d9ff3562cdeba22f97dadddd6df72b772e76f200f8757fd4aab1c0de00094",
+      "max_missing_per_col": 31,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 242,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09291270527225583,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "aee39985fa5fc4440dfb88eef50f9d7ba41307c009ed979e6c058149fb6b3d96",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 215,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10069144338807261,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "249a915458017f2ad2ea805493bd41446164ecf170123e9f5850e3f037965726",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 233,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09636992221261884,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2b39d02b436869c68ff66377608786f7b1b49e397649a560ec8695d42e3692c5",
+      "max_missing_per_col": 29,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 223,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.0989628349178911,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a8a8e3cb4c76415baf5b446b04b64766f30e710e4fb2a05a4a1183ad5ccea4e9",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 229,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10155574762316336,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "46fd4963f206cd92cd29e3a5ac113b1f28db851865ca1e8d4880e33e785b5e9e",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 235,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10155574762316336,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6c75a5c4a7d5e559d5408a72e42e4be3c0b188ad3dad37d9f27bc2dc1a8166f0",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 235,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10198789974070872,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9bfe0e773e3aad438b1d1e8d54f0c6b05b833cd46eab27a387a3696065a6635f",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 236,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "00a65dbab70ad248115b009347428913315433e444806b7c56b55ee6ab8bf0d7",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09291270527225583,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "91d18c7ed65887ca68fa5f0b524e485d2a6ab23a2fcb30c41439644325bcff0d",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 215,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.11495246326707001,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cfbf46420d3fc0e87c5fe5fec1f2480e165fcb9462ad392ae2ec418d74cca40f",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 16,
+      "min_missing_per_row": 0,
+      "missing_count": 266,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09420916162489196,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "104c2d161bf8d7f928d8bebb480d5c722222f715c86567540a1ce39815685816",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 218,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09766637856525497,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "69ef139c55629169b689bdbbb67ff5ef3a2b0e273b2aaf9a0cb580ae55a756e0",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 226,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.0989628349178911,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8fa39a4b9a479d4e95b15f0c94f04f5ce165fd3cec7bd2a8b4bf25fbeec92e5a",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 229,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.0989628349178911,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a59e14235c99fb6418df99a0d730c0d6a21012999e0130368dc30b6b8d8086d9",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 229,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8a80c272c1943fd67570953e4d3842ec583776f66c41e460ea32b7ed5cec90db",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10890233362143474,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f45855d8d3973a8f27f30be148fae3ba1bfcb979b751a4838d38d189cb1680f4",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 252,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10112359550561797,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b2501b952fb1bd780653285c140c8358c124c79f919002c7ad1a8073a356c35a",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 234,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.11408815903197926,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "49fa2e478c7d0572cf7c5b0236a49219396432510879b408165207d9ace1d460",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 15,
+      "min_missing_per_row": 0,
+      "missing_count": 264,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10112359550561797,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3a152abc51cd6218afd56af0008d275699c8dde01ea8ab72abfd5ecefab6e0c9",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 234,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10933448573898012,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "956857ce78eaa80e7d013bc0632f0c4978e2d24375b428df3308a15bbd58e55a",
+      "max_missing_per_col": 35,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 253,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1528ff955881ef6a2a38e05acd08af950b6d3793c0845219c200fc3192f45b49",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.1132238547968885,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6c371601fbc0c61fcdb7bddd189bc4600d86232049caa8755179aefd7649396e",
+      "max_missing_per_col": 30,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 262,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10414866032843562,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fedd620a4e2c992d672268d316fd2105d6f5929a17ad1195b4671d0651d58bf0",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 241,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09593777009507347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f5931d5787af84a11d2bbbb007bd3f639a6b4035750e8f3c29cfb434e0a8a599",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 222,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09809853068280035,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "40311bd4f7f6990da4617bb9be504946efe73eddbdf317a4bb2df245d40f11d5",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 227,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10112359550561797,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cc3ff53a65d4c381145442ae079e7347372b71bbdc8433eae7c1b7323e66649e",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 234,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10155574762316336,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3498c2a38fb32386ba2e2dd9455c41a663c315b85bd72c8e12964f9a97c79d4d",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 8,
+      "min_missing_per_row": 0,
+      "missing_count": 235,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09161624891961971,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "002ba1f6670937aa21b1085b8e6e18c65040deeb3e85f08b3a454611f36fcaca",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 212,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.11452031114952463,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f0d12970418e88d70395152e477ccc31f36c436baaf46dd6a4739dedbf0a1c20",
+      "max_missing_per_col": 28,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 265,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09377700950734659,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f47d468a012dd5dfa660f01ea5a91b8182360d34e1b9ec9d26a3ecad811a116f",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 217,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "06ee9eecffd4b753bb3978996f1bbc51d86deee37bd88f08919f713ab26c3a64",
+      "max_missing_per_col": 20,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 14,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09982713915298184,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "667810236e3347cda43025f19acb4cc986050d2f1e39fda2bd31d851cba38212",
+      "max_missing_per_col": 27,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 14,
+      "min_missing_per_row": 0,
+      "missing_count": 231,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10285220397579949,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d1f7c5301610585c7e73d0d92b9a468055d6f5e6875c7892f7eb378674acbbd2",
+      "max_missing_per_col": 26,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 238,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10803802938634399,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "22524095b7a3166502069c8220f0d22fd192a42c45133b316604c3ab73325f0d",
+      "max_missing_per_col": 27,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 14,
+      "min_missing_per_row": 0,
+      "missing_count": 250,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09809853068280035,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "baf8534091fb84aa25f31934fe9ae96e0f1fd282b774efb54fd492b9ed1b4761",
+      "max_missing_per_col": 21,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 227,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10371650821089023,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "71d46ecda02bc4826c75712d6bbc2e39cac3a3fe17fba734b2d4e1e8a544a483",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 240,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.1063094209161625,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bdd9599a687055ed731be1dbc6018d6818d0072ab76ea112207ee3ba842165cd",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 246,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.10847018150388937,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c53d57e9f5cfb08c01ce0880939bbc52b9483b7cf02a04ec16ae195fc6f5e8a4",
+      "max_missing_per_col": 28,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 15,
+      "min_missing_per_row": 0,
+      "missing_count": 251,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09939498703543648,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "55af230e7d0e7fe24d61cf22876b8f1dc9dea075b8bd11d2e75a1c1cb57f65ce",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 230,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09507346585998272,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "eee45c68f9ee8be560bd49ad92ce78d812fbba70c1ef750f85e9c32304eed4f2",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 220,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.1097666378565255,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e0eff20069edd638a33f1b6143920c0dffa6e28de2b9f2ad56da5e728a339350",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 254,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09809853068280035,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ebadfc7d09a5c5d1c440bc5d4b96274b9c6d80ca2256194fc0824306eedc8f20",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 10,
+      "min_missing_per_row": 0,
+      "missing_count": 227,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09593777009507347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3695b7551e43750e790947fa09735b180568f4a24d5c2af688631e1d3f9f998b",
+      "max_missing_per_col": 25,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 222,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09680207433016422,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6c59cc54beb90d3056454357d0c502a3b83c5eaedbe63f14087234bd69ffcbbf",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 13,
+      "min_missing_per_row": 0,
+      "missing_count": 224,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a6424108ce0267ec6b95c876165039229e306f317e70dc9bd453dacfd46f1634",
+      "max_missing_per_col": 22,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 11,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09809853068280035,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "79dca229577c75e5bd833a33922f77b58b473e6111886e39c57cbc2c10610ea3",
+      "max_missing_per_col": 23,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 12,
+      "min_missing_per_row": 0,
+      "missing_count": 227,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        178,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Wine",
+      "dataset_sha256": "a466b489d2b521918e3835915da4819d4b542c772ae2f674fc8290368a1bad06",
+      "effective_rate": 0.09853068280034573,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b1179739a28fa1cac92827c1f3caafabd377b1503ed7ed1d376275f3f24c0ff9",
+      "max_missing_per_col": 24,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 8,
+      "min_missing_per_row": 0,
+      "missing_count": 228,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        178,
+        13
+      ]
+    }
+  ]
+}

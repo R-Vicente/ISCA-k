@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_50",
+    "kind": "mcar",
+    "prop": 0.5
+  },
+  "dataset_id": "Heart Disease",
+  "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+  "mask_bundle_file": "Heart_Disease__mcar_50__masks.npz",
+  "mask_bundle_sha256": "6be095a96ed6bc7100e74194cd6b5ef1706205f1b0ab71a7987807384027abc0",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.502978502978503,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c4dfc05748e9a818c3478379ffbf7cd06cd8d2031205a5d541d9dd764e5a3f3d",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 132,
+      "min_missing_per_row": 2,
+      "missing_count": 1942,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5055685055685055,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "024eaa34eda0e9dc2305c4a038b0f89f0ef449ae4a3ed71f9c14a136e806a705",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 140,
+      "min_missing_per_row": 2,
+      "missing_count": 1952,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4928774928774929,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "06fd14ade1c18be75a4417b7a93fdf3d3eb33d7244f30799785fd526004ca16c",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 2,
+      "missing_count": 1903,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5081585081585082,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8f40de435622a265475b517356329a36cbf609a434b75c92d2414b8fe0cc89e0",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 1,
+      "missing_count": 1962,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5019425019425019,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3f4cb872334604ac02152c7d5aed74b38b7ea4c9efb2769f5557263d4d74259f",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 2,
+      "missing_count": 1938,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.47863247863247865,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "86d19f02b79f11e6c9836a3695574371a8bef56e87c20c13b199fe7a29b6fd65",
+      "max_missing_per_col": 155,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 120,
+      "min_missing_per_row": 3,
+      "missing_count": 1848,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49805749805749805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "660e2bc43a06facb57e3c8b315850d5d63306b4b6daa0bf7ebde64f61e6501a2",
+      "max_missing_per_col": 155,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 139,
+      "min_missing_per_row": 3,
+      "missing_count": 1923,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5078995078995079,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ed42e6466ddfd8c0ae07e6f27851cab06f54c111aad3a2304a957db46818a04c",
+      "max_missing_per_col": 166,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 139,
+      "min_missing_per_row": 2,
+      "missing_count": 1961,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49546749546749547,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6ab5352b8ca9f12345eee621ee964ff247ef17f535286f90daea9f5b7eb8a413",
+      "max_missing_per_col": 160,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 134,
+      "min_missing_per_row": 2,
+      "missing_count": 1913,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5055685055685055,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d3582d038b2bff9ac13607889ef5a3d6b9105d31dbacdcb358fa1752945a719c",
+      "max_missing_per_col": 166,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 138,
+      "min_missing_per_row": 2,
+      "missing_count": 1952,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49184149184149184,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "27e1e9a50a9af7a25652c1222c4817c8a4fe6db2b48df05ae0a5595734c5865e",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 132,
+      "min_missing_per_row": 1,
+      "missing_count": 1899,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.511007511007511,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "499e5142032185e558bcee23c1be654eb7c30ac337994e5fb75c0667602ca8c1",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 143,
+      "min_missing_per_row": 1,
+      "missing_count": 1973,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4988344988344988,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4c57d97b2fbaf9205037dce3e1e4794de01423348108a3e2ae7553db65f0d612",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 135,
+      "min_missing_per_row": 0,
+      "missing_count": 1926,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.494949494949495,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ed6d0d4dc900d6e1e618262be79ba83884ace3e8996aac5d00c3e7a51c87afc3",
+      "max_missing_per_col": 160,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 134,
+      "min_missing_per_row": 1,
+      "missing_count": 1911,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4882154882154882,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c54ff78a5ba23f956b9b242a42e5909e2779d16cbc313967fd35325bd9ca1ab4",
+      "max_missing_per_col": 155,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 2,
+      "missing_count": 1885,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4902874902874903,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "60a07d2419c06e17c71ec14bf453c876853fbcbbb6c9bc0bc3ed1a18f06e8a4f",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 127,
+      "min_missing_per_row": 2,
+      "missing_count": 1893,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4933954933954934,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f33f2c4601d36b08a538b472d6088a63c9ddba08070824f6d6139c33fe9c9363",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 2,
+      "missing_count": 1905,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4944314944314944,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1bd46ee118321581709cb1a2211d3f652474df3e18d8e5f1f5a7455fb44c4056",
+      "max_missing_per_col": 160,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 123,
+      "min_missing_per_row": 2,
+      "missing_count": 1909,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49987049987049986,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3e90fd7b3c40e8f7f29899f51a7850ead9fe27d8087a9cb6edfeb6d530af0aa1",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 140,
+      "min_missing_per_row": 2,
+      "missing_count": 1930,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4972804972804973,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "520bb2f56a193d8575c30a1ab88b3f8d5b7598c358948bd7101d17e0340402ea",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 1920,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4977984977984978,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fa52c2cedd61ecc17f53a7277a92b25ed0cee42bc76d1bed21c10ec32f0d7178",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 130,
+      "min_missing_per_row": 2,
+      "missing_count": 1922,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49158249158249157,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a73d3c94acecc292b1bf757a886e017a06e4131fa9249deeff55f81966ec8296",
+      "max_missing_per_col": 166,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 132,
+      "min_missing_per_row": 2,
+      "missing_count": 1898,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5009065009065009,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "67b38a19b664314f6778cb88f7866efaf3af664fd732705525fc4e23ec206095",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 134,
+      "min_missing_per_row": 2,
+      "missing_count": 1934,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49391349391349393,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0c6af48e1b858dc8d42ada3fc8e49bd788d86a1c13eaacbfffbf136abba04c7e",
+      "max_missing_per_col": 158,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 2,
+      "missing_count": 1907,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4905464905464905,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "07ad545ad6585ab3bee0d54766c17a3d602544d7218f447574863eba16c19514",
+      "max_missing_per_col": 166,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 1,
+      "missing_count": 1894,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5047915047915048,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3514c2236a3fcd97b9d2739a384a8d3ace57a0d3f0da799c1fda62e06ef6b069",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 1,
+      "missing_count": 1949,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5058275058275058,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5a24c04e3895fa43bd8cf1170affcf8dc868bb8502e5f2db9c4d1526190038d6",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 0,
+      "missing_count": 1953,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4983164983164983,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fd0d5d87bc134c2ea157d8188e73a3007a6730e9767b8b9fb58aa29e88c1ba55",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 129,
+      "min_missing_per_row": 1,
+      "missing_count": 1924,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5154105154105154,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "394f454fb7e8948c9f3d15f16b328b8cc0f745a0863a741ca3a1cad8421d26e0",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 1,
+      "missing_count": 1990,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49805749805749805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "587a895757d544ad6d24239bbd54c5c944b1ce7301e36718b1a4b25ac2678836",
+      "max_missing_per_col": 158,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 1,
+      "missing_count": 1923,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4977984977984978,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4e5ca182f3f1d2cc72d18aec2563f4399e7f3619818f3232dee049bf09cab824",
+      "max_missing_per_col": 169,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 126,
+      "min_missing_per_row": 2,
+      "missing_count": 1922,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49753949753949755,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6508b96d5f6b7c8128c5cedebcd6d8f3e0b7dbb31e871e3db7a83cb60f54abb9",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 129,
+      "min_missing_per_row": 2,
+      "missing_count": 1921,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4783734783734784,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6c449910b0a4fafe80913343a71f63661235e8f39a79ea658bf2d9395ece681a",
+      "max_missing_per_col": 153,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 1,
+      "missing_count": 1847,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49365449365449365,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6e97fb677126c3d23de65038ceec43e1b1b9d387481ebdccede0d2b3ea1dae24",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 135,
+      "min_missing_per_row": 2,
+      "missing_count": 1906,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4946904946904947,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9e31dd8571d91766eeb8fbc5577d0a09c9a0249d445956d766ad14e39aabf31e",
+      "max_missing_per_col": 163,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 2,
+      "missing_count": 1910,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5138565138565139,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e0d39ee5a05141162fc6104d3bc95ad7ffdddd564bebf2c410d2680a62737844",
+      "max_missing_per_col": 163,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 138,
+      "min_missing_per_row": 2,
+      "missing_count": 1984,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4887334887334887,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "67dc8640f62256c7bd213609bcc5a19d9ce1fd6920a2239512575041d6e54ced",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 2,
+      "missing_count": 1887,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4990934990934991,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3f211918102d55f01051ac871d2cd73ee98d52e12a2bea8ef4042c3b0e382c85",
+      "max_missing_per_col": 160,
+      "max_missing_per_row": 10,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 3,
+      "missing_count": 1927,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5014245014245015,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4da4df547acb9cb9b4136e8e1c5f6066f83fc62170733aad606ee9aebcb2e220",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 132,
+      "min_missing_per_row": 1,
+      "missing_count": 1936,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5123025123025123,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d3bb9557b7b4686341d5159fbee9b70b46e6b1d7c0dd3f4eba47bd1aab6353d6",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 138,
+      "min_missing_per_row": 2,
+      "missing_count": 1978,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49313649313649316,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f78a88e0c3e59e9a25feaa4af394656920458452760b0f009f7f3718d7664abe",
+      "max_missing_per_col": 157,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 135,
+      "min_missing_per_row": 2,
+      "missing_count": 1904,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49987049987049986,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f5bbff309df220c5e3805deb70bc5c7650075c3909add1d576e6c8af1673b712",
+      "max_missing_per_col": 160,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 138,
+      "min_missing_per_row": 1,
+      "missing_count": 1930,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5024605024605024,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1c8bdbb2f5dd33956d11817fa9b8247b43383317ae5ad018c3665f458ec506c9",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 134,
+      "min_missing_per_row": 2,
+      "missing_count": 1940,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.48795648795648794,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c52340f41fe7c6615a69dadd93a802ea6db364837cd86269a8437716c5b7d959",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 126,
+      "min_missing_per_row": 2,
+      "missing_count": 1884,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49313649313649316,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f7076332c7da478d3e584555033d1036825866b3433b66bd5572ba1d88866c37",
+      "max_missing_per_col": 156,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 2,
+      "missing_count": 1904,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49805749805749805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "71ba0ee3ab063bf46a6dd8e4f2b26d620a90547f1da7de132799a67c63c1b415",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 1,
+      "missing_count": 1923,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49572649572649574,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "02552e8329f7506b74714036fdb2ae1087374f82b029727363032fbfe9456463",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 135,
+      "min_missing_per_row": 2,
+      "missing_count": 1914,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4985754985754986,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bc6641066a0905d83f89179690ad59f680a7da97b2e68588ac0a020206814ef1",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 132,
+      "min_missing_per_row": 1,
+      "missing_count": 1925,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49546749546749547,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "36e91db2d6576898b794d0808f4e1b1f5f2d0f42e9d377f6b3d4d8921d569505",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 133,
+      "min_missing_per_row": 2,
+      "missing_count": 1913,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5063455063455063,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "097fd1798cbf1d0b7571e68b2dfd086d29344f79f0300459891bacd14a70ed13",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 139,
+      "min_missing_per_row": 1,
+      "missing_count": 1955,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49805749805749805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c72a154bdc3fa2cc1d429d793e67e0b0e453d17188cc6ce2d8c99734dd572206",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 135,
+      "min_missing_per_row": 1,
+      "missing_count": 1923,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49753949753949755,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f993371f436f1284de0df4ae9b2039a4aefe3c695e250d87fb7b766d97622353",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 1,
+      "missing_count": 1921,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4851074851074851,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e54c0ecb75a689896e54f7c710d5320b70b9be90412b5353cd8c1bd52c86831e",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 127,
+      "min_missing_per_row": 2,
+      "missing_count": 1873,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5128205128205128,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f8fdea3e7c9e6d5fd7d8e23209b800aec3d84ff0f10c4d44aa3f0512a5ee6433",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 135,
+      "min_missing_per_row": 1,
+      "missing_count": 1980,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49935249935249937,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d9de32abb55b1338ef3b39b612e902bf2c35e9a839b893a754b11e3004d11ff9",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 1928,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49184149184149184,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0f942ea05ca24ae3a6dedfe30ba70ca6600ecc6c19786ce850eb17508e77357c",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 129,
+      "min_missing_per_row": 2,
+      "missing_count": 1899,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5063455063455063,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "58d9e960d445b2bccd17af2af687c902f555d8f5636bf66a8c769c669a195299",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 138,
+      "min_missing_per_row": 2,
+      "missing_count": 1955,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.48717948717948717,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6660236cd1e6caa2d5964f0e483aa4207cc2821d64ee51dea8b281855c30ff75",
+      "max_missing_per_col": 156,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 129,
+      "min_missing_per_row": 1,
+      "missing_count": 1881,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4952084952084952,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "60ff08abb2fb8edca9e42f05f8ba2d66544f5742b5e6848f669c1a49b293685a",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 1912,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5050505050505051,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a699bc6629e7302df096908798178b03da6251e63dafe6dbec91cfab48386ce7",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 140,
+      "min_missing_per_row": 3,
+      "missing_count": 1950,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4952084952084952,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "12638d1d8d1e2f9983fa02eefb1205a58043893b4cc610de5b9eecdb044643f1",
+      "max_missing_per_col": 157,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 1,
+      "missing_count": 1912,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4858844858844859,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3fc664329152a558031079e024f7dbf40765d4a5dc58465774978a5a473e8ac8",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 128,
+      "min_missing_per_row": 1,
+      "missing_count": 1876,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.502978502978503,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "057438ec14f855ec8135847028cb7d63c4e54a01204f6197fd64ffb71eb48df6",
+      "max_missing_per_col": 166,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 3,
+      "missing_count": 1942,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5016835016835017,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "aaf30b5895ead92df43fb4901438dff49c9b33563a981341bd0e0a3a782f9d3c",
+      "max_missing_per_col": 158,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 1937,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4988344988344988,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "08942673a205829c5b756b95f5070d4d76086a5ef33d3cf10b43a1e363711091",
+      "max_missing_per_col": 159,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 2,
+      "missing_count": 1926,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5107485107485108,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d25f38752a2e9baf79d4df4735023ba3a991db5c31c107cfe8c3f3494dad4953",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 134,
+      "min_missing_per_row": 1,
+      "missing_count": 1972,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49572649572649574,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e4a455ff751c5c9279a887513b55e324903b81dca915ba557a59fb4c0ecdb3e0",
+      "max_missing_per_col": 158,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 0,
+      "missing_count": 1914,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4921004921004921,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "940fd26169f4e1cfd9ab2f743cde2a4d388b0f8d4d4b9c0e4c53ac3d2b6451b4",
+      "max_missing_per_col": 154,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 131,
+      "min_missing_per_row": 1,
+      "missing_count": 1900,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5045325045325045,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8c03dac46494577029eebd3cd6cc01d063d60e9a0d0ea52c9c26417eebeb49ce",
+      "max_missing_per_col": 161,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 136,
+      "min_missing_per_row": 2,
+      "missing_count": 1948,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5050505050505051,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "56823dd454bf93c4be57fd04f8ded1914165a677978d8bfb3f49f3ba671ca5ec",
+      "max_missing_per_col": 166,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 132,
+      "min_missing_per_row": 2,
+      "missing_count": 1950,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.5084175084175084,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c353ada2d11088c319a362f842b1a32c24b911d9175f1827177b07b2f046d343",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 12,
+      "min_missing_per_col": 142,
+      "min_missing_per_row": 1,
+      "missing_count": 1963,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.49365449365449365,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b065592864d81c041df26594297e676bdfdefcf3bfbedfcd99165669e22518e2",
+      "max_missing_per_col": 160,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 128,
+      "min_missing_per_row": 2,
+      "missing_count": 1906,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.48976948976948975,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "224a9dc02adb1c284bfb33b2db52d3d1f09043be6929eccf68ff72b516196bf7",
+      "max_missing_per_col": 170,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 130,
+      "min_missing_per_row": 2,
+      "missing_count": 1891,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4996114996114996,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e5ec97c2d8df0b22b7fc3da176fd0bdbbb2ff2b6babe91935c9b5681fa74db5a",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 126,
+      "min_missing_per_row": 2,
+      "missing_count": 1929,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        297,
+        13
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Heart Disease",
+      "dataset_sha256": "14d6e9632e48abcefffc7e6da51669aa62bbdc1020b63881fbf5aa673a4ba601",
+      "effective_rate": 0.4996114996114996,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "78f244e883922924204e070e59c26e1712da99543967cd58cb7a7c30f1011c15",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 11,
+      "min_missing_per_col": 139,
+      "min_missing_per_row": 1,
+      "missing_count": 1929,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        297,
+        13
+      ]
+    }
+  ]
+}

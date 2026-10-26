@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_20",
+    "kind": "mcar",
+    "prop": 0.2
+  },
+  "dataset_id": "Abalone",
+  "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+  "mask_bundle_file": "Abalone__mcar_20__masks.npz",
+  "mask_bundle_sha256": "ed6757c170c9c38bbe21f7d712148ed9ade4a2891110f9e446f238fc7d108810",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19894661240124492,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f32c6c6956f632d5d57a05c4504079b55de368b48bda8bec1b5f43a8d49a203d",
+      "max_missing_per_col": 867,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 791,
+      "min_missing_per_row": 0,
+      "missing_count": 6648,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20002394062724443,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "98bf9afdef951d3169cb0b0a675b1380724d80ecf1b45ab9907f04f84e655f51",
+      "max_missing_per_col": 890,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 788,
+      "min_missing_per_row": 0,
+      "missing_count": 6684,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1993655733780225,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "164d9e7acab57096529cbeb975e144bbb9ccb010e973e09ab7b10758f9d19832",
+      "max_missing_per_col": 880,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 771,
+      "min_missing_per_row": 0,
+      "missing_count": 6662,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19984438592291118,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cee01195b48fa84d5710a43fa1e662f2cf770b21a62e9a6f0ed5c3a728060493",
+      "max_missing_per_col": 884,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 798,
+      "min_missing_per_row": 0,
+      "missing_count": 6678,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19996408905913335,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ab956d732204547368bba883ed3ba90395e162b8e8b443f1e38f35774723e553",
+      "max_missing_per_col": 865,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 805,
+      "min_missing_per_row": 0,
+      "missing_count": 6682,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1969415848695236,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5f9950fbd6677e5bdce91c648377dd23591c1f5525e12384d6d4c9fe9e84afdb",
+      "max_missing_per_col": 836,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 806,
+      "min_missing_per_row": 0,
+      "missing_count": 6581,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1980787646636342,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "491c24c1d510af6b603d65421e481d27da6015be0997ed1841164e6fbd84ea3f",
+      "max_missing_per_col": 846,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 806,
+      "min_missing_per_row": 0,
+      "missing_count": 6619,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20316614795307636,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "335db87344598e8cb6b5ca8291afb344291256e8d28e442704e4f01aec5f8b9b",
+      "max_missing_per_col": 879,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 824,
+      "min_missing_per_row": 0,
+      "missing_count": 6789,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19894661240124492,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5d02f3bd2490da0b4bfd59d023c8d9ef8066e72ead0e6cb30119db846a2fa7ac",
+      "max_missing_per_col": 855,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 812,
+      "min_missing_per_row": 0,
+      "missing_count": 6648,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1993057218099114,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "be02c9ffed0bb4641bf7b2636d4e81a808f82dc72c4ddb7964850f03046c7007",
+      "max_missing_per_col": 861,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 808,
+      "min_missing_per_row": 0,
+      "missing_count": 6660,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20017356954752213,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a456d3cea04d74107da1d42877bbd9bba6f156fe186ee9d386eb90940d6d4e73",
+      "max_missing_per_col": 863,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 786,
+      "min_missing_per_row": 0,
+      "missing_count": 6689,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19754010055063442,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6bf571e01ba43e9b8dc07e0bb480ac9382c2efdf88d8ce81d782846e3ca22241",
+      "max_missing_per_col": 861,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 793,
+      "min_missing_per_row": 0,
+      "missing_count": 6601,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1990663155374671,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d7f04b4bf5e2f4526997fda698b360328c6cc8b4fab16e850ebd28fca7fcc4ea",
+      "max_missing_per_col": 887,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 795,
+      "min_missing_per_row": 0,
+      "missing_count": 6652,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19574455350730188,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "397c4857cd0a214e31554d3743d2e08c8da01636a447bb38ff961b1de36ae9f4",
+      "max_missing_per_col": 854,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 784,
+      "min_missing_per_row": 0,
+      "missing_count": 6541,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20107134306918842,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b902fb71e08368b3ff006f28db1ace0cba6a95770208e1d5e8a090e6d2526eeb",
+      "max_missing_per_col": 858,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 800,
+      "min_missing_per_row": 0,
+      "missing_count": 6719,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19831817093607854,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3bda1b82b3e1469f84f9dc679eb13f8c76036fdc79081ef38b741e1235a7a9a2",
+      "max_missing_per_col": 881,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 790,
+      "min_missing_per_row": 0,
+      "missing_count": 6627,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2037347378501317,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3d70171d21bd0df1689e495022adf53bcd4e8ea6090976bf6fdaeb8a910a3a90",
+      "max_missing_per_col": 880,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 835,
+      "min_missing_per_row": 0,
+      "missing_count": 6808,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20095163993296625,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f33cd7cde3f5712c35c5c4df29ab75da356d727db8f3721d40a0b06ec76883ed",
+      "max_missing_per_col": 870,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 806,
+      "min_missing_per_row": 0,
+      "missing_count": 6715,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19942542494613358,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bf2c098e56cd9c53d8bc046330fda46bdcd004717b95264656275227201923d3",
+      "max_missing_per_col": 868,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 785,
+      "min_missing_per_row": 0,
+      "missing_count": 6664,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19640292075652382,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "47bc668ac72b7359cc3e3e21afdb4c08c16dd17b976b498987551a22566aa84d",
+      "max_missing_per_col": 846,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 794,
+      "min_missing_per_row": 0,
+      "missing_count": 6563,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20116112042135503,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "73ef7b825eec9bf3cc8bdd2cce03dec9ed01e3b19d0900035ba04ebaea5586a5",
+      "max_missing_per_col": 864,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 791,
+      "min_missing_per_row": 0,
+      "missing_count": 6722,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2028369643284654,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8795622568295fd43a92dc668aac9540f44c3c511146c69037877189f4cbea28",
+      "max_missing_per_col": 885,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 811,
+      "min_missing_per_row": 0,
+      "missing_count": 6778,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19981446013885565,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fc3396c8a73a17bfca87ba608004d46166cbde0c79b3d539c3d17425693fb55f",
+      "max_missing_per_col": 880,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 779,
+      "min_missing_per_row": 0,
+      "missing_count": 6677,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20172971031841033,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7a96a84def39b94555fc75d1e654e5842319d0c7a43877ee4c7da77ee63bf61e",
+      "max_missing_per_col": 914,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 797,
+      "min_missing_per_row": 0,
+      "missing_count": 6741,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1974503231984678,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "76227dad5e9304f4cd32fca49feb97b9a0c964a04b38c25ac6723d8e181333d2",
+      "max_missing_per_col": 872,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 799,
+      "min_missing_per_row": 0,
+      "missing_count": 6598,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20370481206607613,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "efe89a4ec18b3a05ff7cbf27ea9bdce6211ecda3543e89a362d595cc0124b77e",
+      "max_missing_per_col": 879,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 804,
+      "min_missing_per_row": 0,
+      "missing_count": 6807,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20166985875029925,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5a043c61a079d62dc602cb169ce538581e30068de48bdc644fd3cd80f5f9f13f",
+      "max_missing_per_col": 867,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 813,
+      "min_missing_per_row": 0,
+      "missing_count": 6739,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1999940148431889,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3dd74f16af4b77f246e208f9a06a6b9dee5b54ae184fc5ce306880c19331cd35",
+      "max_missing_per_col": 876,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 800,
+      "min_missing_per_row": 0,
+      "missing_count": 6683,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2003531242518554,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "60a7e0a97b3c558c0d680bc4d4a1c366fb0d2d6254a032c1578b59d32125f5f8",
+      "max_missing_per_col": 890,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 805,
+      "min_missing_per_row": 0,
+      "missing_count": 6695,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20229830021546563,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9bc3e582a2280e853a74a911837d297fec7fa5e1323d6e98270f96e9ee4dbbba",
+      "max_missing_per_col": 866,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 795,
+      "min_missing_per_row": 0,
+      "missing_count": 6760,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20196911659085467,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "718e3116a05692a979166e494fa0f95162ccb2607b23b709cd989ec518e05e2e",
+      "max_missing_per_col": 886,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 789,
+      "min_missing_per_row": 0,
+      "missing_count": 6749,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20053267895618865,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "016be5fe60470619470d90b6404fe290586375eb73d79248b018ea9fb56dc613",
+      "max_missing_per_col": 863,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 807,
+      "min_missing_per_row": 0,
+      "missing_count": 6701,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1980787646636342,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cc2e328d79cb51508c65861dac95c247f577c4c45389a2fd13273a7ec5e5f3fa",
+      "max_missing_per_col": 887,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 768,
+      "min_missing_per_row": 0,
+      "missing_count": 6619,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20080201101268852,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d734d436a80d3a68c58499b4200215099fac59aecfbbdfa1b721e13592a3ae15",
+      "max_missing_per_col": 875,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 808,
+      "min_missing_per_row": 0,
+      "missing_count": 6710,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19771965525496768,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9a10b583ddf8fe08cf08bc6b652f71e49de9bd30006208df644cb98a0391482b",
+      "max_missing_per_col": 847,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 777,
+      "min_missing_per_row": 0,
+      "missing_count": 6607,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20337562844146517,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8877ec489f180b63ccc78d9cf3a06fd5b325838a3168079855903b1f8b17c116",
+      "max_missing_per_col": 883,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 817,
+      "min_missing_per_row": 0,
+      "missing_count": 6796,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19739047163035672,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "61ece8abbf1b3f867487e726aa9e6a95d2f1dcb727192d80a04845a69d951d81",
+      "max_missing_per_col": 865,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 785,
+      "min_missing_per_row": 0,
+      "missing_count": 6596,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2007122336605219,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2c4d71cf518f2e2e4e554a792f35e80167b8205f01a4b11a8562e7549f7f4754",
+      "max_missing_per_col": 886,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 796,
+      "min_missing_per_row": 0,
+      "missing_count": 6707,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19819846779985636,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "231387018f34430a1bf515c09921b4b93af9bcbefe0531849642ebfd3b480ee4",
+      "max_missing_per_col": 849,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 785,
+      "min_missing_per_row": 0,
+      "missing_count": 6623,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19882690926502275,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f76553fe528d5ed3795d8d0487ecfcefe3f001875764f6948cb9ab156e3e92cd",
+      "max_missing_per_col": 859,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 803,
+      "min_missing_per_row": 0,
+      "missing_count": 6644,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1958941824275796,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dc74b8a20b2cf0a214ca620f581635fa0b5959fcb4ca42ea5c031a3aedae82af",
+      "max_missing_per_col": 879,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 780,
+      "min_missing_per_row": 0,
+      "missing_count": 6546,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.197240842710079,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6e63867c08b04814fc7e0eb607550cc51737adbd51455e598f8e7e44ef91f620",
+      "max_missing_per_col": 853,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 793,
+      "min_missing_per_row": 0,
+      "missing_count": 6591,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19870720612880058,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "75fe6fa519d8e8bcb7229450f1c022b8cb490001627093a1b6ca82a697290533",
+      "max_missing_per_col": 864,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 779,
+      "min_missing_per_row": 0,
+      "missing_count": 6640,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19795906152741202,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "db4e3c7c15840662740aa97288a0311dbf31aad1a5b2e3ecc6156c04bfefbafd",
+      "max_missing_per_col": 864,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 794,
+      "min_missing_per_row": 0,
+      "missing_count": 6615,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2034055542255207,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8cd4f59eec06df1458435161fee4798b8e5ae463710bec3b3ae5e0032676d09e",
+      "max_missing_per_col": 889,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 825,
+      "min_missing_per_row": 0,
+      "missing_count": 6797,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.199006463969356,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "36514d9aa0fc7dc3b79ef30395f72fc4cbc3fc0f46d4a19384a7786d2e9c9714",
+      "max_missing_per_col": 873,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 792,
+      "min_missing_per_row": 0,
+      "missing_count": 6650,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20044290160402203,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "86f44cbe824f7d2c085621f03f993d870c67150334f370b9e9af9aef6416c362",
+      "max_missing_per_col": 887,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 812,
+      "min_missing_per_row": 0,
+      "missing_count": 6698,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2005626047402442,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7eb0edaf87d9a9817da0198236158f1bc2f98decc0d3f01e0ff8d61887385d28",
+      "max_missing_per_col": 881,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 819,
+      "min_missing_per_row": 0,
+      "missing_count": 6702,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2012808235575772,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "db35278e140700f03581f0ff2e2ab9f645bfd375566e19b11c77d0283fc7f0dc",
+      "max_missing_per_col": 892,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 798,
+      "min_missing_per_row": 0,
+      "missing_count": 6726,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2006224563083553,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "74fb5a58939ec51611a667586c940919b861bafda969ed4a675aff529a71b922",
+      "max_missing_per_col": 874,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 785,
+      "min_missing_per_row": 0,
+      "missing_count": 6704,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19960497965046683,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "74dd4b826b1c37ff7263b6546f388b5fddad17848d17f83d42b72ebd100be472",
+      "max_missing_per_col": 877,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 798,
+      "min_missing_per_row": 0,
+      "missing_count": 6670,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19948527651424466,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "929d64d62584999c89bcde406107a35cf00779285f26245c0827fe25ec3d9ed0",
+      "max_missing_per_col": 865,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 771,
+      "min_missing_per_row": 0,
+      "missing_count": 6666,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1991560928896337,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c40558a2e4f9336295f21fbf41b35b43fe26cd729d4c1d328f2fca15c82deb42",
+      "max_missing_per_col": 863,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 796,
+      "min_missing_per_row": 0,
+      "missing_count": 6655,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1993057218099114,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6a3b5addfc9f99dc383c45dd2b3427b268f2836fc89ffbc1226534d052a23ad6",
+      "max_missing_per_col": 875,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 800,
+      "min_missing_per_row": 0,
+      "missing_count": 6660,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2011311946372995,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "64a123144643c9691b58c1004e4f8d0042a8b272c329e28a2e31195c3b443bbd",
+      "max_missing_per_col": 869,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 812,
+      "min_missing_per_row": 0,
+      "missing_count": 6721,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2021187455111324,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4cb670cb032c0bb8f5f8b59e6ce6e1051a6df019cd2468dc37e9c8f30184249b",
+      "max_missing_per_col": 887,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 783,
+      "min_missing_per_row": 0,
+      "missing_count": 6754,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19996408905913335,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bfd12157fca4f1877dd12b7ea032a08a5159589fab52ffa7bd565bacb4aed173",
+      "max_missing_per_col": 868,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 775,
+      "min_missing_per_row": 0,
+      "missing_count": 6682,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19837802250418962,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7dd16fbf356053e3b49dffe44c55ae538072e170d6a7e4c741825d1eabd89ee8",
+      "max_missing_per_col": 875,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 795,
+      "min_missing_per_row": 0,
+      "missing_count": 6629,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19939549916207805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "56cd09b1b8d8af017b8ece97ac6b001b52c8ffe7f09c03fc63d79a9ee6e2fe90",
+      "max_missing_per_col": 886,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 782,
+      "min_missing_per_row": 0,
+      "missing_count": 6663,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20140052669379938,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "267eac2d06a2e811545dca3293b087a590e6ee982b8b31a1760ac7458ab037e1",
+      "max_missing_per_col": 864,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 814,
+      "min_missing_per_row": 0,
+      "missing_count": 6730,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20152022983002155,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "06731994a08a8e343c17728fbbf6b70f1126ddbd98930d9c995e1cde04098006",
+      "max_missing_per_col": 870,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 819,
+      "min_missing_per_row": 0,
+      "missing_count": 6734,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20193919080679915,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "540e43a426edeea59ca380b1253781959a930935e50b910a54382877ad46f22a",
+      "max_missing_per_col": 867,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 811,
+      "min_missing_per_row": 0,
+      "missing_count": 6748,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19990423749102226,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ef062f3c1b268efb2e0ca780307afefe275047315b171e7ba59a095eed10e451",
+      "max_missing_per_col": 852,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 822,
+      "min_missing_per_row": 0,
+      "missing_count": 6680,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19996408905913335,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0b28f7b504584ba638ebe6f05357d45bd90adb4af312408cd9e3903f226c215c",
+      "max_missing_per_col": 872,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 814,
+      "min_missing_per_row": 0,
+      "missing_count": 6682,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.19834809672013407,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "aeea295fb7629da47c9e092fb78291f760d6f2de92ae1fbfad020fea12f3160b",
+      "max_missing_per_col": 843,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 805,
+      "min_missing_per_row": 0,
+      "missing_count": 6628,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20143045247785493,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "23513f78d93fe79cd6c006cc1d97220c764c941c84fa133614c73dfdfc62942f",
+      "max_missing_per_col": 875,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 828,
+      "min_missing_per_row": 0,
+      "missing_count": 6731,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1995750538664113,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "959549e434b47080920865c6129180661060f16aaed6b7d69ad00b93f0e1f174",
+      "max_missing_per_col": 882,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 801,
+      "min_missing_per_row": 0,
+      "missing_count": 6669,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1980189130955231,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c28fcb8395c134343fa5b3f4d5408fb4f91da502a940c35356d6a4b795103809",
+      "max_missing_per_col": 870,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 796,
+      "min_missing_per_row": 0,
+      "missing_count": 6617,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2007122336605219,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d48ffb1bc23e6f3254cf25c6d5cddfae967cb13aa630ddb1cea7291eeee0a167",
+      "max_missing_per_col": 868,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 820,
+      "min_missing_per_row": 0,
+      "missing_count": 6707,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2002932726837443,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bbf5402b64cface4dcc99977fc2bcc6793d01293eab1aa3561692d31f1b5c448",
+      "max_missing_per_col": 861,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 816,
+      "min_missing_per_row": 0,
+      "missing_count": 6693,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20328585108929853,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "68a0050be1f309494842672bb3223b3a42caf43a0bef3686bfe523f144645740",
+      "max_missing_per_col": 884,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 815,
+      "min_missing_per_row": 0,
+      "missing_count": 6793,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20172971031841033,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0fc34d4f83b7b14744094deb380c2edc22ddb6efd50e4ae0c5d472d812ba3e50",
+      "max_missing_per_col": 858,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 820,
+      "min_missing_per_row": 0,
+      "missing_count": 6741,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.20104141728513286,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7c28cb4cf024931983547facfe487c6ce4835f4ea9f2c16141cf989bbc586e52",
+      "max_missing_per_col": 881,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 807,
+      "min_missing_per_row": 0,
+      "missing_count": 6718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.2005626047402442,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2ab93cddab9b93b88060b9a5156f627dbc5223acd31fcc89b30aa3933d3b47ae",
+      "max_missing_per_col": 872,
+      "max_missing_per_row": 7,
+      "min_missing_per_col": 796,
+      "min_missing_per_row": 0,
+      "missing_count": 6702,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        4177,
+        8
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_20",
+      "dataset_id": "Abalone",
+      "dataset_sha256": "8881fb1432116c6fb9341b49fe041d3663f503c4a55a489d2dcf6c6857eecbf6",
+      "effective_rate": 0.1993057218099114,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "de5e2b34a39061c0be9ab13013c074ceeb4242904411e1c23109a70ea33f71e7",
+      "max_missing_per_col": 850,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 795,
+      "min_missing_per_row": 0,
+      "missing_count": 6660,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        4177,
+        8
+      ]
+    }
+  ]
+}

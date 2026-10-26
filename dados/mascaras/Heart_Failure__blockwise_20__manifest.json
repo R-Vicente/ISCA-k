@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "blockwise",
+    "id": "blockwise_20",
+    "kind": "blockwise",
+    "prop": 0.2
+  },
+  "dataset_id": "Heart Failure",
+  "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+  "mask_bundle_file": "Heart_Failure__blockwise_20__masks.npz",
+  "mask_bundle_sha256": "44596919395107c6176ece224fac10aab5a346df13b1736e379a494fbf2b2320",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "eb1c7a3987cb6db57f09ef511c821bae4bf6a72905a88cf93b5878ddbd0eac55",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "3b11ec80d0b71020ad48408d644b7f89faea11999a434644331c41a917e8d06f",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "eb9992bc2c4f8276b70b44cf6f600b724d16e225f3397696a218d0988bde2577",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "8cda421ee9b92403b21393c032fe6b5d38cb436392bb7fce4386e17501baed71",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "6d7f167b54295fdf6b03cf4418beb4976673244bf2b80866919f65ba671e7fa3",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "0eb75ba414e30d1fd7c1131f47903271fe05ee280418fea45c51e0f415bf2d5f",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "6bb316752fb29f2efee23a8aad3a203d26e72a9e8934613139280cbe5aeddd32",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "5b6a9836a4059fc7e83f7df3973a71a29f874bc9f703fe254e8d13fce0c56412",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "aa21fe07312bf959f488a3118392edca8d216aa3032ea104a1ced5decce25336",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "e4ac56da52273079fa646bc6b29296e13d0f906364efb8fdf39ebe9f4f8835d3",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "f4a6121e2d5cbf25ee92cfabe6764a3480991398e366f225e90f41233b2d3c24",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "8564d1c6667babcce1b463e2df8f2e55d86f7d30303b3cc69dd63bdbec0edcab",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "09924983dbb74eaea7ab4a6fa2c5c4bf0c2baa3fb918ea2b58342635c104d70c",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "ad335a11014f0b0e383ba1f6e4c235e96055d4c8d25adca7a4686cf38cdba758",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "ceb0d94a04ed0323576d1ed3afcc028374c56f7ce3de11ab4fa982ff6148773d",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "9721283afc5f774b2bde760cc282aab4a3b5e2d4e2a93cf7d83e33e385a6f96e",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "789fb58311421c045063de9b36aa5e0522572805b95e5744d0ee38cc6986d686",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "2832a90b4b0ca7794cbe0e473003ec98c4dcae8b801318f1ab9184f63e695a0b",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "1ae4ae571540474fa972d0c7a508087974bad85473e49a76c3f0f80ba2675105",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "1fc59711a25cbf83ae9cd820a88df44a8bfc79739664e2787d50fcd56724bc19",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "d6d7243703668443630a572aa814e74cd8388bf03a152b062b1866a6d595f514",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "e45413de10d655f6d36dfcfba543425177a3c2205ac3c15fb8915f729667c993",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "e80e52750f690ac14c5d3f613aa9d35a9e276e934ffed51311b91aa74538179c",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "95bee2646852065a3b463b3b35c20dea63ce622a126ebc0ead26dc1aac728768",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "0ca3f60d2945c4cbbf501315a58f40512cce47d04f58f63c535b4a826fa9687a",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "240bc308edd6feb4e17be063990183b949a3687e5788b7c0d4767f3a7a3458ba",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "72a3f5f2696e84851f7aab97afeea337c8365d670e2182bd388194d85872b086",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "a53d1fb0a66d3d6aca91845e189e0a0a03d3cedaafa957c62967d8e926de1879",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "86db968b7df01e49440e69da0f84cbd5dd8e8237111a22ac3a84334dcbb22d30",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "9232d924d1386b53498a0612023a01d7e51ef780cc9d6fab6b91ba31e3ec8b92",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "e3e7f63ac9114bd2ec4a87e8735a4c18c14ac7ecfe105837a32a16dd62ee99c4",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "d51e954145682672209bcb54d3e4fb122b81477817b7a69893b4d4bc39c0a423",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "5b3a8690dd5351c4b35de66c129dbafb2f68596692697ca52a0b0d025d2afeb7",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "25b2ffb19718f0c67968a4debc80c72eeb686b57861ecc6ad13b355abfff1cfa",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "f46167484cd220c22b9dd044fe2a95135129da69732eccbd42c659028c27d5d3",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "159f27e32f88c805ecbaec268eddf8e5e0c26ef7c6dea3d9c904c800a1dc5572",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "ac93dcbd75dc7bda1acb680d41c0b71fe6a4cd6727e52619a057e1e26e836140",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "13332ea742a69465211e0ae6df75b2823c302484e23b66de8abb22745638a4f9",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "bbcec9537ede77d2661f80e5b85ab0af49667b8e97038552ed962dd2f3fcb422",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "2aed4e405dc1f37da2fa88aa59ec9e094b29d4d5285d8dd64303666921b681fc",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "bc9330874f52928166c86ad3c7f40b5f046fc448f61abefd464236fceb9477d2",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "81b1ff177f96eb5e7739bd01f5f9555b7fc90c77d26a0d1cb3088de612002eb1",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "4927d2989062110dfc90a931ccc31de194600c3a7d53f70b2408cd4372ede591",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "a6335062c0681a7c49bdf282ee8f4a9680cb8573827e07d1693a442a5c4fe187",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "c46006503e62736715c9e0c87eed17c301afc1338237cb2183f7ce8efe117f75",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "c5ad6e785a0fddc59675c2c10d3ee9fa03ca3093bf062785bd6569c2aa0d9f08",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "3a6eaa3e8204626f228da4d427b25ba47d4e70a4390db2298dcac6a485a8894c",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "81f0c37ca4095e5812c2b148508ac0d2fafb0563bcc9c0ed2994d7fe2004c03d",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "f192964e490384ecbb0123bb4f25f08a611553c84b3304e733ce32b4b5d8c852",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "2952bb8f349bedeeca6c438eb1cd93df5123670192a1b0061e38b96573892415",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "0d2da910e6db4b79558492ecd3993b8fd15696a01efc0ba14b263e27f1c3007c",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "1a75f15998428324d665b1609143f1dbce466023df391ea561eeb8f8f237df4b",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "e6fa9479c5d098d3e56b8fed99c9ff96e2ac381c316fe7cd3471d0f63b7d1623",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "91aeb1902ccb11e13997a7af33dc82e145276c012833ed08bc9f7bee3eed9403",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "641f566defe1cd4d0bdc1979699e1d64aec62aa0c24ce7dd8021f1db391cdb24",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "745222bb9a9c154bee99fbf2acfcd66d45aba846a6eca5c0a63b3ced83b297b6",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "64c65fad0aea1e5c6166e997871b3986c37bb6b547012dde45a510f60253cbc8",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "0e32f73f3006336de5718871265f164d9c3632c95378e9f7eece95d2e448f61c",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "273434199e15d25c68badc8cfd6c2161498dc1230cb79feb3379187c293af690",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "18db71e6c0aaa9f25d46ccc4e4dd506db49455cb134c8ea7a00178afe65e1725",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "a30b366f626e66400da5b4641de666f1197cd0da231690df67b846594adcb1c1",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "3deddfbf9135c70521a719695053588a4a1715bcf18a0321041d54c6fc3742c6",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "9dd74e8ea580a4f164a3fe1234605bf9a6f50dddb6af2ab846ab6f931609b022",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "570bd00a5b139a4a39b70ccae6dbf36cf15f586ae7d0c429d562c79268049b34",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "d2be7fa481c5f1e288c9a4648dca829e9c2e41b8093fa8493ac6529cc20aac2a",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "9ce102c04215a28c04b4785f1c7a8fd59efb446d57d309b8a80b4dccab2a3f2f",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "f7f9febbb6aec7d2a7633073dc648bde83a5b7f74861a22f2f758c7c276db090",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "773b3000c007e901f5f6107739d672a6512e959d55e3b9143d3ac4743dc5cdcf",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "c02768871deaed5d173cc2b3298425ff22e8a1ead86f8413b2b225894efef77a",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "d2a48888dc0e44586403b7f8eac81ef8a4741b65c2d6ecd28d587249c909921b",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "02f1692cc70d3e9d7265321f5c7793c0ea7f721a0d502ef53b5c78ce1fea3bf2",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "5905fdaa01d9288d3108f455f978912235317b6f45fe16f8bf41567f5692d403",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "73f074c7a9b1d15e916869a8bd8989e821495aec92463748949b9e3509e5e99c",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "5b9c5df72e2b52d5e4d77d6c5c21607754120b3938d777e7afb26d2cfab38ce5",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        299,
+        12
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "blockwise_20",
+      "dataset_id": "Heart Failure",
+      "dataset_sha256": "dd4573cf82725c45554fd00870428333e011ff9155e05656e90027236570b114",
+      "effective_rate": 0.20011148272017837,
+      "generator_name": "blockwise",
+      "generator_version": "1.0",
+      "mask_sha256": "fe9d1386d851060534e3be2d9850765e8007bf8e453fad80b606155bc1e2ebe1",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 59,
+      "min_missing_per_row": 0,
+      "missing_count": 718,
+      "parameters": {
+        "beta": null,
+        "prop": 0.2
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        299,
+        12
+      ]
+    }
+  ]
+}

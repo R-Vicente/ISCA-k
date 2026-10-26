@@ -1,0 +1,2041 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "mar",
+    "id": "mar_20",
+    "kind": "mar",
+    "prop": 0.2
+  },
+  "dataset_id": "Auto MPG",
+  "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+  "mask_bundle_file": "Auto_MPG__mar_20__masks.npz",
+  "mask_bundle_sha256": "f6c22ed34da2a3c1d84ce453841727e962131a3c2c95689559d582193bd077be",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "4a70fed6e280db39c902fce4847a41e07ceab20b1a8cdbe4afbddd02333fe757",
+      "max_missing_per_col": 99,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "7ce72e8d546ce45858b384ccbc96492403f7c55b6f1b93357d9fe361ed0d0c06",
+      "max_missing_per_col": 106,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "0dd52a527c8eaaa66f28c8b45a0da421653f8d9e214380c95ef1754f0b304839",
+      "max_missing_per_col": 95,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ae822d3b8b7ff1e53a47c38f2d409b42bde827d107a2fc855d8ace4b545aa462",
+      "max_missing_per_col": 109,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "25bfddd86f9bffdb6993e9618651993dfb21bb1b748c9bc91bc67654020c98eb",
+      "max_missing_per_col": 108,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "8be12a25bbf13f276692d139a6f95da43e28f423104fe7267c026de58df4a455",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ec03e66b82c4636c243235544c59efe8f15b9b5cc640cec47db1014a961d006d",
+      "max_missing_per_col": 99,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "2098108bd76fb87b67905d34568a1ca4d4e9c84636e440e8455a687e23bb4dbf",
+      "max_missing_per_col": 105,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "c42cf55b9541d2153cede38aab12b61a61977d4a4c2b79eae1b2801209619f8a",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "26324a07ff331b5e92dccc45328a69377a2a3b485a785280ad1138b1b737ae82",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "86f03deb14ab4a0ad7654df2d83bf00e009cef4f3e460f24e732542d0780c8f2",
+      "max_missing_per_col": 99,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ade2c62e567c10ced5dab94200ef89288cac77793e4076cf5434461c2ef05f73",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "222cb2e76b5691b5f6035d90869b9e9a8b5238e0020b6e630e48ec2a26fc89e1",
+      "max_missing_per_col": 97,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "93c1b355c00aa724ea0803c26a153eca3ffeb0baf54bf9dabed0fa43e78b4f43",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "d42502a18cdd5f7d5dc7169139adcd31c6c2e24d675b5b130562b38cafc1de3d",
+      "max_missing_per_col": 98,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "e45d298314ad8e6e24bbbe79d901a28d9c03f1c22c7d38e7dcc83fc42b371f65",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "1f8db6a6fe1532ddf4738c2f78c0e63d52f5a81723aa9e9c4fc7b2bb3f47a8c6",
+      "max_missing_per_col": 105,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "cfc0a8e5482b39f516360979352d8855beb9b93ac3d51543e9529548133a43e5",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "08fca1a9ecb74b015540ad75f8f86b1cd8bb6b8c17c45442e1471a227466e918",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "4ebeffcf0591278ed275737fb1348e78303894dd34720bcd9d50daa030648fd0",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "53ba4296c97d0d99c3b4b6ea01f94bcdbb8ea01e27312145b16fc6a491b14cf6",
+      "max_missing_per_col": 95,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "9039507701b9fec5c60311f019e57238a5c7da9b139fb3b2f87032b992ac2ef7",
+      "max_missing_per_col": 99,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "eded5a2991f36410a4862b50476205ff98b9dd55e4bbd406a4790189abbce244",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "a8de7844f4480e770a24cebaa3dac9ffe80894130d2bf945575f76689ed2431d",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "9f2016716c21a9cca44255af3dc8bee5070614562fb6a27261357ab182a072a9",
+      "max_missing_per_col": 97,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "88bb7d96cd91fc2088496bb3d1fba7cdbbbd8522c213c16a849f33e99518feb3",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "bf020bb50320e256d2fa79f88bcf93f03a89532eb4084ac0df6ae952847561a7",
+      "max_missing_per_col": 97,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "53765842dc3270ae846258521cf87904dd023bb49b8064ad074151756a9a1d46",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "79cc742c597af2251a5e2f9904cdac65287e3e0b07df52010699ee15b90d17b3",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "18f68467e68a608c08c58801063edbbdc63c52c7ef444bb16efd6fd8c6cf08b4",
+      "max_missing_per_col": 107,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "7440d86cde0fc89856d06b8ce3a1f1e744b52e6c17354d2d607f18925356877d",
+      "max_missing_per_col": 97,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "af1dbfe09c6e763b731fb851c87692e467d7f733efb0eebc59d7f3455700d616",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "fe75542e34ee87b897aae90ac38c59183fd6296fa5620d9066107b9990158b71",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ea870fd0b8c31e41329256cf78d4cde9c2615e58cc734dffbad388e8a97940c9",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ffccc324905f7957a770a5e1063fa46f6aee59c16d3fe91e5fd3379df2917f94",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "aee806a5a938105153b827b34e897748ceb9c9de24089850d64e7ee01210ce0d",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "00321418aade4f8378ea5108044bcb216493a7e1a3f17af3d6cd640eac68eeb6",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "4c48fc9b3047f17f8bc06a69de31776ac5e8c6cc629d87680e1b7a257d6e7c85",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "c93bbf6340e90350327cc14248ac8e3d27fd46a258e02eb09dfcae067902bd70",
+      "max_missing_per_col": 96,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "79b78e53dfc2e43f1755337718c3c00c3fd08e41ba2a05f1ad1998ceb95bf0b3",
+      "max_missing_per_col": 98,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ab064caf03ca53226418c7c74b1c7d75a8f2bb70f87893e6ee4af19d3aa0864d",
+      "max_missing_per_col": 97,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "1d2ccd1981f45cb4f2ec358c07aeb54ea5bc5cf9775e62c505bd278711ad4404",
+      "max_missing_per_col": 98,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "f9507a7e8c55b4c079c1670010abfacf4b196473dcec3e842f37f68bb01291ea",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "0ec9cbf47f504a02a216e467cf9501bff521fa8ad8d931fdb73d0ff761ddde30",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "2821ac26ca2f2b3d6034e931f4ab6b8c6aa50c333007cfaa3232966862428aaf",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ae593d9410ebf60ce02b511df39a4363bf3b7f6b53e16fde8cedf82b0eec48fb",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "00bdce544fbea4510f77b6f8cd13078a06ac73d56943ec09be690896211bca06",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "fbc66049e2a6fb82d9e9ba66e04bea389529238d4d97d752b3b93512aa9f31ca",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "164f3d413a7cb6a5ada25767c9d4a6e85231065e27c10d10d0a3963051877978",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "57d5cded357c1cc087008d48b33fe5b5878f89415cc7dca303c3464b6b38f752",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "0e8f9625decb291fecaae28ae39885ff0db09feaf106e278dcdbb0c9e3176e46",
+      "max_missing_per_col": 96,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "d3e128b2b711147584b6f8c1da62f0bbf6774fc6fa4dfd6721cf5911858c9c11",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "46ce3a4289574784f3d980ba1ee35d1d840821df382f872c4e17545cf9a12663",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "cb77114ef8787365f37c70849c8c909324638840dc910afe5b8d8f340cdeb551",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "292f3582185a3a832852d71db9d4a45cb9faef9f01a1ae4238099da6027bff02",
+      "max_missing_per_col": 111,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "0c6c1d31fae71ee1c83ca300a291640fe84491561e5374e7c9336c2ce93a3684",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "f7bac8df15aabbc6c2b4ea5bdcefa5eadb88012b760e89c582c6b3037dd4a784",
+      "max_missing_per_col": 101,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "ee4d4e192b741a6f22cbf326e036a8afb1944af4a27e214e559a4cd19dc27a46",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "d596dbe1377ecd61e81742cb8bb87543d98cadafcffaad91c940a2ad4bfcaee1",
+      "max_missing_per_col": 97,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "802b858dcd6d6e9be55d95015d5fec659f4c1a2427a2dcac3331e21174d8e98d",
+      "max_missing_per_col": 95,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "32924f1bc9984f42d5629c4f506f5caa2d35f645c31dab7558bcd55889c921d7",
+      "max_missing_per_col": 96,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "4c8b09bfef1f6fae24384977f7b2d5732537fdbec2d1bee0a1649fcc122c38df",
+      "max_missing_per_col": 99,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "8db8df605f4fa46ae1bf0d6444cf0082575c9657feead9035019e7b4167cfc1d",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "65193f92bd3877fb85aff24a8385bc9cd972e881b906573d54a98a649d7991b6",
+      "max_missing_per_col": 104,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "67e52fd791b4dc81d6bae9f838eb3b9224464b9745c04b894ce55edadd25c4c0",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "5ed225adb23f254a5df9031055906e396040dc0d357a653b37d30ebae32434b3",
+      "max_missing_per_col": 102,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "4def980d723d125cbb860268186fbb8c26f5232113247ae136399f6e0b3d27de",
+      "max_missing_per_col": 96,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "98c76d5af1337afe04251f18270935ff69d176c0ac49e90093e2bcbed41990a4",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "9f3de6ac1e31d68d1932b40ff821cd60f12dbbc92b4fc54c5b5bacef5dcc73fc",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "cdf6365e05e97bf59771517ba433811442be9c9d2759f0b55a553e67e4e72b71",
+      "max_missing_per_col": 103,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "d1451f908f5b388be93a6e6fe2ce755dc11eb669294a9af3024626cfeda98369",
+      "max_missing_per_col": 96,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "1a2073e8d8cd5cf469855311ae100331e2ea2efa0a80d4216f0a86f7d415f28c",
+      "max_missing_per_col": 100,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "98ccc962f6437610618344f76faf4a1eabb43dd8cf113c22513998cb2ff78564",
+      "max_missing_per_col": 96,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "85671f102311f04a42cb1660eb2859ce95b8bd29ec07a1e9aa879d0fe398ddc4",
+      "max_missing_per_col": 98,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        392,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mar_20",
+      "dataset_id": "Auto MPG",
+      "dataset_sha256": "2ce8fc4802bb688d53f5e2f1ac176abbbb2a3f12c4e431ff538a870a61b1e68c",
+      "effective_rate": 0.2000728862973761,
+      "generator_name": "mar",
+      "generator_version": "1.0",
+      "mar_driver": 0,
+      "mask_sha256": "afa3f0fb6d563e0f36a935162e7373718324a8bb2673b2977ae94eb51c6d76f8",
+      "max_missing_per_col": 99,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 0,
+      "min_missing_per_row": 0,
+      "missing_count": 549,
+      "parameters": {
+        "beta": 1.0,
+        "prop": 0.2
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        392,
+        7
+      ]
+    }
+  ]
+}

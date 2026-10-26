@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_10",
+    "kind": "mcar",
+    "prop": 0.1
+  },
+  "dataset_id": "Diabetes",
+  "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+  "mask_bundle_file": "Diabetes__mcar_10__masks.npz",
+  "mask_bundle_sha256": "d50c8c888fd6249c2e33e57c607150fb754e3c93aa25507fc2cbe4b9b704ea1b",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10113122171945702,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ed6b799b6c6a709ae2abe018966004618bbf9cd32ae85f81d090d9ed9d396da6",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 41,
+      "min_missing_per_row": 0,
+      "missing_count": 447,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10497737556561086,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a83c89e645ad5ca6a0d609dc09d52d9d49ff29f65cf1b0a25cb4ba5b2fc22b56",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 39,
+      "min_missing_per_row": 0,
+      "missing_count": 464,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09751131221719457,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "61eedd0e6e39058c0d704e04e442a37977b0e9b52e078f39c1b9650840debf28",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 431,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10339366515837103,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "53a4ad17546fb4a7f2af43139a645f95973dcfc20bbb01d59a921ac3d492ca08",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 457,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.1,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fd45f663e31a89d2f690799a04b35ff427bbb48ebbbbf097f55d15f1efb16268",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 38,
+      "min_missing_per_row": 0,
+      "missing_count": 442,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09524886877828054,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1c09e060d91181177ad25fb59058f22f633cea1cc8286dd768ccd6b09ea68635",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 421,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09773755656108597,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "33d3ee169ed2adbec8fb7852214b7dd016b647e339989a2765b3111ebc3c9cb4",
+      "max_missing_per_col": 50,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 31,
+      "min_missing_per_row": 0,
+      "missing_count": 432,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10565610859728507,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "41221c34e53507c3beac29e46c0a9e8fc7943722260e41bd2d0592a9d57feef0",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 37,
+      "min_missing_per_row": 0,
+      "missing_count": 467,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.1081447963800905,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a2d2daf32747a2eec3c34eaf06c641adcc8bd2d39d34985c6d9ae0cd2ee79214",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 42,
+      "min_missing_per_row": 0,
+      "missing_count": 478,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10339366515837103,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0c375d40d010921b573905073040cdbcb2c31e760db5fb85e9166d5b8e78ccc7",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 457,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10135746606334842,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cfb56033fb029142d7dc199a9bcb098a34414eab6bbc2e310996c0449f6eeb19",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 32,
+      "min_missing_per_row": 0,
+      "missing_count": 448,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10384615384615385,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ee9f83e3bc09a647ee25eee8cf0e070993f73327c27ecad48953de4cf3ac4201",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 459,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10180995475113122,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6b682e8495ca2b7eaa98a2e5dd354637dd912114c893960c0a36c26663c71d88",
+      "max_missing_per_col": 59,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 31,
+      "min_missing_per_row": 0,
+      "missing_count": 450,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10226244343891402,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "642f58111332e821c4074fd2af120641952e43f41ebdcee2e5b654b251c7cdaa",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 452,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09502262443438914,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6de4250d7cafd2c34104ea4049ae30290c5569ec596a1b75e6f3ac4c0084c5d5",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 420,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09411764705882353,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b1ba5b5f0842c6363e644de8c0e0f0137cd2272d01b5e6b9d23d11196598ce71",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 31,
+      "min_missing_per_row": 0,
+      "missing_count": 416,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09366515837104072,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8ccecc885ae8ce8f45e98025cafb7234c2d16dc251716241c55fb7352cefe995",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 35,
+      "min_missing_per_row": 0,
+      "missing_count": 414,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10067873303167421,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f7cf9b1166f02df1024145ed7a8a7ee6d95da75c98564acf28fe02eea3e0b7c6",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 445,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10180995475113122,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ffeaf821d6b1d40908837886a05d3aecda051a9342cd665c1ecd5363eb96ecc2",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 450,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09683257918552036,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f80358f515b80ad0e63c2a911e2073989881c237b56962051769529489e59de7",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 29,
+      "min_missing_per_row": 0,
+      "missing_count": 428,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10339366515837103,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d776ac6817a6c5852776f872a4facaa2cd6152e49654ad078a889981a87ca027",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 37,
+      "min_missing_per_row": 0,
+      "missing_count": 457,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10294117647058823,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cff83cf35a4a620c07a7720343f634c21836d43a7b7e0e9081c14e0904e19c9d",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 455,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10520361990950226,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d0eb303165195c7f05e893018a8f057e6c7142259f4615a5b15059032531a864",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 41,
+      "min_missing_per_row": 0,
+      "missing_count": 465,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10090497737556561,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4deec4a6ce2acce12395370cae144dc8ea4b4858de11c8db97f30d19b6035232",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 446,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09547511312217194,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "410ea4364adc01fa39cf1da1f35d6fc373ce70dcc111fccfac46fc8d62444066",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 422,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09457013574660633,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "10c6eb05693a31054060824dcd9852ae7817914ee1bfbca6e4671fbb3839e916",
+      "max_missing_per_col": 48,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 418,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.0997737556561086,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a76ed0ca837dee4afda1a4623086043f8b11c14b2412103e9093ec8f969af22b",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 29,
+      "min_missing_per_row": 0,
+      "missing_count": 441,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10203619909502262,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dcf34a4ae0377b497a6f066355ee7495a89e9896ef2ae8afa554a9d9f6fe5a36",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 31,
+      "min_missing_per_row": 0,
+      "missing_count": 451,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09185520361990951,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "09663039ca6f1fed9c8d2bc1d21a325f6534a046df51e195d7a240e17ecaf4d3",
+      "max_missing_per_col": 49,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 31,
+      "min_missing_per_row": 0,
+      "missing_count": 406,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10113122171945702,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ad797d8136ada5e88487ad2ef1fb1434f791a2c0fd4e6d6232b543755969dfcb",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 35,
+      "min_missing_per_row": 0,
+      "missing_count": 447,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09411764705882353,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "76d664ceb0b0e7682175eb7df2dda95db485b8158816f5c653007f785cfc33bf",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 416,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09886877828054298,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6a2cfd5471527e2cba30b1892d5aee03f4d0b1662ab8990723d891b19a6a5aac",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 437,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10226244343891402,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "644b9d4387fe5bedf286924ec7100d48e2265d5f7f8caa2946bc1ba4e95352f6",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 40,
+      "min_missing_per_row": 0,
+      "missing_count": 452,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10429864253393666,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ed5e2e112aedb6bfbaa1978259ceee63f2ecb646164404004f918718acde0166",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 39,
+      "min_missing_per_row": 0,
+      "missing_count": 461,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09841628959276018,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a097a435ce606530b518af61d005b5bacfd984f8c40afe7d9081517d6f1f95d8",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 435,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09841628959276018,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "25a64561fc25e0435dff8045e768a2b7df4358c92fd8f6606adcb0c8a9df1f64",
+      "max_missing_per_col": 60,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 27,
+      "min_missing_per_row": 0,
+      "missing_count": 435,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09705882352941177,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a62f6581c43a1fedd71d5be5260f4ad764eb4c84e13ca6e094ee1f2e7944de09",
+      "max_missing_per_col": 49,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 429,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10565610859728507,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3455e22b8dcbfd2cbbaa383df28e7ac02c66c13e5182160f6d73e350874fc7ec",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 42,
+      "min_missing_per_row": 0,
+      "missing_count": 467,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09954751131221719,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "da5b9566acd3a0d5c7c03e873558d39d43befeaaf10c0a4202ea796fb1d8fe79",
+      "max_missing_per_col": 50,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 440,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10384615384615385,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "90568f9c4978d86c4bb76861b7daebe0b672db79438c6b580ecf8479c42699c8",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 38,
+      "min_missing_per_row": 0,
+      "missing_count": 459,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10294117647058823,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6de720e1e3d5857eecd98185cbe3bf369663f0ab9997fc64e8fe7b87e51dbb35",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 32,
+      "min_missing_per_row": 0,
+      "missing_count": 455,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09909502262443438,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ec905c105cd98ec2ecf13dacc1ad5d1ac29e4b6b7f72551989d6237cffe4c571",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 438,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09705882352941177,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "484615cd94522ca7915328a4e030453023ca6c2e4c87ea37908bceb80bc3659d",
+      "max_missing_per_col": 49,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 35,
+      "min_missing_per_row": 0,
+      "missing_count": 429,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10633484162895927,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2e98d67aba5ff38d9c2ea94fed4fa96945a10e351f2925479d9eddc844aa80a9",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 40,
+      "min_missing_per_row": 0,
+      "missing_count": 470,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10339366515837103,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9df6f7ea8b2b24d13583d9e00a103d42b7e1bbf8bd8d545ea8887d5741ec0e80",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 457,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10656108597285067,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b7a4005e484ac190d08e933a6834f216445d91e6bea2843d6e8ba4c775a4009d",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 40,
+      "min_missing_per_row": 0,
+      "missing_count": 471,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10045248868778281,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a3663d61ed8117aad6386c9dec3ed38653d3d18fa99afbeb131f236b4cf8b19a",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 31,
+      "min_missing_per_row": 0,
+      "missing_count": 444,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10135746606334842,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dba08507b4d24b6d960a8b446b4418caafea4f45fab391ee5415d18501447290",
+      "max_missing_per_col": 53,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 448,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09615384615384616,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8a28603cd9e7426276d5694995d35416335b7abebb0fabfbd27da4b03c094ffa",
+      "max_missing_per_col": 58,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 425,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.11131221719457013,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6f464e88941634c0b1a954c28ea265937d4bfa9f6ee23a82fcb5ab77180ad4cf",
+      "max_missing_per_col": 58,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 492,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09819004524886878,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "80ac3f58bd9609a5c48528362eef1d49156a95be476cc731b4001dd4ed698326",
+      "max_missing_per_col": 59,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 434,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09909502262443438,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8ea545e45fb87463383c63b66d4e03ba01ff55f7949c293a83195276ae07f6df",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 35,
+      "min_missing_per_row": 0,
+      "missing_count": 438,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09796380090497737,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "81edfcd3dbe2aa76c17e19a087f75ad64549b3c40512c9593431b87948d9e3b1",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 433,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09592760180995476,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1eae74400344b0442b9f23341eaa92df1a7946b584c05648c009bfddde67dacb",
+      "max_missing_per_col": 56,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 35,
+      "min_missing_per_row": 0,
+      "missing_count": 424,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10542986425339367,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dad256e8a8e2398f3c84b0b14bf42176d1782317e4278ddaa2153ad98b980398",
+      "max_missing_per_col": 58,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 41,
+      "min_missing_per_row": 0,
+      "missing_count": 466,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09547511312217194,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8a3432f9531a263f678dfa5112757cac817d7449ffd47c66490b18e205b385b0",
+      "max_missing_per_col": 48,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 35,
+      "min_missing_per_row": 0,
+      "missing_count": 422,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10520361990950226,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fd9b5843273e348d384c7ec88f1cd5f195d7d31c1484aef1349cc066f8689603",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 37,
+      "min_missing_per_row": 0,
+      "missing_count": 465,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09841628959276018,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6c165ddc38ed2cd65a98c9b7b7bde5eff12da2e6421cbdc454dafb18f240018d",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 37,
+      "min_missing_per_row": 0,
+      "missing_count": 435,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09909502262443438,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a8a302f94abb1fdb535b152f936a514f541e55ebf8bf48601af904f452dd3af6",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 438,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10158371040723982,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9a617a788ad10c6493ad69cc86b0cc3d12b8defe28415b41d83190868fdb17e2",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 449,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10520361990950226,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4ff47d1441fbe49eac8696d04d41ec7409ce417ebfb511b7f6413a25f9916863",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 39,
+      "min_missing_per_row": 0,
+      "missing_count": 465,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.0997737556561086,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2e909b15168ad6994c63823773db2f92891556528d097b56daa4c27dd749f882",
+      "max_missing_per_col": 57,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 32,
+      "min_missing_per_row": 0,
+      "missing_count": 441,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10203619909502262,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2fa8943b36e3e6ad03d280632e33e2977f1021674985f21026d2cbfed91425be",
+      "max_missing_per_col": 50,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 39,
+      "min_missing_per_row": 0,
+      "missing_count": 451,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10248868778280543,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "71adfc162566b75309f210fa49400d843c5d0417ad5888230dbb4cc7d213ff82",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 453,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.1079185520361991,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "637bdb729f109ae73a7be491423ef331989ded55ceb064da9c0933f9ef139add",
+      "max_missing_per_col": 62,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 38,
+      "min_missing_per_row": 0,
+      "missing_count": 477,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10180995475113122,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "54f9dd0e57d177adf9de0b54b3c5a5d5487ac1b1d637e2694427686b2e24ea76",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 450,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.0997737556561086,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6a7549579f63957c762f00290cfc1de9ea535379e7fda793e3986b1698dce7fa",
+      "max_missing_per_col": 63,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 33,
+      "min_missing_per_row": 0,
+      "missing_count": 441,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09705882352941177,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "494ab4e0d08c7c00ef501b447f19df0125bd1e968312dd5972503fc97209028f",
+      "max_missing_per_col": 52,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 30,
+      "min_missing_per_row": 0,
+      "missing_count": 429,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10520361990950226,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "16f84a1da0ccc5faeba562c086bc86506d7e465c6fa9f2802364bb24a1838682",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 38,
+      "min_missing_per_row": 0,
+      "missing_count": 465,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09954751131221719,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9ced5723ce9eb88effc7f2e37abae0c3e3f967955a49ff93804683fc68b632f5",
+      "max_missing_per_col": 49,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 440,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09615384615384616,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "605b2c1962a7ed4788852ef8e053efa968e474516cab018c0ae950270070f0ff",
+      "max_missing_per_col": 58,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 36,
+      "min_missing_per_row": 0,
+      "missing_count": 425,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09841628959276018,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "56b989522e89564f2cb892071ce2338a9a39eb33a9888a8fc6661b978bb7b04d",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 28,
+      "min_missing_per_row": 0,
+      "missing_count": 435,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10158371040723982,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "35fe48be4c82f85d10ac10f1ad64ca0eca9ef47fddea62942a7e138102c4f0b1",
+      "max_missing_per_col": 51,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 449,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.09864253393665158,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ed8c1e2c88d231cd1ea84454ff13ad919ef9f6dd698c8a1b0fcf1db5a0355395",
+      "max_missing_per_col": 54,
+      "max_missing_per_row": 4,
+      "min_missing_per_col": 34,
+      "min_missing_per_row": 0,
+      "missing_count": 436,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        442,
+        10
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_10",
+      "dataset_id": "Diabetes",
+      "dataset_sha256": "c5024e1db42a0d5a392add07736b05b315e8a575f0de4f8f56a9d55c9bc6d023",
+      "effective_rate": 0.10158371040723982,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cadf02633b679541ea909c761a26be5fac20871739f6af6dd93dfa66770d809c",
+      "max_missing_per_col": 55,
+      "max_missing_per_row": 5,
+      "min_missing_per_col": 38,
+      "min_missing_per_row": 0,
+      "missing_count": 449,
+      "parameters": {
+        "beta": null,
+        "prop": 0.1
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        442,
+        10
+      ]
+    }
+  ]
+}

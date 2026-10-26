@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_40",
+    "kind": "mcar",
+    "prop": 0.4
+  },
+  "dataset_id": "Titanic",
+  "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+  "mask_bundle_file": "Titanic__mcar_40__masks.npz",
+  "mask_bundle_sha256": "30774cb496df80a99dfe717c9653a2ba098b45e5cbdfe07125c34f945e1957fb",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4034911717495987,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "135498f12b1ef0c3b84fa3716810303a047e47253409565f7e126f52d53a30f7",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 280,
+      "min_missing_per_row": 0,
+      "missing_count": 2011,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4044943820224719,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "00e53b88403c7edf8fc2a61a8db82491ac488db6f7bccdc574409779e74dcc45",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 275,
+      "min_missing_per_row": 0,
+      "missing_count": 2016,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3926565008025682,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7c72b6a05bb035c357c6dac0099a776fe50da8dd5a9a278a84d08695913d6e90",
+      "max_missing_per_col": 302,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 263,
+      "min_missing_per_row": 0,
+      "missing_count": 1957,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40008025682182985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "de43dfe0e1ad7a40cb441b395ceca9b76a12a350f7d5e331f73203d0d729a68b",
+      "max_missing_per_col": 305,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 273,
+      "min_missing_per_row": 0,
+      "missing_count": 1994,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40630016051364365,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "659ec69933d8ea6ddcb76745af8f72eefa6763683479da432233819493d513ec",
+      "max_missing_per_col": 308,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 265,
+      "min_missing_per_row": 0,
+      "missing_count": 2025,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3832263242375602,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2bf214eea828cc83f5db4e024fafda84af81f26c114bb33356c124d1eff8a08f",
+      "max_missing_per_col": 310,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 232,
+      "min_missing_per_row": 0,
+      "missing_count": 1910,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39787319422150885,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "940c6b5c5442d8697475756e1de6fe34d6ee3a0edc8c7bc2cc80beb17b3f783a",
+      "max_missing_per_col": 301,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 252,
+      "min_missing_per_row": 0,
+      "missing_count": 1983,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40369181380417335,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e68af911606b645572c6c8297d6e7a3666f64c2748c98aadfac4b40797b55b33",
+      "max_missing_per_col": 296,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 268,
+      "min_missing_per_row": 0,
+      "missing_count": 2012,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3950642054574639,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f3f43cc58f6c703a2eae0370a8b7406bbf71e7e5dc4cacc8f0e2c22394e31422",
+      "max_missing_per_col": 306,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 269,
+      "min_missing_per_row": 0,
+      "missing_count": 1969,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40308988764044945,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "720cceea9fd4154e9c67945854ec5342176550ebe966fcf7e5ec3bf45530e78f",
+      "max_missing_per_col": 301,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 277,
+      "min_missing_per_row": 0,
+      "missing_count": 2009,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.391653290529695,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "44d90604dda7fa6cc664f6016abd1c1e36ecda887027405136ab1cf6d983844a",
+      "max_missing_per_col": 296,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 266,
+      "min_missing_per_row": 0,
+      "missing_count": 1952,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4105136436597111,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4c93a8e7af20b072197b2142652d47a52c7c9ade9559a76fe371485a2d16a535",
+      "max_missing_per_col": 306,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 282,
+      "min_missing_per_row": 0,
+      "missing_count": 2046,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39707062600321025,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "761c5016a8eb28b6763a7fff353bb4f96bbd527c8fcbe45c2b11fde3e78585cc",
+      "max_missing_per_col": 302,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 268,
+      "min_missing_per_row": 0,
+      "missing_count": 1979,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40068218298555375,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "defb50b8423da44791d95fd45831b0323d2efc4a822212cd5891a7b6fbebb5ec",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 266,
+      "min_missing_per_row": 0,
+      "missing_count": 1997,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39125200642054575,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4795450033f269eceb04873678897dff722e262dee54ef0cd7dab7568dbac859",
+      "max_missing_per_col": 294,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 253,
+      "min_missing_per_row": 0,
+      "missing_count": 1950,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39486356340288925,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "04e1a4f1e2cf5d1d625b769af7b2c8be9e7d05910ae556a8c57cef73ca451603",
+      "max_missing_per_col": 292,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 269,
+      "min_missing_per_row": 0,
+      "missing_count": 1968,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39586677367576245,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c1deb439436f90132a13c093e939d7d21e9723b78433e2a4c05ee32eb7bb729a",
+      "max_missing_per_col": 299,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 264,
+      "min_missing_per_row": 0,
+      "missing_count": 1973,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39185393258426965,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "46ed3d2f1f8d30f6a83f5d55f7c327ca9e44c807e0f74384d850da3ea56f0540",
+      "max_missing_per_col": 299,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 264,
+      "min_missing_per_row": 0,
+      "missing_count": 1953,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39686998394863565,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ad462cde68b34609043e6de07f2f600485c66cb98a6fa1a9b49eb1ab6bb7c406",
+      "max_missing_per_col": 291,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 277,
+      "min_missing_per_row": 0,
+      "missing_count": 1978,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3962680577849117,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ac5fa80921ab3d2eee001fbba0dc011f52b6156f6b255cab7729ed6b148739c9",
+      "max_missing_per_col": 294,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 260,
+      "min_missing_per_row": 0,
+      "missing_count": 1975,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3960674157303371,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "825489d5bbae307e7679ee5ffeaee9d2226ce3e257790b2238c26b87a3a05387",
+      "max_missing_per_col": 305,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 270,
+      "min_missing_per_row": 0,
+      "missing_count": 1974,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39325842696629215,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a7ae4209c28d332e86be15e7e552c8a152995884e89c7c7f247b368667247481",
+      "max_missing_per_col": 309,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 257,
+      "min_missing_per_row": 0,
+      "missing_count": 1960,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39847512038523275,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "657f459f8eba94d78545e411b67f84c608c08caff927a601bfc6c77b35c4e0f6",
+      "max_missing_per_col": 305,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 260,
+      "min_missing_per_row": 0,
+      "missing_count": 1986,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40008025682182985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8538df24730370bb8d3b7ab6b1436c044f96b601da865b84d1c964d8a9d66de1",
+      "max_missing_per_col": 301,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 265,
+      "min_missing_per_row": 0,
+      "missing_count": 1994,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39185393258426965,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ee8b55d24808f98ab1871ca1a93d4fc8dc8e3bb3cab4b0db8640f2fc419efabf",
+      "max_missing_per_col": 307,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 259,
+      "min_missing_per_row": 0,
+      "missing_count": 1953,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39847512038523275,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7200fd578f1d93bd16edab6e9c94435a74d0c7ad2f95ad764158ac3fd6bde96f",
+      "max_missing_per_col": 300,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 267,
+      "min_missing_per_row": 0,
+      "missing_count": 1986,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4081059390048154,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3dc99fcfd182c89def225af093f16aee285e316783e9f3f9f0f0670f1ae1c93b",
+      "max_missing_per_col": 301,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 277,
+      "min_missing_per_row": 0,
+      "missing_count": 2034,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39747191011235955,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6944fdb02e0a5e2b10f051b2c7abc3a0cb7b9f518a82d55633932dc2f4e510b5",
+      "max_missing_per_col": 295,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 273,
+      "min_missing_per_row": 0,
+      "missing_count": 1981,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.406099518459069,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "90f5434d4dca9932f827ec08d2996022cf2cec4816e3cd08a08e2fc288411000",
+      "max_missing_per_col": 312,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 276,
+      "min_missing_per_row": 0,
+      "missing_count": 2024,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3976725521669342,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "3e9b781068bbb0d203564de49bff54ee5dac93cdfd0ae08cb4c6cd7d4d7aa11c",
+      "max_missing_per_col": 297,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 255,
+      "min_missing_per_row": 0,
+      "missing_count": 1982,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4018860353130016,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "83c27c7fdc596f7750494fa7dd2b4737857bd8a6b125c5a0c4da2c082ae7e578",
+      "max_missing_per_col": 300,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 260,
+      "min_missing_per_row": 0,
+      "missing_count": 2003,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40048154093097915,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0e8ecbdbffde2a43965fa5b535f7b00928166f1986adfb888c15bf0b88a3c036",
+      "max_missing_per_col": 297,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 266,
+      "min_missing_per_row": 0,
+      "missing_count": 1996,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.38503210272873195,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "522ee8b79507dc4f8dda4a66757360b68e0d3569a28f54748db0be0fb79f8229",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 253,
+      "min_missing_per_row": 0,
+      "missing_count": 1919,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39486356340288925,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b48185fa9dda77d75133d222a4ce1d734f834072b2e3b3d9061da74e1f4eab8d",
+      "max_missing_per_col": 300,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 270,
+      "min_missing_per_row": 0,
+      "missing_count": 1968,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3962680577849117,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "06e16882665b659dd72472d455e093108032b2fd5c1c7d743a3d6cbd09b84d54",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 253,
+      "min_missing_per_row": 0,
+      "missing_count": 1975,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.41031300160513645,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a28c2cefd22f74e402ebd31c6b4b9cece909d38a75a0047841b1403b3fb24093",
+      "max_missing_per_col": 306,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 279,
+      "min_missing_per_row": 0,
+      "missing_count": 2045,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39125200642054575,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d100422924941b9ffcaf341eedb3a022d9b27605441b4a63ce00f43d69b274dd",
+      "max_missing_per_col": 291,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 264,
+      "min_missing_per_row": 0,
+      "missing_count": 1950,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4091091492776886,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b72f75418469e113ef00e3ec356770e084320438f0ed784f3dba5be1f23a972e",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 283,
+      "min_missing_per_row": 0,
+      "missing_count": 2039,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40509630818619585,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "97765a484bc22bf4f7e5bbe90919bdd6f56ec52be7d68af454ff5d6e759c59cf",
+      "max_missing_per_col": 300,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 276,
+      "min_missing_per_row": 0,
+      "missing_count": 2019,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4044943820224719,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "849617f5ad0b90424fac955bbaa06b4eddc01afd8b0c79d5ca2786eb2154511a",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 273,
+      "min_missing_per_row": 0,
+      "missing_count": 2016,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3936597110754414,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f1612c2b86398a02152e030a94bd9e063e01075d8fdab8ff8e77ec696d061e4a",
+      "max_missing_per_col": 295,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 258,
+      "min_missing_per_row": 0,
+      "missing_count": 1962,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3956661316211878,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5aea6c9127a5a864ccf3f93f83cd791a6af582856c9e70a96c6106592dda1d2d",
+      "max_missing_per_col": 294,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 267,
+      "min_missing_per_row": 0,
+      "missing_count": 1972,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39546548956661315,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a5f7ee96fc6965aeffccf2a71c46737e74e6a87c2c7c338e6f5cae682933063f",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 257,
+      "min_missing_per_row": 0,
+      "missing_count": 1971,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3976725521669342,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "205e92729cd63294e7745a4036a226cd6c01f5e8728c2291e147b51aefd11dbe",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 267,
+      "min_missing_per_row": 0,
+      "missing_count": 1982,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3926565008025682,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dfc35136c9acd2606b74150cf1ed848a615571a6d039b696aad1dcb74ea8e8fb",
+      "max_missing_per_col": 292,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 263,
+      "min_missing_per_row": 0,
+      "missing_count": 1957,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40008025682182985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4eb3bbc34ae280fd3b2668b9297f6383544939f35d7dfb0bd8071e3768644179",
+      "max_missing_per_col": 313,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 269,
+      "min_missing_per_row": 0,
+      "missing_count": 1994,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3940609951845907,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e1d209bb40ac476319c0c7abc1aaa1c8d680681910f6336267e0ed06d5016b87",
+      "max_missing_per_col": 300,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 266,
+      "min_missing_per_row": 0,
+      "missing_count": 1964,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4012841091492777,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5c23fd2a7b52250ae7285d65aca8c0267a3822466e278e4985c8c3a5d5090c59",
+      "max_missing_per_col": 298,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 257,
+      "min_missing_per_row": 0,
+      "missing_count": 2000,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3950642054574639,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fc081b123c8370a32bb28e6fd45c476e0925f22f716e8cb623bcddda92dd6d6c",
+      "max_missing_per_col": 308,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 260,
+      "min_missing_per_row": 0,
+      "missing_count": 1969,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.41653290529695025,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "68b6266dc91e8e9328c5b1df3d9ac592ae33e76cac07e5165d37e200353ecde4",
+      "max_missing_per_col": 317,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 272,
+      "min_missing_per_row": 0,
+      "missing_count": 2076,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4008828250401284,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "566c68f16c85b3435515e23edd631fd2e5cb1e31d82bd24be48023a4e7dcf868",
+      "max_missing_per_col": 291,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 279,
+      "min_missing_per_row": 0,
+      "missing_count": 1998,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39325842696629215,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "658002aa6e41ab1b89f94b04c4bb05b1c33039699b926292978b4c5344694aa5",
+      "max_missing_per_col": 297,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 266,
+      "min_missing_per_row": 0,
+      "missing_count": 1960,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3880417335473515,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "81c2f3fad62e0cf01cfb0cd778bc8a8c54206d537c2c41744b07f4ca5b550083",
+      "max_missing_per_col": 292,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 263,
+      "min_missing_per_row": 0,
+      "missing_count": 1934,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39446227929373995,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "59cf639cace6e7dc2be017f3c706582aee11d9c19aa36ef7e6418c93d7938983",
+      "max_missing_per_col": 298,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 262,
+      "min_missing_per_row": 0,
+      "missing_count": 1966,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.391653290529695,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "295bc7991162c4e77bcd45557bcfab5cfd231000011c369cf82bce1f7ecaa141",
+      "max_missing_per_col": 291,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 268,
+      "min_missing_per_row": 0,
+      "missing_count": 1952,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39586677367576245,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "64294c4ab9c98dc6739c5edda890e6c1e5101de69eff5f60b80628f5b4180770",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 252,
+      "min_missing_per_row": 0,
+      "missing_count": 1973,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39907704654895665,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1ace41cf0f12a6d7405c938fc77087d4ceb9cc82eb9921b955efb5ee8ecd09bd",
+      "max_missing_per_col": 301,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 258,
+      "min_missing_per_row": 0,
+      "missing_count": 1989,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3936597110754414,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a8323b16704c1bca8d36756bf84c97467661a0754e0069b184e9798d8cb0e14b",
+      "max_missing_per_col": 307,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 264,
+      "min_missing_per_row": 0,
+      "missing_count": 1962,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3976725521669342,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "591b1db0e5436211f2abff210917fcd69ec944a94f452fc2f8a8949baf9af675",
+      "max_missing_per_col": 307,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 250,
+      "min_missing_per_row": 0,
+      "missing_count": 1982,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3992776886035313,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0fd6f96b62ca9894250191ecdf252fd11c6c440fb2474cf5a21388e9d3e1e7fd",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 259,
+      "min_missing_per_row": 0,
+      "missing_count": 1990,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3952648475120385,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "13c4e64a487d81eefc27aa4ebf75a122ecc9ba94bb0d78ceba9609d6a9d05809",
+      "max_missing_per_col": 289,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 273,
+      "min_missing_per_row": 0,
+      "missing_count": 1970,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39285714285714285,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8a98fa53918af3f5e56bbdeafc50bbbf680712f7ef9c0eb7b3a8f574e53729a1",
+      "max_missing_per_col": 308,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 261,
+      "min_missing_per_row": 0,
+      "missing_count": 1958,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3998796147672552,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0069aed1ea42f23d35effa5b3d949884f8ccc96481e5c6b29a377d4ca21f5497",
+      "max_missing_per_col": 299,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 272,
+      "min_missing_per_row": 0,
+      "missing_count": 1993,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3982744783306581,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bf94fa2ce35156cbe6f7d4a8d0a4340cadb05d0dbf5e38b1de75db8195af36bf",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 269,
+      "min_missing_per_row": 0,
+      "missing_count": 1985,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.3960674157303371,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ccc3671071210e7f35d60bcee08f1ae67bb8179fe466174e5890bab2327d3a5b",
+      "max_missing_per_col": 289,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 269,
+      "min_missing_per_row": 0,
+      "missing_count": 1974,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.4081059390048154,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a1dabacbfe03fa7aa9350e8220434dfc98f35f8dfd1fe94f2b09e3013c21ef2f",
+      "max_missing_per_col": 299,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 285,
+      "min_missing_per_row": 0,
+      "missing_count": 2034,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.391653290529695,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1130269501e329a46027e35555808ea6010268b8c4b72f3adbe4bce967d98f05",
+      "max_missing_per_col": 304,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 270,
+      "min_missing_per_row": 0,
+      "missing_count": 1952,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40168539325842695,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "deec30f7164ad0ae43d8228064691327dcb7b491b4c056f7ba02776cb0b78bb5",
+      "max_missing_per_col": 310,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 260,
+      "min_missing_per_row": 0,
+      "missing_count": 2002,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40830658105939005,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a339f7280282e08eeeb0d341cd22f04c181bffe65dbaf264d5676e7f96d90e26",
+      "max_missing_per_col": 309,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 270,
+      "min_missing_per_row": 0,
+      "missing_count": 2035,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40008025682182985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0f37200dc160aabb141e16126fd3002791d0aebe773f42ddb2071c2d5112323a",
+      "max_missing_per_col": 301,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 269,
+      "min_missing_per_row": 0,
+      "missing_count": 1994,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39847512038523275,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e7ae643037a1fcd34a3a9d715ae533c201ec421fd3c42bffe64d824886dd7e85",
+      "max_missing_per_col": 303,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 254,
+      "min_missing_per_row": 0,
+      "missing_count": 1986,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39686998394863565,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "8cc692f9f298480fe9e911b89670f276b91a94351ebc9e7e86c9f3802bdc2ebf",
+      "max_missing_per_col": 296,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 266,
+      "min_missing_per_row": 0,
+      "missing_count": 1978,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40168539325842695,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "eb5bffd0d4b65ae445379cde1b0efe13a86a784260db8b40b581c440c4c1508f",
+      "max_missing_per_col": 298,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 276,
+      "min_missing_per_row": 0,
+      "missing_count": 2002,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.39446227929373995,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2afa0d4494886c9b847fa1149e13fb4ae3d290f0bb6a674b733ec9c04da8a4e1",
+      "max_missing_per_col": 299,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 249,
+      "min_missing_per_row": 0,
+      "missing_count": 1966,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        712,
+        7
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_40",
+      "dataset_id": "Titanic",
+      "dataset_sha256": "34f193382599881f91c20e4c8efdc9de84001f14689aee2b1cc8f85d32d2299b",
+      "effective_rate": 0.40168539325842695,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "63d7b0c37d7640e47f2d4a59b4a89227a3daf05a63debbeebb81300709f58695",
+      "max_missing_per_col": 305,
+      "max_missing_per_row": 6,
+      "min_missing_per_col": 263,
+      "min_missing_per_row": 0,
+      "missing_count": 2002,
+      "parameters": {
+        "beta": null,
+        "prop": 0.4
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        712,
+        7
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1966 @@
+{
+  "base_seed": 42,
+  "condition": {
+    "generator": "uniform_mcar",
+    "id": "mcar_50",
+    "kind": "mcar",
+    "prop": 0.5
+  },
+  "dataset_id": "Penguins",
+  "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+  "mask_bundle_file": "Penguins__mcar_50__masks.npz",
+  "mask_bundle_sha256": "9a8adcf53633fd5893487e216bd8540729e577d602b5f72b31cf962ec01a67b0",
+  "n_reps": 75,
+  "records": [
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4894894894894895,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fa87779a3c706b156d74a7b6bb89b5f56b006cdfa36841a802717a444ce68cbd",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 0,
+      "missing_count": 652,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 0,
+      "row_all_missing": false,
+      "seed": 42,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4774774774774775,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7b46c523399176c14ba630d0019c585631a407f208e36bc9642d896670d94f93",
+      "max_missing_per_col": 176,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 0,
+      "missing_count": 636,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 1,
+      "row_all_missing": false,
+      "seed": 43,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.503003003003003,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "88d94586ce0c7fd0d07e2310ee1158c768a1ff8320f867edb75c93cc0ca71f1b",
+      "max_missing_per_col": 179,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 160,
+      "min_missing_per_row": 0,
+      "missing_count": 670,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 2,
+      "row_all_missing": false,
+      "seed": 44,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48573573573573575,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d2b33da2f199bb9b22807f944372b78995187378e88b150ff2bbb76f75db6523",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 0,
+      "missing_count": 647,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 3,
+      "row_all_missing": false,
+      "seed": 45,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49774774774774777,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ca2359364216a9b31cbff0012a849401415f79b48ad3a6d3cb2332535aa810cb",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 0,
+      "missing_count": 663,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 4,
+      "row_all_missing": false,
+      "seed": 46,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.46321321321321324,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d73a2921686ddafe978c2db46de3b138a49ddb7a151094b6962d96188c0e8b61",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 0,
+      "missing_count": 617,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 5,
+      "row_all_missing": false,
+      "seed": 47,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5007507507507507,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9c9a9e4f936e0ac1bf59b0ed1945b77ce67f084e3c8b6a252615614a6c5a43c9",
+      "max_missing_per_col": 177,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 157,
+      "min_missing_per_row": 0,
+      "missing_count": 667,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 6,
+      "row_all_missing": false,
+      "seed": 48,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.484984984984985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "60119b6f79e0152dc740a0714444191595ad485dc96d6d817e915c6afa1cdb69",
+      "max_missing_per_col": 170,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 0,
+      "missing_count": 646,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 7,
+      "row_all_missing": false,
+      "seed": 49,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48348348348348347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "50d111e0c2357c62492a371e302c99c0b069b0e6b7b6f85bf367915ae0127046",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 0,
+      "missing_count": 644,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 8,
+      "row_all_missing": false,
+      "seed": 50,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5015015015015015,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "694e1b11c372eb20a194df3d049d5e0817a55c346ce844fe949a55cfaaeb972b",
+      "max_missing_per_col": 179,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 0,
+      "missing_count": 668,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 9,
+      "row_all_missing": false,
+      "seed": 51,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.487987987987988,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a7a320138cffdc70eb3edd20411b1308f138601003bb0f5cfd93e94a474daff6",
+      "max_missing_per_col": 170,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 0,
+      "missing_count": 650,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 10,
+      "row_all_missing": false,
+      "seed": 52,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4864864864864865,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ba747030edd33c7531f337008e2c531d16c1c0aa3adf6e36be01d8a3201fdffd",
+      "max_missing_per_col": 180,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 0,
+      "missing_count": 648,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 11,
+      "row_all_missing": false,
+      "seed": 53,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4894894894894895,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "193f804ac787344f6c4554b58b382f6837a58d7eeff5867d08616f2e73dc59ea",
+      "max_missing_per_col": 174,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 0,
+      "missing_count": 652,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 12,
+      "row_all_missing": false,
+      "seed": 54,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4767267267267267,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d2c0e359f454850e6760557784f46e30f07a46ea14ad2d57ba7f2a6cf4e31fa6",
+      "max_missing_per_col": 173,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 0,
+      "missing_count": 635,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 13,
+      "row_all_missing": false,
+      "seed": 55,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4804804804804805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d90ec6ddd35f76ab0e62e759b523d7428e1a8368b7e75c6e888a51081d6108ed",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 0,
+      "missing_count": 640,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 14,
+      "row_all_missing": false,
+      "seed": 56,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47147147147147145,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5ff8069de6fa4543f0ccc78585b1eeb0bcda1756497110c3351ecd33a828f921",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 0,
+      "missing_count": 628,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 15,
+      "row_all_missing": false,
+      "seed": 57,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47297297297297297,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fb5016fad06304c53ca3b760edb2fdfa319c246ed0ab9e0c63da34f6a8a297ea",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 0,
+      "missing_count": 630,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 16,
+      "row_all_missing": false,
+      "seed": 58,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4864864864864865,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "386e13ec02fb34984982d700e0e9192282ab68564bb13562140ef0b1242ae174",
+      "max_missing_per_col": 174,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 0,
+      "missing_count": 648,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 17,
+      "row_all_missing": false,
+      "seed": 59,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2649e4880e64e3764b712fd92e56793bc5ede0d989ff308b0f80c7c315efe2d4",
+      "max_missing_per_col": 182,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 0,
+      "missing_count": 666,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 18,
+      "row_all_missing": false,
+      "seed": 60,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49024024024024027,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1f0be81c8cd268aace21b9e524f8ac3c594cbfeade0bc63f41d389adaa0d2644",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 0,
+      "missing_count": 653,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 19,
+      "row_all_missing": false,
+      "seed": 61,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4804804804804805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "37b5b00daaba83cba083c1770db23891e8fc5421314d5d43a007e0249089a73f",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 143,
+      "min_missing_per_row": 0,
+      "missing_count": 640,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 20,
+      "row_all_missing": false,
+      "seed": 62,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47597597597597596,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "67c7ab0c73edb31fed96cba5fd93e435afa1e608bec5dff56d13a5b6f46d3956",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 0,
+      "missing_count": 634,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 21,
+      "row_all_missing": false,
+      "seed": 63,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47897897897897895,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a87ac25a3d34e5b5c98fa787c5c5e4233dba178f2ef0f7a5a616ef31b26d3371",
+      "max_missing_per_col": 170,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 0,
+      "missing_count": 638,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 22,
+      "row_all_missing": false,
+      "seed": 64,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47897897897897895,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c19e03a830ebf675d626736b947b18acff8f609fc0e0ed238c5211b015d2eac3",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 0,
+      "missing_count": 638,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 23,
+      "row_all_missing": false,
+      "seed": 65,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48348348348348347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "548cc552dd1c7ae2042143d32c252bdf54d0e6ce819fff716535101e2015e197",
+      "max_missing_per_col": 178,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 0,
+      "missing_count": 644,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 24,
+      "row_all_missing": false,
+      "seed": 66,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.493993993993994,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e1804892232dc5bc92c5407d85b51f85fa0e2c6ebe8273a7d65dbeb165fd24ff",
+      "max_missing_per_col": 173,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 0,
+      "missing_count": 658,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 25,
+      "row_all_missing": false,
+      "seed": 67,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5045045045045045,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6b2dc240f5973c51973097dfece052c3bcddcf4352a87431ed1d23c7c95a9626",
+      "max_missing_per_col": 178,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 0,
+      "missing_count": 672,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 26,
+      "row_all_missing": false,
+      "seed": 68,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4647147147147147,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fe6ae1aef31b43410012f93033c9e6f4bfa320d7311f564515ee09102d7ed58a",
+      "max_missing_per_col": 174,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 0,
+      "missing_count": 619,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 27,
+      "row_all_missing": false,
+      "seed": 69,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.496996996996997,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f034997c42c624e484c186f2aa87619772d539faecf8d0e145374e0724a10221",
+      "max_missing_per_col": 175,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 0,
+      "missing_count": 662,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 28,
+      "row_all_missing": false,
+      "seed": 70,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47597597597597596,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "25d0a0e234dc1d68f3fc3d1b3c38b248a8ac42e891e01953243d7bed1b68137a",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 0,
+      "missing_count": 634,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 29,
+      "row_all_missing": false,
+      "seed": 71,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48348348348348347,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "e41495938d211c93585c58e9d0e1adf16f7551258dc7bde785613257e7754530",
+      "max_missing_per_col": 176,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 0,
+      "missing_count": 644,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 30,
+      "row_all_missing": false,
+      "seed": 72,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.484984984984985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "d8e481652db72e211ad6d6ea1d6b3585b05d4bb4a4d408208c4625f39dff52ab",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 0,
+      "missing_count": 646,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 31,
+      "row_all_missing": false,
+      "seed": 73,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47147147147147145,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9247a121815b918171b6fc8d78b019723de4f68415785faafe923ae1a1f9ffc0",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 145,
+      "min_missing_per_row": 0,
+      "missing_count": 628,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 32,
+      "row_all_missing": false,
+      "seed": 74,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4872372372372372,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0143ac208b4eb25fa257ce91d0f8419e654b844cb2e9c45e12454ce2e43dcdf3",
+      "max_missing_per_col": 174,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 0,
+      "missing_count": 649,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 33,
+      "row_all_missing": false,
+      "seed": 75,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4797297297297297,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f003dcabd63630a89c7727f3deff92af4beb4310e9e687ccfbd4b0cd3a74918b",
+      "max_missing_per_col": 179,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 0,
+      "missing_count": 639,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 34,
+      "row_all_missing": false,
+      "seed": 76,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.484984984984985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4e5abe10b5dbb115a9ffb184c9a835237fa7fc181a36bc7e4bb5efbeea240a0c",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 0,
+      "missing_count": 646,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 35,
+      "row_all_missing": false,
+      "seed": 77,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4722222222222222,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ae0cf8094da37bbbc66fbd83227ea7fdd3ba26855c8d63aa82831cb7dcdb62bf",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 0,
+      "missing_count": 629,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 36,
+      "row_all_missing": false,
+      "seed": 78,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48423423423423423,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ff4174ce3bb6087322439072277905f74434f62070deaede6c930c82999ea4a1",
+      "max_missing_per_col": 169,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 0,
+      "missing_count": 645,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 37,
+      "row_all_missing": false,
+      "seed": 79,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.509009009009009,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "73e615d0a911956b351b7dfdb3e4f5337fd8426991a451c8a2959702f851b8f3",
+      "max_missing_per_col": 178,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 162,
+      "min_missing_per_row": 0,
+      "missing_count": 678,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 38,
+      "row_all_missing": false,
+      "seed": 80,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.503003003003003,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c41440b4042827a0d3d4116d3a53b376e183fde8fe499d7ada3f25d991028eab",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 162,
+      "min_missing_per_row": 0,
+      "missing_count": 670,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 39,
+      "row_all_missing": false,
+      "seed": 81,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.481981981981982,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "70681d0775ffe97274bff8f254a5cade035bb28aa6b2cb5c4e93043ecb3e50a1",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 0,
+      "missing_count": 642,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 40,
+      "row_all_missing": false,
+      "seed": 82,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5022522522522522,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "584f678c4f6183e81b2a0a69e3568728dd7ca9f6c6007f335fcf58944e852793",
+      "max_missing_per_col": 181,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 157,
+      "min_missing_per_row": 0,
+      "missing_count": 669,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 41,
+      "row_all_missing": false,
+      "seed": 83,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4804804804804805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f0b0e250a11232048ce385f74611d2dcb3102b788088e13abf53c12050e46334",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 0,
+      "missing_count": 640,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 42,
+      "row_all_missing": false,
+      "seed": 84,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4444444444444444,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c4ce8ea061eaef7f99152f98948010f9a4fa6c531f397059cb8661c929fea98d",
+      "max_missing_per_col": 158,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 142,
+      "min_missing_per_row": 0,
+      "missing_count": 592,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 43,
+      "row_all_missing": false,
+      "seed": 85,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48873873873873874,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bbfa96d544e0c81ef9e4005bb1b24d3934f6154f3cdb85a11d28dc798570d33e",
+      "max_missing_per_col": 173,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 0,
+      "missing_count": 651,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 44,
+      "row_all_missing": false,
+      "seed": 86,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.493993993993994,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "c8d63799b0380a442c6730f6c60ca4760b786d98adeb78bfc6653ac0c9be6bcf",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 159,
+      "min_missing_per_row": 0,
+      "missing_count": 658,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 45,
+      "row_all_missing": false,
+      "seed": 87,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47147147147147145,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "cc596f17ec57967f067dfb565a666317e74023132c1d549133ab43c9b7150339",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 0,
+      "missing_count": 628,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 46,
+      "row_all_missing": false,
+      "seed": 88,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4804804804804805,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "b2a082cc994033b2672a254bd198c1d9581691540ab600019613919fd3dffe8e",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 0,
+      "missing_count": 640,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 47,
+      "row_all_missing": false,
+      "seed": 89,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.484984984984985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "376b6f4e7bc8d081cfbd0296f8aa4b2bc90f8a13a315b02b950014f2538acb18",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 0,
+      "missing_count": 646,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 48,
+      "row_all_missing": false,
+      "seed": 90,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5097597597597597,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6326eb396e68b864ad2f344b4ef4ce40ff9b4b4c9e705dcadecb4a00e5fa65ec",
+      "max_missing_per_col": 183,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 162,
+      "min_missing_per_row": 0,
+      "missing_count": 679,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 49,
+      "row_all_missing": false,
+      "seed": 91,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4947447447447447,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "6e298807e2fc9215b70c7b7efd653345a3a49a580b2d445994db9a7290bfcf38",
+      "max_missing_per_col": 173,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 0,
+      "missing_count": 659,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 50,
+      "row_all_missing": false,
+      "seed": 92,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.46996996996997,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "4cca855fab549b76e13981acc640caa6f6e424ee9dad013a60faafa0602e982f",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 142,
+      "min_missing_per_row": 0,
+      "missing_count": 626,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 51,
+      "row_all_missing": false,
+      "seed": 93,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.466966966966967,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bd2ac99286d47a52e6c71f2b17d792f0b0829620ec948b41640d3d93a10d5cc1",
+      "max_missing_per_col": 162,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 0,
+      "missing_count": 622,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 52,
+      "row_all_missing": false,
+      "seed": 94,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49174174174174173,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "06d76d63a30c70df4e8316767ffa8a16db8261507a965a2f316204798949c375",
+      "max_missing_per_col": 176,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 153,
+      "min_missing_per_row": 0,
+      "missing_count": 655,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 53,
+      "row_all_missing": false,
+      "seed": 95,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4722222222222222,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "dc21f7fea91c4352d0f736a73f8009e48718109bf890d1ba8e653fda7508c18a",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 0,
+      "missing_count": 629,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 54,
+      "row_all_missing": false,
+      "seed": 96,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4797297297297297,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "0e4d8b0cbd2b39367bc97c023b4855a42c409727e59392727c3291b552be1a29",
+      "max_missing_per_col": 177,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 0,
+      "missing_count": 639,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 55,
+      "row_all_missing": false,
+      "seed": 97,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4984984984984985,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "fc7915aa20410a0cfaff364ec3b96073a26775f73d53a27341aecd648120a5bf",
+      "max_missing_per_col": 186,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 0,
+      "missing_count": 664,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 56,
+      "row_all_missing": false,
+      "seed": 98,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.466966966966967,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f6d9da51e0918f1eb59a7016d1984c67a4fb9601726f9d6a6a58e1c1b2e8fae3",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 151,
+      "min_missing_per_row": 0,
+      "missing_count": 622,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 57,
+      "row_all_missing": false,
+      "seed": 99,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.45495495495495497,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ac68c00195c5ba17dc25aece0682fbf809e609b38d7ae3c91110400547c87ade",
+      "max_missing_per_col": 155,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 148,
+      "min_missing_per_row": 0,
+      "missing_count": 606,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 58,
+      "row_all_missing": false,
+      "seed": 100,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.5180180180180181,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "439f8781008eb179a6bea58feece524f17905c9f6fd00236028833d8d45ef482",
+      "max_missing_per_col": 175,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 166,
+      "min_missing_per_row": 0,
+      "missing_count": 690,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 59,
+      "row_all_missing": false,
+      "seed": 101,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4722222222222222,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "65afb5806efaa562929dfa4ac9961b5734ccc08f558dd69eb5e0f6086aa84744",
+      "max_missing_per_col": 163,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 143,
+      "min_missing_per_row": 0,
+      "missing_count": 629,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 60,
+      "row_all_missing": false,
+      "seed": 102,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.46996996996997,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "f234e2f927c1c746269768f4f0304dbfcd6edf629ef2ae0e78f846d170fb58ee",
+      "max_missing_per_col": 164,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 150,
+      "min_missing_per_row": 0,
+      "missing_count": 626,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 61,
+      "row_all_missing": false,
+      "seed": 103,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4827327327327327,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9428f451c13b90e792126086899fbd582782baa6470c0e91e0807067db5d05bf",
+      "max_missing_per_col": 176,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 147,
+      "min_missing_per_row": 0,
+      "missing_count": 643,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 62,
+      "row_all_missing": false,
+      "seed": 104,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49024024024024027,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "ab0914f36c9effc48574a29fe12550f75e4c8ac3c4e96232f4b931ecc076afb7",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 146,
+      "min_missing_per_row": 0,
+      "missing_count": 653,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 63,
+      "row_all_missing": false,
+      "seed": 105,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48123123123123124,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "a39f87b1d2722264c118fef0849d3da6e1ffdb1dc8a81f226caeff0c722d7b05",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 141,
+      "min_missing_per_row": 0,
+      "missing_count": 641,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 64,
+      "row_all_missing": false,
+      "seed": 106,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49024024024024027,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7fef76eda0cb05d9bade9ee35861afb6806e1afd5ed6d0d807ab3105ff5b1c23",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 155,
+      "min_missing_per_row": 0,
+      "missing_count": 653,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 65,
+      "row_all_missing": false,
+      "seed": 107,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49624624624624625,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "9b09c7836f211c504d813996dfcac37b8f405375e1404d7e7933ea91cd631ce7",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 158,
+      "min_missing_per_row": 0,
+      "missing_count": 661,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 66,
+      "row_all_missing": false,
+      "seed": 108,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48573573573573575,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "199113f274da6c67ec9d66cfa050a3ae278d0316beb0541d0922461fdfefecf6",
+      "max_missing_per_col": 168,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 156,
+      "min_missing_per_row": 0,
+      "missing_count": 647,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 67,
+      "row_all_missing": false,
+      "seed": 109,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49624624624624625,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "1f1413e4f739266f91f89d8cc45d777b6dcf0a1d2fca7dad9bf44d1366e31aac",
+      "max_missing_per_col": 175,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 159,
+      "min_missing_per_row": 0,
+      "missing_count": 661,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 68,
+      "row_all_missing": false,
+      "seed": 110,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.48573573573573575,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "28113298419616d3a6e14a0f8043586e3ca2e8410723b52665c9649f7d55664d",
+      "max_missing_per_col": 177,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 149,
+      "min_missing_per_row": 0,
+      "missing_count": 647,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 69,
+      "row_all_missing": false,
+      "seed": 111,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4947447447447447,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "2b646ebeef48a822272d490f72fee051cbc9114e79a05cf551e7f51cf6bd56c7",
+      "max_missing_per_col": 172,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 158,
+      "min_missing_per_row": 0,
+      "missing_count": 659,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 70,
+      "row_all_missing": false,
+      "seed": 112,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.47897897897897895,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "bb6dbc37afb7345cf17f5ce3683fc5a9b2712f774059362d2c4c67b1144dc18d",
+      "max_missing_per_col": 165,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 154,
+      "min_missing_per_row": 0,
+      "missing_count": 638,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 71,
+      "row_all_missing": false,
+      "seed": 113,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4827327327327327,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "7ce371e8956b6fd5c3c6fc1e4c1e09c7a2933886d079faec25dbc4f41abe9d30",
+      "max_missing_per_col": 173,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 137,
+      "min_missing_per_row": 0,
+      "missing_count": 643,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 72,
+      "row_all_missing": false,
+      "seed": 114,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.4797297297297297,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "188af93d06f339949619cb80b83cc418d2db5c6c7ddac19a63b632fef1ad345e",
+      "max_missing_per_col": 167,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 152,
+      "min_missing_per_row": 0,
+      "missing_count": 639,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 73,
+      "row_all_missing": false,
+      "seed": 115,
+      "shape": [
+        333,
+        4
+      ]
+    },
+    {
+      "col_all_missing": false,
+      "condition_id": "mcar_50",
+      "dataset_id": "Penguins",
+      "dataset_sha256": "db495aeb3a5cef6b0b810e517468b7103f6a928582a3a01c4a1545217a8436f3",
+      "effective_rate": 0.49174174174174173,
+      "generator_name": "uniform_mcar",
+      "generator_version": "1.0",
+      "mask_sha256": "5652d945b117b0e32de034064e9e961a89e4e545e9c449a0e96dae798ecbd44c",
+      "max_missing_per_col": 171,
+      "max_missing_per_row": 3,
+      "min_missing_per_col": 158,
+      "min_missing_per_row": 0,
+      "missing_count": 655,
+      "parameters": {
+        "beta": null,
+        "prop": 0.5
+      },
+      "replicate": 74,
+      "row_all_missing": false,
+      "seed": 116,
+      "shape": [
+        333,
+        4
+      ]
+    }
+  ]
+}

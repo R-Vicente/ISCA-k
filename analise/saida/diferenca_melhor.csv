@@ -1,0 +1,97 @@
+dataset,condition,diferenca_percent,melhor_dos_outros
+Abalone,blockwise_20,-0.7769598280883971,k-NN
+Abalone,mar_20,1.464225435267985,missForest
+Abalone,mcar_05,7.240811102085409,MICE
+Abalone,mcar_10,5.575195446686143,missForest
+Abalone,mcar_20,3.597096066877814,missForest
+Abalone,mcar_30,7.002805361792674,missForest
+Abalone,mcar_40,12.426228538547935,k-NN
+Abalone,mcar_50,15.420380525640098,k-NN
+Auto MPG,blockwise_20,-2.7773296921440926,k-NN
+Auto MPG,mar_20,4.194765204265272,missForest
+Auto MPG,mcar_05,9.95215012591184,missForest
+Auto MPG,mcar_10,8.984003569634357,missForest
+Auto MPG,mcar_20,4.639503304567416,missForest
+Auto MPG,mcar_30,1.6404208351226357,missForest
+Auto MPG,mcar_40,-1.9880931759150844,missForest
+Auto MPG,mcar_50,-3.978665341981147,missForest
+Breast Cancer,blockwise_20,-3.462191311681151,SoftImpute
+Breast Cancer,mar_20,16.2721665519147,MICE
+Breast Cancer,mcar_05,44.39601725374369,MICE
+Breast Cancer,mcar_10,41.95026942525553,MICE
+Breast Cancer,mcar_20,25.715027211251893,MICE
+Breast Cancer,mcar_30,21.981730677574717,MICE
+Breast Cancer,mcar_40,16.25925734750584,SoftImpute
+Breast Cancer,mcar_50,15.242928851426596,SoftImpute
+California Housing,blockwise_20,5.433477028546907,k-NN
+California Housing,mar_20,42.112577742753096,k-NN
+California Housing,mcar_05,5.811986433322747,k-NN
+California Housing,mcar_10,8.938225926510523,k-NN
+California Housing,mcar_20,9.523120796611284,k-NN
+California Housing,mcar_30,8.823863919836473,k-NN
+California Housing,mcar_40,6.435658205949957,k-NN
+California Housing,mcar_50,6.399925453487043,SoftImpute
+Diabetes,blockwise_20,8.29907066311868,MICE
+Diabetes,mar_20,13.162877188113153,MICE
+Diabetes,mcar_05,23.703638625503775,MICE
+Diabetes,mcar_10,20.28097282644079,MICE
+Diabetes,mcar_20,15.400830139237609,MICE
+Diabetes,mcar_30,8.948288798522764,MICE
+Diabetes,mcar_40,5.075496420655745,SoftImpute
+Diabetes,mcar_50,5.491799154681409,SoftImpute
+Heart Disease,blockwise_20,3.210180760513537,MICE
+Heart Disease,mar_20,2.8361429331793975,MICE
+Heart Disease,mcar_05,5.206092786807837,MICE
+Heart Disease,mcar_10,3.958197555005083,MICE
+Heart Disease,mcar_20,2.3801410366686593,MICE
+Heart Disease,mcar_30,1.7562543977732048,SoftImpute
+Heart Disease,mcar_40,2.589563228886238,SoftImpute
+Heart Disease,mcar_50,3.674427201226571,SoftImpute
+Heart Failure,blockwise_20,3.601393010892795,SoftImpute
+Heart Failure,mar_20,2.8772079849667787,SoftImpute
+Heart Failure,mcar_05,3.579790235661351,SoftImpute
+Heart Failure,mcar_10,4.2105660923924315,SoftImpute
+Heart Failure,mcar_20,3.1600823839550873,SoftImpute
+Heart Failure,mcar_30,3.4335949199457705,SoftImpute
+Heart Failure,mcar_40,3.962321303140026,SoftImpute
+Heart Failure,mcar_50,4.142565679368504,SoftImpute
+Ionosphere,blockwise_20,2.5174870458664067,missForest
+Ionosphere,mar_20,3.933292315817649,missForest
+Ionosphere,mcar_05,2.009215168312317,missForest
+Ionosphere,mcar_10,2.4044726007864003,missForest
+Ionosphere,mcar_20,1.8216544290611703,missForest
+Ionosphere,mcar_30,0.6923179575014426,missForest
+Ionosphere,mcar_40,-1.170618459789674,missForest
+Ionosphere,mcar_50,-3.578154919972565,missForest
+Iris,blockwise_20,-5.390464108273485,k-NN
+Iris,mar_20,-8.539535361802187,k-NN
+Iris,mcar_05,-8.543403228265555,MICE
+Iris,mcar_10,-6.3629763818483625,missForest
+Iris,mcar_20,-5.53957925922024,MICE
+Iris,mcar_30,-4.906750165024965,MICE
+Iris,mcar_40,-2.585616021293935,MICE
+Iris,mcar_50,-2.66377031096372,MICE
+Penguins,blockwise_20,-0.10736159671942413,k-NN
+Penguins,mar_20,-2.2146765114953837,k-NN
+Penguins,mcar_05,3.012752209537184,k-NN
+Penguins,mcar_10,1.862577508440788,k-NN
+Penguins,mcar_20,-0.5267417779346473,k-NN
+Penguins,mcar_30,0.18314795076666002,k-NN
+Penguins,mcar_40,-2.0677791775317145,k-NN
+Penguins,mcar_50,-3.179704864470523,k-NN
+Titanic,blockwise_20,-1.3381101226669578,k-NN
+Titanic,mar_20,-3.036249796536583,k-NN
+Titanic,mcar_05,4.502166314778666,missForest
+Titanic,mcar_10,0.8039375382411063,missForest
+Titanic,mcar_20,-1.9342400681088168,missForest
+Titanic,mcar_30,-2.6087687561030637,k-NN
+Titanic,mcar_40,-1.2157350740359618,SoftImpute
+Titanic,mcar_50,0.9011613594634316,SoftImpute
+Wine,blockwise_20,-0.5523341168756524,k-NN
+Wine,mar_20,-4.31290169662546,missForest
+Wine,mcar_05,0.15029359385156926,missForest
+Wine,mcar_10,0.21548721782727043,missForest
+Wine,mcar_20,-0.6463749209740244,missForest
+Wine,mcar_30,-3.4927485113583456,missForest
+Wine,mcar_40,-4.938564826022896,SoftImpute
+Wine,mcar_50,-3.0126252799912767,SoftImpute
