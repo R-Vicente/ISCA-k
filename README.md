@@ -1,5 +1,7 @@
 # ISCA-k: Instance-based Similarity and Contextual Adaptation
 
+[![DOI](https://zenodo.org/badge/1434701897.svg)](https://doi.org/10.5281/zenodo.23672166)
+
 Este repositório reúne o necessário para repetir os resultados da dissertação de mestrado em Análise de Dados e Sistemas de Apoio à Decisão (Coimbra Business School | ISCAC, 2026), *ISCA-k: um método adaptativo de imputação por vizinhos mais próximos para dados mistos*. O ISCA-k (Instance-based Similarity and Contextual Adaptation, com k vizinhos) é um método de imputação por vizinhos mais próximos para dados mistos, em que a semelhança entre instâncias se ajusta ao contexto de cada célula a imputar.
 
 O repositório inclui:
@@ -10,9 +12,6 @@ O repositório inclui:
 - os scripts que geram as tabelas e figuras do capítulo de resultados.
 
 Autor: Ricardo Vicente. Orientação: Francisco Antunes.
-
-[![DOI](https://zenodo.org/badge/1434701897.svg)]
-(https://doi.org/10.5281/zenodo.23672166)
 
 ## Estrutura
 
