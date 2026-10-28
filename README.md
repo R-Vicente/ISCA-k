@@ -178,7 +178,7 @@ Os tempos dependem do equipamento. As medições da dissertação foram feitas e
 
 ## Como citar
 
-Vicente, R. (2026). *ISCA-k: um método adaptativo de imputação por vizinhos mais próximos para dados mistos* (Dissertação de mestrado em Análise de Dados e Sistemas de Apoio à Decisão, Coimbra Business School | ISCAC). Repositório Científico de Acesso Aberto de Portugal. [link a acrescentar]
+Vicente, R. (2026). *ISCA-k: um método adaptativo de imputação por vizinhos mais próximos para dados mistos* (Dissertação de mestrado em Análise de Dados e Sistemas de Apoio à Decisão, Coimbra Business School | ISCAC). Repositório Científico de Acesso Aberto de Portugal. [10.5281/zenodo.23727110]
 
 ## Licença
 
